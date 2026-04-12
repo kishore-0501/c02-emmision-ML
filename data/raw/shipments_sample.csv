@@ -1,0 +1,2001 @@
+supplier_name,transport_mode,weight_tons,distance_km,origin_region,destination_region,product_category,co2_emission,high_emission_risk
+UrbanMove Transport,road,0.99,861.34,Limerick,Galway,Furniture,133.01,Medium
+TerraLogix,road,12.01,143.76,Cork,Limerick,Food,256.68,Medium
+NorthSea Global,air,4.8,1788.33,Dublin,Galway,Furniture,5838.2,High
+NorthSea Global,rail,2.49,1170.79,London,London,Pharma,91.03,Low
+GreenRail Freight,road,19.48,1166.68,Belfast,London,Pharma,3222.43,High
+UrbanMove Transport,sea,15.57,2956.4,Limerick,Cork,Machinery,375.46,High
+SkyBridge Cargo,sea,7.72,668.05,Belfast,Cork,Pharma,47.62,Low
+NorthSea Global,sea,9.51,846.35,Limerick,London,Electronics,64.18,Low
+SkyBridge Cargo,air,5.72,672.4,London,Limerick,Furniture,2675.99,High
+UrbanMove Transport,air,3.29,461.91,Belfast,Paris,Pharma,1018.52,High
+NorthSea Global,air,2.27,188.99,Cork,Galway,Furniture,277.32,Medium
+TerraLogix,road,8.0,1807.87,Berlin,Belfast,Pharma,2223.29,High
+UrbanMove Transport,road,13.79,1634.06,Belfast,London,Electronics,3358.41,High
+EcoRoute Ltd,rail,19.45,2297.79,Cork,Belfast,Furniture,1236.39,High
+SkyBridge Cargo,sea,11.02,2346.95,Dublin,London,Machinery,193.56,Medium
+SkyBridge Cargo,sea,1.63,2640.13,Cork,Cork,Furniture,33.46,Low
+TerraLogix,sea,3.0,1452.08,Galway,Belfast,Pharma,36.53,Low
+NorthSea Global,sea,14.4,1227.03,London,Berlin,Pharma,145.69,Medium
+EcoRoute Ltd,rail,0.91,1684.07,Limerick,Dublin,Electronics,45.33,Low
+EcoRoute Ltd,road,17.26,259.03,Limerick,Belfast,Furniture,658.68,High
+UrbanMove Transport,air,5.24,1445.27,Paris,Limerick,Electronics,5191.46,High
+GreenRail Freight,air,9.61,2200.77,Cork,Dublin,Machinery,15251.7,High
+EcoRoute Ltd,sea,4.24,1632.04,Galway,Paris,Food,54.95,Low
+EcoRoute Ltd,air,16.26,2575.1,Cork,Dublin,Furniture,29850.97,High
+EcoRoute Ltd,sea,3.74,1482.64,Limerick,Paris,Electronics,40.74,Low
+GreenRail Freight,rail,18.57,2366.13,Belfast,Paris,Furniture,1563.46,High
+TerraLogix,air,3.52,925.29,Dublin,Dublin,Furniture,1937.28,High
+GreenRail Freight,sea,1.61,1548.09,Galway,Cork,Pharma,20.76,Low
+GreenRail Freight,road,18.86,1730.54,Dublin,Cork,Machinery,5151.81,High
+SkyBridge Cargo,rail,4.48,2162.77,Limerick,Belfast,Machinery,289.17,Medium
+GreenRail Freight,rail,18.62,2810.42,Dublin,Berlin,Pharma,1816.68,High
+EcoRoute Ltd,sea,10.36,440.75,London,Cork,Food,39.65,Low
+TerraLogix,rail,12.43,2962.34,Dublin,Belfast,Furniture,1136.87,High
+SkyBridge Cargo,road,17.85,2240.13,Galway,Belfast,Clothing,6230.48,High
+NorthSea Global,rail,10.36,790.81,Dublin,Cork,Furniture,259.33,Medium
+EcoRoute Ltd,rail,15.54,1929.48,Belfast,Galway,Furniture,902.79,High
+TerraLogix,road,2.68,2837.9,Galway,Dublin,Clothing,1179.17,High
+NorthSea Global,road,6.51,2702.0,Dublin,London,Food,2638.39,High
+SkyBridge Cargo,air,19.49,2260.96,Limerick,Galway,Food,28250.2,High
+UrbanMove Transport,rail,15.76,1264.55,Limerick,Belfast,Food,632.92,High
+EcoRoute Ltd,air,4.84,2458.93,Berlin,London,Clothing,9133.35,High
+NorthSea Global,road,13.37,1225.47,Belfast,Cork,Clothing,2549.46,High
+UrbanMove Transport,rail,18.82,390.26,Belfast,Galway,Pharma,239.67,Medium
+EcoRoute Ltd,air,7.24,2369.96,Paris,Cork,Machinery,11822.29,High
+EcoRoute Ltd,air,0.53,2780.45,Limerick,London,Machinery,888.84,High
+SkyBridge Cargo,rail,13.44,417.64,Belfast,Belfast,Furniture,166.66,Medium
+SkyBridge Cargo,sea,4.24,2011.54,Paris,Galway,Pharma,70.11,Low
+EcoRoute Ltd,rail,6.09,1318.17,London,Berlin,Machinery,255.9,Medium
+GreenRail Freight,sea,13.35,887.17,London,Cork,Food,100.68,Medium
+NorthSea Global,sea,0.98,772.29,Berlin,Cork,Machinery,5.84,Low
+NorthSea Global,air,10.14,769.75,Dublin,Cork,Machinery,5359.96,High
+UrbanMove Transport,air,1.48,785.13,Cork,Berlin,Food,828.89,High
+TerraLogix,rail,19.03,2679.71,Paris,Berlin,Food,1608.3,High
+SkyBridge Cargo,sea,16.88,868.07,Berlin,Limerick,Clothing,128.46,Medium
+NorthSea Global,rail,7.05,2684.43,Cork,Galway,Food,614.24,High
+UrbanMove Transport,sea,1.75,1252.42,Berlin,Paris,Electronics,18.3,Low
+TerraLogix,road,17.21,2308.5,Paris,Berlin,Electronics,6272.61,High
+GreenRail Freight,air,11.0,2217.17,Limerick,Berlin,Food,15831.97,High
+GreenRail Freight,rail,13.54,2404.52,Galway,Berlin,Food,1118.55,High
+GreenRail Freight,road,2.14,1314.41,Berlin,Galway,Electronics,440.38,High
+GreenRail Freight,rail,7.08,2644.94,Belfast,Paris,Clothing,603.72,High
+UrbanMove Transport,road,20.0,1082.38,Cork,Dublin,Electronics,3488.54,High
+EcoRoute Ltd,sea,5.15,1447.01,Cork,Limerick,Machinery,63.01,Low
+NorthSea Global,road,15.67,533.11,Belfast,Cork,Pharma,1125.46,High
+UrbanMove Transport,air,8.23,2159.29,Cork,Limerick,Electronics,12689.51,High
+UrbanMove Transport,road,16.03,1719.5,Dublin,London,Pharma,4518.99,High
+TerraLogix,rail,0.75,1289.17,Berlin,Cork,Machinery,32.9,Low
+GreenRail Freight,sea,8.99,2214.7,Belfast,Berlin,Machinery,177.87,Medium
+SkyBridge Cargo,rail,17.11,2500.66,Cork,Belfast,Machinery,1316.31,High
+TerraLogix,air,7.06,1508.2,London,Galway,Machinery,6964.55,High
+SkyBridge Cargo,rail,17.67,2118.49,Belfast,Dublin,Pharma,1221.61,High
+UrbanMove Transport,air,10.03,2286.59,Berlin,Berlin,Machinery,16766.6,High
+NorthSea Global,air,13.99,953.31,London,Berlin,Pharma,9060.33,High
+UrbanMove Transport,rail,7.36,1388.55,Belfast,Belfast,Food,318.18,High
+EcoRoute Ltd,sea,4.24,2228.88,Belfast,Belfast,Electronics,71.57,Low
+SkyBridge Cargo,sea,6.39,2138.65,Galway,Belfast,Electronics,128.03,Medium
+UrbanMove Transport,sea,12.94,2270.74,Cork,Dublin,Pharma,239.65,Medium
+SkyBridge Cargo,sea,19.33,794.81,Berlin,Cork,Electronics,119.6,Medium
+UrbanMove Transport,road,3.46,2442.87,Belfast,Cork,Food,1299.17,High
+TerraLogix,sea,15.63,1172.12,Berlin,Belfast,Pharma,147.01,Medium
+TerraLogix,road,12.39,2233.26,Limerick,Limerick,Clothing,4253.17,High
+NorthSea Global,road,3.55,1255.13,Berlin,Belfast,Electronics,701.52,High
+UrbanMove Transport,air,1.89,738.6,Belfast,Limerick,Machinery,940.05,High
+NorthSea Global,rail,16.62,260.66,Galway,Belfast,Pharma,139.2,Medium
+SkyBridge Cargo,air,2.92,2081.6,Paris,Belfast,Pharma,3987.58,High
+TerraLogix,road,17.84,2216.88,Belfast,Dublin,Electronics,5948.58,High
+TerraLogix,road,19.99,2033.23,Belfast,Dublin,Food,6760.37,High
+SkyBridge Cargo,sea,19.94,1335.86,Berlin,Cork,Machinery,218.49,Medium
+UrbanMove Transport,road,17.23,1022.92,Berlin,Belfast,Furniture,2988.07,High
+TerraLogix,road,9.37,977.83,London,Cork,Machinery,1609.33,High
+EcoRoute Ltd,air,8.56,603.37,London,Berlin,Furniture,3345.2,High
+SkyBridge Cargo,sea,18.59,1342.44,Berlin,Cork,Electronics,236.57,Medium
+NorthSea Global,sea,6.56,90.34,Paris,Cork,Food,5.41,Low
+GreenRail Freight,road,13.13,504.21,Belfast,Belfast,Machinery,1134.56,High
+NorthSea Global,air,11.25,1181.58,Galway,Cork,Clothing,9629.6,High
+SkyBridge Cargo,rail,16.5,884.38,Belfast,Berlin,Food,423.53,High
+SkyBridge Cargo,air,9.38,999.24,Limerick,Limerick,Pharma,6621.74,High
+GreenRail Freight,road,6.7,1445.28,Paris,Paris,Furniture,1636.26,High
+NorthSea Global,air,19.31,422.43,London,Cork,Machinery,5476.58,High
+EcoRoute Ltd,sea,8.49,1981.6,Galway,Cork,Machinery,141.94,Medium
+TerraLogix,air,13.17,2562.71,Paris,London,Furniture,22896.07,High
+TerraLogix,road,12.54,742.57,Belfast,Limerick,Furniture,1420.96,High
+UrbanMove Transport,road,9.15,2097.3,Dublin,Dublin,Clothing,3036.04,High
+SkyBridge Cargo,air,3.34,1616.94,Galway,Galway,Food,3457.77,High
+TerraLogix,sea,10.2,1770.31,Limerick,Berlin,Furniture,141.3,Medium
+EcoRoute Ltd,air,18.07,2048.95,Galway,Cork,Machinery,28827.33,High
+SkyBridge Cargo,air,13.96,1397.67,Belfast,Limerick,Machinery,14618.01,High
+GreenRail Freight,rail,11.71,2978.44,Belfast,Dublin,Furniture,1034.52,High
+UrbanMove Transport,road,18.26,2248.26,Belfast,Limerick,Pharma,6631.18,High
+NorthSea Global,rail,13.72,2176.74,Galway,Cork,Furniture,938.41,High
+GreenRail Freight,road,11.8,2210.46,Cork,Belfast,Clothing,3735.83,High
+NorthSea Global,rail,10.85,2744.79,Galway,Belfast,Machinery,979.63,High
+SkyBridge Cargo,road,9.63,272.13,Limerick,Paris,Pharma,418.69,High
+EcoRoute Ltd,rail,10.96,1391.62,Belfast,Paris,Furniture,546.55,High
+NorthSea Global,air,0.99,2658.49,London,Limerick,Furniture,1724.48,High
+UrbanMove Transport,rail,13.16,394.19,Dublin,Dublin,Clothing,170.49,Medium
+NorthSea Global,sea,8.08,1144.48,Paris,Galway,Machinery,82.2,Low
+TerraLogix,air,18.81,875.23,London,Limerick,Machinery,10210.63,High
+SkyBridge Cargo,road,19.63,1133.64,London,Dublin,Machinery,3753.14,High
+GreenRail Freight,road,13.42,1943.03,Dublin,Dublin,Clothing,3943.4,High
+TerraLogix,sea,1.84,2307.21,Limerick,Limerick,Food,34.81,Low
+TerraLogix,road,5.91,2952.88,Galway,Belfast,Food,2576.21,High
+NorthSea Global,road,7.49,2375.87,London,Dublin,Food,2786.88,High
+GreenRail Freight,road,15.04,1454.93,London,Cork,Machinery,3385.29,High
+EcoRoute Ltd,rail,9.43,2893.88,Dublin,Berlin,Machinery,839.07,High
+UrbanMove Transport,air,1.93,288.33,Galway,Cork,Food,412.37,High
+TerraLogix,rail,7.93,1812.31,Belfast,Berlin,Pharma,418.83,High
+UrbanMove Transport,road,17.13,1970.2,Limerick,Paris,Machinery,5425.45,High
+GreenRail Freight,air,8.61,330.5,Paris,London,Furniture,1973.99,High
+UrbanMove Transport,air,1.81,2503.73,Cork,Paris,Electronics,3087.57,High
+NorthSea Global,road,11.94,1706.68,London,Cork,Machinery,2961.37,High
+GreenRail Freight,road,19.38,1821.21,London,Cork,Pharma,5380.14,High
+GreenRail Freight,sea,17.02,1082.84,London,Cork,Clothing,153.91,Medium
+TerraLogix,road,12.38,1990.6,Belfast,Dublin,Food,3948.09,High
+SkyBridge Cargo,rail,0.62,2616.09,Paris,Cork,Food,53.37,Low
+EcoRoute Ltd,sea,7.84,1388.26,Galway,London,Clothing,104.0,Medium
+TerraLogix,road,17.73,508.96,Dublin,Cork,Clothing,1345.76,High
+TerraLogix,air,8.58,685.93,Cork,London,Machinery,3801.13,High
+TerraLogix,air,10.78,959.84,Limerick,Paris,Pharma,6669.73,High
+NorthSea Global,sea,15.4,903.87,Cork,Dublin,Machinery,110.15,Medium
+GreenRail Freight,sea,10.26,2508.39,London,Cork,Machinery,218.92,Medium
+EcoRoute Ltd,air,18.46,2593.22,Paris,Paris,Furniture,34641.81,High
+GreenRail Freight,road,19.34,557.03,Berlin,London,Electronics,1481.0,High
+GreenRail Freight,air,10.72,1217.51,Belfast,London,Food,8463.99,High
+TerraLogix,road,10.85,622.02,London,London,Furniture,1165.78,High
+NorthSea Global,sea,2.5,805.11,Galway,Galway,Furniture,17.26,Low
+UrbanMove Transport,air,9.55,1713.02,Berlin,London,Furniture,10143.36,High
+GreenRail Freight,air,12.81,2399.17,Dublin,London,Pharma,18280.45,High
+EcoRoute Ltd,road,7.69,896.88,Cork,Paris,Machinery,1180.31,High
+UrbanMove Transport,road,9.27,2438.96,Limerick,London,Pharma,3467.69,High
+EcoRoute Ltd,air,2.52,2702.42,London,Cork,Pharma,4570.62,High
+UrbanMove Transport,air,19.82,1596.0,Galway,London,Clothing,23002.61,High
+SkyBridge Cargo,road,15.89,1959.55,Cork,London,Electronics,4729.61,High
+SkyBridge Cargo,sea,7.0,1769.08,Galway,London,Clothing,114.73,Medium
+GreenRail Freight,sea,12.1,2817.11,Belfast,Paris,Furniture,312.77,High
+UrbanMove Transport,road,13.1,1299.05,London,Dublin,Clothing,2641.89,High
+SkyBridge Cargo,air,4.24,2999.93,Galway,Cork,Clothing,9504.93,High
+TerraLogix,road,13.41,2635.36,Galway,Paris,Food,5607.95,High
+TerraLogix,sea,14.56,178.89,London,Limerick,Machinery,21.61,Low
+GreenRail Freight,sea,10.91,962.93,Berlin,Limerick,Clothing,94.05,Low
+GreenRail Freight,air,15.5,2345.47,Paris,Galway,Food,23763.92,High
+SkyBridge Cargo,road,13.0,2628.64,Cork,Cork,Clothing,5074.76,High
+GreenRail Freight,sea,16.71,320.56,Limerick,Berlin,Clothing,49.9,Low
+GreenRail Freight,rail,5.1,2983.85,London,Limerick,Electronics,428.09,High
+UrbanMove Transport,rail,15.93,455.92,Belfast,Berlin,Furniture,257.17,Medium
+GreenRail Freight,air,12.5,2722.28,Dublin,Belfast,Food,24961.57,High
+UrbanMove Transport,air,2.67,899.9,Belfast,Cork,Electronics,1665.76,High
+TerraLogix,air,1.72,2518.23,Berlin,Dublin,Furniture,3149.47,High
+NorthSea Global,rail,8.87,1863.69,Limerick,Paris,Food,503.75,High
+SkyBridge Cargo,road,19.09,1655.04,Dublin,Paris,Machinery,4411.51,High
+SkyBridge Cargo,rail,15.07,1103.43,Cork,London,Food,527.25,High
+TerraLogix,rail,3.1,1089.28,London,Galway,Furniture,103.97,Medium
+UrbanMove Transport,sea,16.32,236.15,Berlin,Dublin,Clothing,31.83,Low
+EcoRoute Ltd,rail,18.7,1570.38,Berlin,Belfast,Electronics,943.1,High
+SkyBridge Cargo,road,17.38,1029.18,Cork,London,Machinery,3094.49,High
+GreenRail Freight,rail,19.49,1513.8,Berlin,London,Pharma,894.56,High
+GreenRail Freight,road,8.9,2985.54,Galway,Belfast,Clothing,3873.7,High
+SkyBridge Cargo,rail,9.2,2167.11,Galway,Berlin,Clothing,682.19,High
+SkyBridge Cargo,air,5.85,2941.08,Dublin,Cork,Furniture,11662.25,High
+UrbanMove Transport,sea,19.08,471.2,Berlin,Dublin,Food,82.68,Low
+SkyBridge Cargo,rail,7.97,1723.37,Galway,Berlin,Clothing,449.69,High
+TerraLogix,sea,10.82,1224.2,Belfast,Limerick,Electronics,95.58,Low
+TerraLogix,air,18.31,397.39,Belfast,Berlin,Food,4954.02,High
+GreenRail Freight,sea,2.89,2565.84,Berlin,Galway,Furniture,60.52,Low
+UrbanMove Transport,rail,13.52,2143.14,Belfast,Belfast,Food,975.04,High
+UrbanMove Transport,sea,15.98,1550.83,Cork,Limerick,Food,207.22,Medium
+SkyBridge Cargo,rail,9.61,2949.89,Galway,Cork,Electronics,935.26,High
+UrbanMove Transport,air,10.75,2319.04,Cork,Galway,Clothing,17226.95,High
+UrbanMove Transport,rail,3.0,2495.71,Galway,Galway,Machinery,235.9,Medium
+EcoRoute Ltd,sea,6.43,527.8,Limerick,London,Pharma,29.24,Low
+SkyBridge Cargo,sea,12.88,1674.98,Galway,Belfast,Pharma,178.41,Medium
+NorthSea Global,sea,3.84,1892.21,London,Dublin,Electronics,62.58,Low
+TerraLogix,rail,13.2,2312.53,Paris,Dublin,Machinery,1031.67,High
+UrbanMove Transport,rail,9.92,2423.83,Paris,Belfast,Machinery,632.0,High
+GreenRail Freight,air,9.94,651.87,Galway,London,Furniture,4570.04,High
+SkyBridge Cargo,air,3.05,1143.09,Cork,London,Food,2353.76,High
+NorthSea Global,sea,2.39,906.13,Paris,Paris,Food,19.51,Low
+SkyBridge Cargo,rail,4.2,520.06,Berlin,Berlin,Clothing,66.29,Low
+GreenRail Freight,air,19.35,684.68,London,Dublin,Electronics,8874.75,High
+UrbanMove Transport,air,6.07,74.12,Cork,Paris,Food,315.65,High
+GreenRail Freight,rail,1.38,200.92,Limerick,London,Pharma,8.51,Low
+GreenRail Freight,rail,16.59,1888.56,Cork,Galway,Electronics,1029.31,High
+SkyBridge Cargo,rail,15.22,637.22,Paris,Dublin,Electronics,307.35,High
+GreenRail Freight,air,3.4,2684.74,Galway,London,Pharma,6311.02,High
+TerraLogix,rail,12.08,1546.58,Berlin,Belfast,Machinery,568.75,High
+UrbanMove Transport,road,19.61,1771.92,Dublin,Berlin,Clothing,5783.47,High
+TerraLogix,sea,14.57,1771.39,Galway,Paris,Food,226.17,Medium
+TerraLogix,road,4.22,1351.06,Paris,Galway,Machinery,936.65,High
+TerraLogix,air,17.52,2220.72,Dublin,Galway,Pharma,25605.69,High
+UrbanMove Transport,air,10.75,975.57,Galway,Berlin,Pharma,8200.4,High
+UrbanMove Transport,rail,12.4,617.18,Limerick,Belfast,Pharma,251.75,Medium
+SkyBridge Cargo,rail,14.25,2086.21,Berlin,London,Machinery,1009.56,High
+UrbanMove Transport,rail,6.11,1741.76,Paris,Paris,Clothing,384.67,High
+SkyBridge Cargo,road,6.11,2156.72,London,Berlin,Furniture,2062.56,High
+NorthSea Global,rail,18.69,2103.71,Galway,Cork,Pharma,1228.46,High
+EcoRoute Ltd,sea,12.94,204.85,Paris,London,Furniture,23.43,Low
+NorthSea Global,road,19.31,2934.84,Galway,Paris,Furniture,9556.99,High
+GreenRail Freight,sea,15.24,897.37,Belfast,Dublin,Electronics,112.84,Medium
+UrbanMove Transport,road,18.31,566.44,Galway,Dublin,Machinery,1608.27,High
+UrbanMove Transport,rail,17.6,77.34,Cork,London,Clothing,43.43,Low
+TerraLogix,air,17.84,445.89,Berlin,Belfast,Food,6173.03,High
+UrbanMove Transport,air,13.14,2169.86,Dublin,London,Clothing,18476.8,High
+NorthSea Global,air,16.63,1570.08,Cork,Paris,Furniture,18224.68,High
+GreenRail Freight,rail,18.75,70.15,Paris,Limerick,Machinery,41.91,Low
+SkyBridge Cargo,road,5.6,1110.68,Limerick,Dublin,Furniture,884.24,High
+GreenRail Freight,rail,13.96,1934.2,Belfast,London,Pharma,900.46,High
+GreenRail Freight,sea,9.37,2967.07,London,Paris,Furniture,235.33,Medium
+TerraLogix,sea,15.36,2057.01,Cork,Berlin,Pharma,247.48,Medium
+TerraLogix,road,1.7,1665.57,Limerick,Galway,Food,420.76,High
+EcoRoute Ltd,sea,14.48,1492.04,Berlin,Dublin,Machinery,176.12,Medium
+TerraLogix,road,11.4,2034.66,Belfast,Dublin,Machinery,3209.04,High
+NorthSea Global,road,1.38,1066.36,Cork,Dublin,Electronics,250.05,Medium
+SkyBridge Cargo,air,4.01,449.52,Paris,London,Machinery,1279.08,High
+GreenRail Freight,air,2.06,2894.23,Galway,London,Electronics,3769.24,High
+TerraLogix,sea,14.69,706.94,Dublin,Dublin,Clothing,97.76,Low
+GreenRail Freight,air,16.56,780.16,London,Galway,Clothing,9025.79,High
+EcoRoute Ltd,road,16.28,1286.76,Dublin,Limerick,Food,2805.29,High
+GreenRail Freight,road,5.27,180.5,Berlin,Limerick,Pharma,150.65,Medium
+EcoRoute Ltd,sea,10.33,903.33,London,London,Food,70.77,Low
+UrbanMove Transport,sea,8.56,861.7,Galway,Paris,Pharma,67.61,Low
+UrbanMove Transport,air,15.82,990.27,Paris,Paris,Food,9629.33,High
+TerraLogix,air,5.2,714.77,Galway,Berlin,Electronics,2676.13,High
+TerraLogix,sea,8.07,802.24,London,Cork,Machinery,55.99,Low
+UrbanMove Transport,sea,1.5,1162.65,Dublin,Cork,Food,16.06,Low
+UrbanMove Transport,sea,9.85,2614.95,London,Belfast,Electronics,188.09,Medium
+UrbanMove Transport,road,15.06,2275.28,Limerick,Limerick,Machinery,5674.17,High
+SkyBridge Cargo,air,9.59,1963.73,Belfast,Belfast,Clothing,12590.28,High
+EcoRoute Ltd,air,15.35,994.69,Limerick,London,Clothing,10040.5,High
+NorthSea Global,sea,0.82,1682.27,Paris,Belfast,Food,11.73,Low
+TerraLogix,sea,10.24,1981.09,London,Belfast,Machinery,188.2,Medium
+GreenRail Freight,air,3.78,2395.18,Galway,Galway,Furniture,5642.92,High
+TerraLogix,road,10.72,2525.25,Cork,Dublin,Electronics,4552.65,High
+NorthSea Global,road,14.29,76.97,Berlin,London,Electronics,196.99,Medium
+TerraLogix,air,13.36,96.41,Paris,Dublin,Electronics,905.26,High
+SkyBridge Cargo,road,10.29,2108.68,Paris,Galway,Electronics,3390.96,High
+NorthSea Global,sea,12.59,794.63,London,Belfast,Machinery,80.86,Low
+GreenRail Freight,sea,19.81,716.28,Cork,Dublin,Electronics,123.25,Medium
+GreenRail Freight,road,12.92,2123.39,Cork,Berlin,Machinery,4189.59,High
+EcoRoute Ltd,road,4.98,2708.76,Berlin,Belfast,Electronics,2347.43,High
+SkyBridge Cargo,road,4.0,2558.76,Dublin,Limerick,Pharma,1641.08,High
+GreenRail Freight,road,6.34,1713.68,Paris,London,Machinery,1632.1,High
+UrbanMove Transport,road,10.27,2924.25,Dublin,Cork,Machinery,4327.03,High
+TerraLogix,air,19.39,1012.81,Belfast,Berlin,Machinery,10882.18,High
+GreenRail Freight,air,4.12,1778.33,Paris,Cork,Pharma,4477.64,High
+EcoRoute Ltd,road,5.73,1171.0,Galway,Paris,Clothing,977.75,High
+SkyBridge Cargo,air,7.52,845.81,Galway,Cork,Food,4068.1,High
+TerraLogix,air,2.51,314.38,Cork,London,Machinery,537.66,High
+EcoRoute Ltd,sea,11.65,550.27,Paris,Galway,Food,47.1,Low
+NorthSea Global,road,3.76,864.09,Belfast,Berlin,Electronics,514.8,High
+UrbanMove Transport,air,12.08,626.87,Cork,Galway,Clothing,4776.56,High
+TerraLogix,air,16.18,1022.15,London,Paris,Furniture,12381.01,High
+SkyBridge Cargo,sea,9.84,574.03,Paris,London,Clothing,46.56,Low
+TerraLogix,sea,6.85,876.89,Paris,London,Electronics,54.74,Low
+TerraLogix,sea,13.79,1672.79,Berlin,Limerick,Machinery,209.62,Medium
+EcoRoute Ltd,air,13.62,460.58,Belfast,Limerick,Clothing,4284.55,High
+GreenRail Freight,road,9.26,1813.9,Paris,Paris,Pharma,2649.87,High
+UrbanMove Transport,road,2.63,782.28,London,Galway,Furniture,334.89,High
+UrbanMove Transport,air,19.35,1028.21,Paris,Cork,Electronics,12019.25,High
+UrbanMove Transport,sea,9.19,1203.85,Galway,London,Electronics,91.03,Low
+EcoRoute Ltd,road,16.71,2203.94,London,Belfast,Clothing,5478.09,High
+GreenRail Freight,rail,9.79,1342.59,Berlin,London,Electronics,417.8,High
+EcoRoute Ltd,road,17.06,1961.51,Galway,Limerick,Pharma,5005.37,High
+TerraLogix,air,19.19,733.97,Paris,Galway,Food,10470.91,High
+EcoRoute Ltd,sea,9.27,1317.18,Dublin,Limerick,Food,95.42,Low
+EcoRoute Ltd,road,16.09,1633.82,London,London,Food,4432.66,High
+GreenRail Freight,rail,12.14,1853.36,Cork,London,Clothing,688.52,High
+UrbanMove Transport,rail,18.41,1791.0,Galway,London,Electronics,950.89,High
+SkyBridge Cargo,sea,10.46,1283.81,Galway,Paris,Machinery,112.4,Medium
+UrbanMove Transport,sea,11.32,1494.44,Galway,Galway,Clothing,153.12,Medium
+SkyBridge Cargo,road,9.95,625.63,Paris,Berlin,Machinery,969.34,High
+GreenRail Freight,air,3.76,1717.92,Limerick,Belfast,Electronics,4239.34,High
+NorthSea Global,air,11.53,2329.02,Berlin,Cork,Pharma,17383.75,High
+SkyBridge Cargo,road,15.32,1352.03,Limerick,Paris,Electronics,3341.12,High
+NorthSea Global,rail,17.56,145.08,Belfast,London,Electronics,87.05,Low
+NorthSea Global,sea,16.31,1784.38,London,Paris,Food,260.53,Medium
+NorthSea Global,road,11.62,1620.23,Galway,London,Furniture,2801.61,High
+TerraLogix,road,3.14,2262.78,Paris,Dublin,Clothing,1180.56,High
+NorthSea Global,sea,3.35,1000.19,Limerick,Paris,Machinery,27.48,Low
+UrbanMove Transport,air,7.82,272.77,Cork,Paris,Pharma,1597.83,High
+SkyBridge Cargo,air,19.03,1015.5,Dublin,Cork,Furniture,14708.61,High
+UrbanMove Transport,rail,17.08,2397.25,Paris,Limerick,Machinery,1300.2,High
+SkyBridge Cargo,rail,7.09,1754.9,Berlin,London,Furniture,376.92,High
+UrbanMove Transport,air,0.82,2791.83,Galway,Berlin,Machinery,1575.97,High
+NorthSea Global,sea,17.7,940.5,Belfast,Cork,Furniture,134.98,Medium
+UrbanMove Transport,sea,1.51,1895.53,Limerick,Paris,Furniture,21.61,Low
+NorthSea Global,air,2.02,1801.35,Berlin,Dublin,Electronics,2656.9,High
+GreenRail Freight,sea,9.82,725.39,Cork,Cork,Electronics,64.26,Low
+NorthSea Global,air,15.58,2271.82,Galway,Galway,Electronics,22318.13,High
+UrbanMove Transport,sea,9.08,2181.17,Galway,Paris,Pharma,181.95,Medium
+EcoRoute Ltd,road,3.23,413.31,Paris,London,Machinery,194.74,Medium
+SkyBridge Cargo,road,5.34,1822.95,Belfast,Dublin,Furniture,1551.43,High
+TerraLogix,sea,15.08,921.85,Dublin,Limerick,Machinery,117.81,Medium
+UrbanMove Transport,road,10.8,2934.21,London,London,Food,5286.2,High
+GreenRail Freight,rail,11.15,559.67,Berlin,Cork,Electronics,196.42,Medium
+NorthSea Global,road,18.49,2848.61,Paris,Belfast,Furniture,9319.92,High
+GreenRail Freight,air,2.11,1632.87,Galway,Belfast,Electronics,2292.53,High
+NorthSea Global,sea,10.96,1202.66,Cork,Belfast,Furniture,118.71,Medium
+NorthSea Global,road,5.27,2777.65,Cork,Berlin,Pharma,2261.6,High
+UrbanMove Transport,sea,2.83,2138.31,Dublin,Galway,Machinery,55.15,Low
+UrbanMove Transport,rail,3.76,424.45,Belfast,Cork,Electronics,48.4,Low
+TerraLogix,road,5.63,2926.4,Cork,Berlin,Machinery,2488.47,High
+TerraLogix,sea,7.67,802.59,Cork,Cork,Food,52.17,Low
+EcoRoute Ltd,sea,1.4,1123.73,Galway,Galway,Electronics,13.4,Low
+UrbanMove Transport,air,4.88,782.38,London,Belfast,Electronics,2786.66,High
+UrbanMove Transport,road,4.0,2422.8,Dublin,Paris,Electronics,1601.71,High
+SkyBridge Cargo,rail,2.18,1397.4,London,Limerick,Clothing,89.33,Low
+TerraLogix,sea,9.55,1795.49,Berlin,Limerick,Furniture,164.77,Medium
+NorthSea Global,sea,0.62,1259.61,Limerick,London,Furniture,7.42,Low
+SkyBridge Cargo,road,15.3,1160.01,Belfast,Cork,Food,2813.34,High
+GreenRail Freight,road,19.46,470.0,Belfast,Cork,Electronics,1638.59,High
+TerraLogix,air,14.17,1148.85,Cork,Cork,Pharma,10875.72,High
+EcoRoute Ltd,road,8.98,2894.44,Limerick,Belfast,Clothing,4328.53,High
+GreenRail Freight,rail,6.7,852.27,Cork,Limerick,Food,189.7,Medium
+NorthSea Global,road,3.71,1424.86,Paris,Cork,Pharma,812.62,High
+GreenRail Freight,rail,9.54,2564.82,Cork,Galway,Furniture,801.36,High
+TerraLogix,road,4.69,2576.89,Galway,Cork,Furniture,1792.71,High
+TerraLogix,road,13.71,817.49,Galway,Dublin,Machinery,1799.7,High
+TerraLogix,sea,2.35,350.63,Galway,Cork,Electronics,6.57,Low
+NorthSea Global,sea,4.36,1231.72,Cork,Belfast,Electronics,40.9,Low
+UrbanMove Transport,air,16.28,321.34,London,Cork,Electronics,3524.52,High
+TerraLogix,air,16.52,1215.25,Dublin,Paris,Furniture,12813.78,High
+NorthSea Global,rail,5.96,2656.1,Dublin,Limerick,Furniture,485.21,High
+TerraLogix,air,1.69,875.34,Galway,Paris,Food,1076.0,High
+NorthSea Global,road,19.79,2356.65,London,Berlin,Pharma,7347.17,High
+TerraLogix,rail,8.07,580.46,London,Limerick,Electronics,157.55,Medium
+EcoRoute Ltd,air,10.82,2312.18,Limerick,Galway,Electronics,16185.98,High
+TerraLogix,road,15.4,2846.02,Paris,London,Food,6169.06,High
+UrbanMove Transport,rail,18.32,133.21,London,Galway,Pharma,79.78,Low
+GreenRail Freight,rail,3.92,161.99,Dublin,Limerick,Pharma,18.56,Low
+EcoRoute Ltd,rail,18.4,644.32,Galway,London,Furniture,363.79,High
+SkyBridge Cargo,road,0.93,1780.5,Galway,Cork,Pharma,292.17,Medium
+SkyBridge Cargo,air,11.93,1042.86,London,Galway,Food,9322.18,High
+UrbanMove Transport,air,13.16,563.9,London,Limerick,Furniture,5161.75,High
+SkyBridge Cargo,rail,2.98,2200.05,Paris,Dublin,Food,217.64,Medium
+TerraLogix,sea,12.97,357.13,Berlin,Galway,Clothing,39.16,Low
+SkyBridge Cargo,sea,12.91,2891.08,London,Berlin,Electronics,279.82,Medium
+EcoRoute Ltd,rail,5.5,368.7,Dublin,Dublin,Machinery,62.73,Low
+NorthSea Global,air,10.12,1167.2,Paris,Cork,Machinery,8366.98,High
+UrbanMove Transport,sea,3.67,267.44,Dublin,Belfast,Electronics,8.55,Low
+EcoRoute Ltd,rail,3.82,1157.6,Cork,Cork,Clothing,137.53,Medium
+GreenRail Freight,road,8.91,1978.22,Paris,Galway,Electronics,2601.65,High
+NorthSea Global,air,14.1,2180.01,Belfast,Belfast,Clothing,20740.66,High
+TerraLogix,air,3.5,1114.45,Paris,Cork,Clothing,2813.65,High
+GreenRail Freight,sea,2.39,660.51,Belfast,Cork,Machinery,13.9,Low
+GreenRail Freight,air,10.04,2000.07,Cork,Paris,Food,13733.62,High
+NorthSea Global,air,1.37,1347.23,Belfast,Limerick,Clothing,1200.59,High
+UrbanMove Transport,road,2.17,1064.18,Paris,Limerick,Pharma,340.3,High
+TerraLogix,air,19.33,2076.85,Berlin,Limerick,Machinery,26324.64,High
+UrbanMove Transport,road,10.29,2706.34,Galway,Cork,Machinery,4416.22,High
+NorthSea Global,sea,2.96,1298.96,Paris,Limerick,Furniture,29.78,Low
+SkyBridge Cargo,road,2.2,1691.27,London,Belfast,Pharma,606.82,High
+UrbanMove Transport,air,2.69,491.44,Cork,Cork,Pharma,989.93,High
+TerraLogix,rail,17.62,829.2,Berlin,Berlin,Electronics,465.65,High
+TerraLogix,air,1.26,2674.24,London,Limerick,Electronics,2596.55,High
+SkyBridge Cargo,road,7.09,2391.27,Belfast,Belfast,Machinery,3141.5,High
+NorthSea Global,sea,6.36,2243.98,London,Belfast,Furniture,115.96,Medium
+NorthSea Global,air,4.62,2480.71,Berlin,London,Electronics,7882.03,High
+SkyBridge Cargo,air,3.15,2561.32,Dublin,Galway,Food,5673.71,High
+EcoRoute Ltd,sea,1.14,199.15,London,Limerick,Clothing,2.06,Low
+GreenRail Freight,road,13.78,763.72,Berlin,Berlin,Food,1701.67,High
+TerraLogix,rail,7.21,2521.08,Belfast,Cork,Clothing,484.63,High
+TerraLogix,sea,17.21,1959.77,Limerick,Belfast,Furniture,257.23,Medium
+UrbanMove Transport,road,9.74,440.33,Galway,Dublin,Food,604.41,High
+SkyBridge Cargo,rail,8.76,1160.6,London,Berlin,Clothing,292.69,Medium
+TerraLogix,air,11.9,71.68,London,Belfast,Clothing,576.02,High
+SkyBridge Cargo,rail,12.99,2591.4,Belfast,Belfast,Food,1042.91,High
+EcoRoute Ltd,air,13.38,2058.23,Dublin,Berlin,Clothing,18291.84,High
+GreenRail Freight,road,11.87,2984.52,Limerick,London,Furniture,6370.89,High
+UrbanMove Transport,air,18.18,2032.01,Belfast,Galway,Furniture,26848.1,High
+EcoRoute Ltd,air,2.99,813.02,Galway,London,Furniture,1490.51,High
+UrbanMove Transport,rail,8.7,2666.19,London,Belfast,Pharma,704.54,High
+GreenRail Freight,road,17.39,1771.55,Cork,Berlin,Food,5160.52,High
+GreenRail Freight,rail,8.56,2619.0,Galway,Galway,Food,682.04,High
+GreenRail Freight,sea,6.67,2161.22,Cork,Berlin,Clothing,129.76,Medium
+UrbanMove Transport,road,0.59,856.91,Galway,Galway,Machinery,89.97,Low
+NorthSea Global,air,12.85,1240.01,Berlin,Paris,Electronics,9575.15,High
+SkyBridge Cargo,road,17.89,2282.7,Limerick,Dublin,Furniture,5593.64,High
+NorthSea Global,rail,6.59,352.99,Belfast,Galway,Electronics,79.85,Low
+SkyBridge Cargo,air,14.69,1809.29,London,Paris,Furniture,19039.18,High
+GreenRail Freight,rail,15.13,536.41,Paris,Dublin,Food,273.33,Medium
+NorthSea Global,road,12.0,548.5,London,Dublin,Machinery,987.05,High
+TerraLogix,road,12.08,191.48,Cork,Dublin,Electronics,360.9,High
+GreenRail Freight,road,11.17,1449.47,Galway,Limerick,Furniture,2483.51,High
+GreenRail Freight,road,13.42,846.43,Galway,Paris,Electronics,1819.81,High
+SkyBridge Cargo,road,15.8,1518.33,Limerick,Belfast,Pharma,3899.76,High
+GreenRail Freight,rail,3.63,1667.01,Limerick,Berlin,Clothing,179.39,Medium
+EcoRoute Ltd,road,16.79,2023.61,Galway,Cork,Pharma,4869.91,High
+SkyBridge Cargo,sea,9.41,2933.01,Belfast,Berlin,Electronics,209.19,Medium
+EcoRoute Ltd,rail,7.52,2046.46,Paris,Cork,Electronics,534.12,High
+EcoRoute Ltd,sea,13.44,553.01,London,Berlin,Pharma,63.39,Low
+SkyBridge Cargo,rail,4.07,1232.29,Berlin,Belfast,Machinery,167.45,Medium
+GreenRail Freight,sea,2.7,2103.7,Dublin,Galway,Electronics,45.06,Low
+TerraLogix,air,4.03,1170.26,London,Dublin,Furniture,3247.55,High
+NorthSea Global,air,18.45,383.17,Paris,Berlin,Electronics,4888.01,High
+EcoRoute Ltd,sea,19.57,2026.04,London,Cork,Machinery,337.21,High
+SkyBridge Cargo,air,3.4,2487.99,Dublin,Dublin,Furniture,5941.92,High
+GreenRail Freight,air,17.45,270.85,Berlin,London,Food,3311.09,High
+TerraLogix,sea,11.23,1166.98,Limerick,Cork,Machinery,110.71,Medium
+EcoRoute Ltd,air,9.22,400.19,Berlin,Dublin,Electronics,2501.82,High
+TerraLogix,road,16.61,2385.76,Belfast,Limerick,Furniture,6731.22,High
+SkyBridge Cargo,road,16.42,2540.74,London,Berlin,Furniture,7526.5,High
+EcoRoute Ltd,road,15.31,704.15,London,London,Furniture,1915.84,High
+TerraLogix,rail,14.19,185.05,Galway,Berlin,Food,87.94,Low
+GreenRail Freight,road,5.46,627.97,Cork,Paris,Food,578.15,High
+UrbanMove Transport,rail,2.6,1272.69,Cork,Berlin,Machinery,115.14,Medium
+NorthSea Global,air,0.58,2221.83,Paris,Berlin,Pharma,1013.89,High
+UrbanMove Transport,sea,14.74,428.73,Paris,London,Pharma,53.15,Low
+TerraLogix,sea,5.84,2892.6,Belfast,Berlin,Food,140.58,Medium
+UrbanMove Transport,rail,16.94,1666.03,London,Limerick,Food,916.15,High
+UrbanMove Transport,rail,18.46,441.38,Galway,London,Furniture,217.02,Medium
+GreenRail Freight,air,13.65,2686.9,Belfast,Paris,Electronics,22439.02,High
+NorthSea Global,road,13.57,639.71,Galway,Belfast,Furniture,1233.35,High
+UrbanMove Transport,rail,4.48,1646.46,London,Berlin,Electronics,237.91,Medium
+TerraLogix,sea,14.98,1705.75,Limerick,Belfast,Furniture,237.34,Medium
+GreenRail Freight,air,19.16,2928.68,London,Dublin,Electronics,41161.99,High
+GreenRail Freight,sea,18.27,2128.66,London,Limerick,Furniture,342.53,High
+NorthSea Global,road,4.15,562.7,Cork,Paris,Electronics,394.9,High
+NorthSea Global,sea,11.89,802.3,London,Berlin,Furniture,75.83,Low
+SkyBridge Cargo,road,15.59,1894.83,Belfast,Berlin,Pharma,4097.21,High
+UrbanMove Transport,rail,10.75,2873.11,Cork,Galway,Machinery,966.9,High
+SkyBridge Cargo,sea,17.73,2006.84,London,London,Clothing,299.98,Medium
+TerraLogix,air,19.93,2479.88,Dublin,Cork,Furniture,32019.52,High
+UrbanMove Transport,sea,19.2,2063.53,London,Paris,Electronics,296.09,Medium
+SkyBridge Cargo,road,18.27,2475.22,London,Berlin,Machinery,6905.07,High
+NorthSea Global,rail,10.52,2847.22,Galway,Dublin,Furniture,841.59,High
+NorthSea Global,air,16.8,656.46,Paris,Cork,Furniture,7581.12,High
+UrbanMove Transport,rail,1.24,266.08,Galway,Belfast,Pharma,10.26,Low
+SkyBridge Cargo,air,8.07,1909.14,Paris,London,Electronics,9456.61,High
+EcoRoute Ltd,road,15.24,1777.54,Cork,London,Pharma,4042.56,High
+SkyBridge Cargo,road,5.99,2783.74,Paris,Paris,Furniture,2224.66,High
+NorthSea Global,sea,15.06,2400.47,Belfast,Galway,Clothing,324.68,High
+UrbanMove Transport,rail,19.17,82.89,Galway,Cork,Electronics,49.21,Low
+TerraLogix,road,6.44,2257.47,London,Limerick,Machinery,2411.18,High
+NorthSea Global,sea,4.09,1869.81,Belfast,Limerick,Electronics,64.79,Low
+EcoRoute Ltd,air,13.07,265.78,Cork,Belfast,Electronics,2226.94,High
+SkyBridge Cargo,rail,3.0,1983.65,Cork,Belfast,Pharma,162.9,Medium
+GreenRail Freight,air,6.9,1995.3,Galway,London,Clothing,9628.36,High
+SkyBridge Cargo,sea,15.82,2150.99,Paris,Belfast,Clothing,263.38,Medium
+GreenRail Freight,air,9.18,2335.56,Berlin,Cork,Food,13897.05,High
+SkyBridge Cargo,sea,17.88,629.47,Cork,Cork,Electronics,95.45,Low
+TerraLogix,air,15.5,677.64,Dublin,Belfast,Pharma,8289.4,High
+UrbanMove Transport,sea,7.63,708.75,Belfast,Galway,Machinery,43.54,Low
+SkyBridge Cargo,road,13.42,2551.55,Galway,Galway,Machinery,4983.99,High
+TerraLogix,sea,14.85,1476.34,London,Dublin,Food,187.69,Medium
+SkyBridge Cargo,rail,5.06,2022.33,London,Paris,Machinery,354.55,High
+EcoRoute Ltd,rail,2.51,2906.9,Belfast,Belfast,Pharma,220.94,Medium
+UrbanMove Transport,air,7.62,1977.34,Cork,Belfast,Machinery,10974.92,High
+GreenRail Freight,rail,16.44,1067.85,Berlin,Dublin,Pharma,600.44,High
+NorthSea Global,road,10.53,878.39,Galway,Galway,Food,1424.77,High
+EcoRoute Ltd,sea,8.58,1024.16,Cork,Berlin,Furniture,69.32,Low
+NorthSea Global,air,0.94,177.28,Galway,Galway,Furniture,117.3,Medium
+NorthSea Global,road,3.74,2771.22,Paris,Dublin,Furniture,1567.12,High
+EcoRoute Ltd,sea,9.26,2978.69,Berlin,Galway,Food,228.95,Medium
+TerraLogix,sea,12.65,1556.87,Galway,London,Machinery,170.87,Medium
+GreenRail Freight,air,3.08,98.86,Paris,Galway,Pharma,211.42,Medium
+TerraLogix,road,17.62,1617.72,Cork,Cork,Machinery,4741.94,High
+TerraLogix,road,17.99,2335.87,Paris,Paris,Clothing,7315.59,High
+GreenRail Freight,sea,18.8,1472.26,Paris,London,Pharma,257.09,Medium
+UrbanMove Transport,road,8.8,800.83,Limerick,Cork,Clothing,1294.61,High
+SkyBridge Cargo,sea,0.61,2243.75,Dublin,Cork,Pharma,11.46,Low
+UrbanMove Transport,rail,8.47,364.42,Paris,Belfast,Clothing,100.91,Medium
+SkyBridge Cargo,rail,19.84,1222.49,Limerick,Paris,Pharma,759.95,High
+SkyBridge Cargo,air,5.45,954.63,London,Paris,Furniture,3224.54,High
+EcoRoute Ltd,sea,9.21,2112.97,Galway,Cork,Food,170.38,Medium
+TerraLogix,road,3.63,2895.48,Dublin,Cork,Food,1607.66,High
+EcoRoute Ltd,road,5.63,1143.96,Dublin,Paris,Machinery,965.54,High
+UrbanMove Transport,road,18.94,2469.67,Berlin,Berlin,Electronics,6941.61,High
+TerraLogix,rail,4.3,2362.68,Limerick,Galway,Furniture,273.64,Medium
+EcoRoute Ltd,sea,2.19,864.01,Paris,London,Furniture,17.08,Low
+TerraLogix,road,14.87,252.42,Cork,Belfast,Furniture,672.51,High
+SkyBridge Cargo,rail,19.28,865.7,Limerick,Berlin,Machinery,518.0,High
+GreenRail Freight,road,11.39,1534.35,London,Cork,Pharma,3250.8,High
+TerraLogix,rail,14.04,2899.86,Berlin,Limerick,Clothing,1368.55,High
+GreenRail Freight,road,9.9,810.57,Paris,Limerick,Furniture,1291.96,High
+GreenRail Freight,rail,10.57,78.68,Belfast,Limerick,Clothing,27.01,Low
+SkyBridge Cargo,road,11.31,576.53,London,London,Food,1086.32,High
+UrbanMove Transport,sea,10.23,639.02,Limerick,Belfast,Food,51.95,Low
+TerraLogix,rail,3.54,364.73,Cork,Berlin,Pharma,38.84,Low
+EcoRoute Ltd,air,7.74,980.48,Belfast,Berlin,Food,5581.7,High
+SkyBridge Cargo,air,4.83,1751.16,Dublin,Paris,Machinery,5459.21,High
+SkyBridge Cargo,air,17.28,2338.92,Berlin,Cork,Furniture,28343.31,High
+EcoRoute Ltd,road,13.65,1169.31,Cork,London,Clothing,2719.52,High
+TerraLogix,rail,5.12,1440.47,London,London,Food,209.72,Medium
+UrbanMove Transport,rail,7.62,1231.75,Berlin,Galway,Pharma,290.07,Medium
+NorthSea Global,road,14.56,2422.06,Paris,Paris,Food,5357.1,High
+NorthSea Global,air,16.21,570.99,Berlin,Galway,Furniture,6339.99,High
+GreenRail Freight,rail,5.39,2582.58,Dublin,Paris,Electronics,417.32,High
+SkyBridge Cargo,air,16.86,334.09,London,Belfast,Clothing,3633.09,High
+SkyBridge Cargo,rail,0.89,407.65,Limerick,Galway,Clothing,11.43,Low
+GreenRail Freight,air,17.85,1174.16,Belfast,Berlin,Furniture,15306.67,High
+UrbanMove Transport,rail,8.73,1856.31,Paris,Cork,Electronics,477.93,High
+SkyBridge Cargo,rail,14.35,1835.89,Paris,Belfast,Machinery,903.23,High
+UrbanMove Transport,air,8.57,592.46,Dublin,Galway,Furniture,3204.46,High
+UrbanMove Transport,road,4.61,1221.28,Cork,Cork,Machinery,809.82,High
+GreenRail Freight,road,2.53,1873.4,Cork,Paris,Clothing,715.15,High
+GreenRail Freight,sea,3.06,2523.63,Dublin,Dublin,Furniture,68.71,Low
+GreenRail Freight,air,19.51,1644.72,Belfast,Berlin,Food,24438.25,High
+NorthSea Global,air,12.81,1925.76,Paris,Belfast,Clothing,15525.61,High
+EcoRoute Ltd,air,6.5,1266.0,Galway,Belfast,Electronics,5411.37,High
+NorthSea Global,rail,6.09,1628.54,Berlin,Berlin,Clothing,299.15,Medium
+SkyBridge Cargo,sea,16.04,1667.23,Limerick,Paris,Pharma,198.87,Medium
+UrbanMove Transport,air,16.65,700.75,Cork,Paris,Furniture,8087.74,High
+TerraLogix,rail,6.05,2241.63,Belfast,Paris,Food,420.76,High
+SkyBridge Cargo,road,12.92,1872.3,Belfast,Berlin,Food,3677.1,High
+TerraLogix,road,4.13,351.71,Belfast,Galway,Furniture,206.56,Medium
+EcoRoute Ltd,sea,0.79,690.7,Paris,Belfast,Machinery,4.51,Low
+EcoRoute Ltd,rail,2.06,2264.18,Galway,Dublin,Clothing,134.52,Medium
+GreenRail Freight,sea,4.25,2532.54,Paris,Dublin,Electronics,99.18,Low
+GreenRail Freight,air,5.32,2983.88,Limerick,Berlin,Furniture,11430.1,High
+NorthSea Global,air,8.09,2885.58,London,Galway,Furniture,16221.04,High
+TerraLogix,road,5.44,1933.63,Limerick,London,Electronics,1743.44,High
+EcoRoute Ltd,sea,12.84,1007.31,Galway,Belfast,Pharma,97.25,Low
+EcoRoute Ltd,road,11.83,2087.72,Galway,London,Electronics,3736.81,High
+UrbanMove Transport,rail,18.65,2991.07,Dublin,Dublin,Clothing,1732.88,High
+EcoRoute Ltd,sea,10.01,984.38,London,Berlin,Furniture,78.14,Low
+SkyBridge Cargo,sea,5.39,166.49,Berlin,Belfast,Pharma,7.52,Low
+NorthSea Global,rail,6.81,1431.76,Galway,Cork,Pharma,272.82,Medium
+SkyBridge Cargo,rail,9.35,2338.96,Paris,Galway,Electronics,678.52,High
+TerraLogix,sea,6.75,236.86,Paris,Limerick,Pharma,14.84,Low
+NorthSea Global,rail,6.79,1940.67,Cork,Cork,Pharma,392.77,High
+NorthSea Global,sea,17.53,646.13,Berlin,Limerick,Electronics,93.81,Low
+GreenRail Freight,air,10.75,2118.88,Belfast,Dublin,Clothing,14431.96,High
+EcoRoute Ltd,sea,13.29,2788.79,Cork,Berlin,Furniture,301.16,High
+GreenRail Freight,rail,15.99,221.99,Belfast,Dublin,Furniture,110.31,Medium
+NorthSea Global,road,2.47,731.5,Paris,Limerick,Food,244.63,Medium
+UrbanMove Transport,sea,11.39,1696.52,Cork,London,Furniture,158.13,Medium
+EcoRoute Ltd,sea,15.95,1672.4,London,Galway,Pharma,245.24,Medium
+SkyBridge Cargo,rail,11.23,2990.71,London,Paris,Furniture,1063.0,High
+TerraLogix,sea,11.48,681.09,Belfast,London,Machinery,65.65,Low
+UrbanMove Transport,road,19.67,1807.5,Galway,Belfast,Electronics,5115.9,High
+SkyBridge Cargo,road,15.54,2832.88,Belfast,Galway,Electronics,6396.81,High
+NorthSea Global,rail,7.66,1767.36,Limerick,Belfast,Clothing,393.74,High
+NorthSea Global,road,14.61,2389.07,Galway,Berlin,Furniture,6163.91,High
+EcoRoute Ltd,rail,1.23,2434.61,Paris,Cork,Electronics,99.57,Low
+GreenRail Freight,air,18.64,405.59,Limerick,Dublin,Furniture,5387.71,High
+SkyBridge Cargo,road,6.73,1716.49,London,Limerick,Food,1707.35,High
+GreenRail Freight,air,15.18,1747.0,Cork,Limerick,Machinery,16933.84,High
+NorthSea Global,rail,2.11,1735.75,Dublin,Paris,Clothing,106.07,Medium
+UrbanMove Transport,sea,15.36,1468.72,Limerick,Berlin,Machinery,191.08,Medium
+TerraLogix,sea,5.23,835.46,Paris,London,Furniture,36.55,Low
+UrbanMove Transport,air,8.76,1077.51,London,London,Pharma,6872.23,High
+NorthSea Global,rail,12.52,2970.97,Berlin,Galway,Machinery,1247.47,High
+NorthSea Global,rail,3.54,2199.04,Cork,Cork,Furniture,250.59,Medium
+NorthSea Global,rail,0.77,2096.7,Cork,Belfast,Machinery,48.97,Low
+UrbanMove Transport,sea,4.47,1593.63,Belfast,Berlin,Pharma,62.93,Low
+UrbanMove Transport,road,7.84,2722.82,Dublin,Belfast,Food,2981.14,High
+UrbanMove Transport,rail,1.54,1981.54,Dublin,Cork,Machinery,90.83,Low
+UrbanMove Transport,rail,17.35,106.28,Paris,Limerick,Machinery,56.71,Low
+SkyBridge Cargo,air,17.4,1618.1,Galway,Limerick,Pharma,18962.55,High
+UrbanMove Transport,road,1.28,2770.7,Belfast,London,Machinery,520.58,High
+SkyBridge Cargo,rail,7.43,941.86,Belfast,Dublin,Furniture,210.36,Medium
+EcoRoute Ltd,rail,4.9,1058.27,Paris,Galway,Electronics,182.36,Medium
+UrbanMove Transport,sea,8.64,1740.05,Paris,Belfast,Pharma,125.73,Medium
+NorthSea Global,sea,11.83,2067.94,Limerick,Galway,Clothing,218.19,Medium
+NorthSea Global,air,19.92,2928.54,Galway,Galway,Clothing,39023.23,High
+UrbanMove Transport,road,4.09,2526.59,Galway,Dublin,Clothing,1531.9,High
+GreenRail Freight,rail,9.14,2804.62,Belfast,Galway,Food,744.76,High
+TerraLogix,rail,12.31,1856.47,Limerick,Limerick,Furniture,666.52,High
+GreenRail Freight,sea,10.3,1833.9,London,Galway,Machinery,141.22,Medium
+NorthSea Global,sea,1.13,2305.39,Dublin,Belfast,Machinery,22.58,Low
+NorthSea Global,sea,1.79,2784.95,Berlin,Berlin,Furniture,41.31,Low
+NorthSea Global,air,8.39,173.39,Paris,London,Machinery,1016.3,High
+TerraLogix,road,10.65,1382.25,Dublin,Limerick,Pharma,2523.78,High
+EcoRoute Ltd,air,10.56,1910.41,Dublin,Limerick,Clothing,15707.12,High
+SkyBridge Cargo,air,3.75,918.54,Dublin,Galway,Machinery,2473.43,High
+UrbanMove Transport,road,4.01,1777.07,Galway,Paris,Machinery,1051.5,High
+GreenRail Freight,sea,17.71,316.03,London,Galway,Furniture,45.49,Low
+UrbanMove Transport,air,12.86,301.65,Paris,Galway,Machinery,2430.9,High
+NorthSea Global,rail,11.53,1995.61,Galway,Galway,Food,735.53,High
+GreenRail Freight,rail,6.54,2317.46,Berlin,Belfast,Furniture,455.4,High
+NorthSea Global,road,12.64,796.68,Berlin,Berlin,Machinery,1517.77,High
+GreenRail Freight,sea,4.73,1995.44,Berlin,Paris,Machinery,73.44,Low
+NorthSea Global,rail,12.59,1694.77,Limerick,Dublin,Food,663.73,High
+EcoRoute Ltd,sea,17.15,2017.64,Belfast,London,Electronics,273.84,Medium
+NorthSea Global,sea,13.61,1852.71,Galway,Berlin,Furniture,234.78,Medium
+EcoRoute Ltd,rail,6.8,2697.71,Cork,Paris,Pharma,525.65,High
+EcoRoute Ltd,rail,6.92,1270.59,Limerick,Limerick,Pharma,257.64,Medium
+UrbanMove Transport,road,9.93,2081.53,Belfast,Paris,Pharma,3183.17,High
+TerraLogix,rail,18.58,1862.16,Berlin,Berlin,Machinery,1163.53,High
+NorthSea Global,rail,19.6,54.66,Dublin,Berlin,Furniture,36.74,Low
+NorthSea Global,air,8.57,1034.69,Limerick,Dublin,Furniture,5873.18,High
+EcoRoute Ltd,rail,6.36,1672.48,Dublin,Cork,Furniture,308.72,High
+TerraLogix,road,16.72,622.35,London,Berlin,Machinery,1805.82,High
+GreenRail Freight,sea,12.73,2681.57,London,Berlin,Machinery,308.86,High
+TerraLogix,rail,11.52,2050.68,Dublin,Limerick,Pharma,804.04,High
+SkyBridge Cargo,road,19.41,877.36,Dublin,London,Machinery,3073.59,High
+TerraLogix,air,4.15,394.69,Belfast,London,Furniture,991.08,High
+GreenRail Freight,sea,7.75,2496.9,Belfast,Limerick,Pharma,141.73,Medium
+EcoRoute Ltd,sea,18.31,1359.13,Dublin,Berlin,Pharma,177.46,Medium
+GreenRail Freight,rail,15.62,472.72,Cork,Galway,Food,255.9,Medium
+UrbanMove Transport,road,0.58,2800.4,Cork,London,Machinery,266.99,Medium
+UrbanMove Transport,rail,0.94,2287.56,Limerick,London,Food,62.99,Low
+SkyBridge Cargo,air,13.59,854.33,Galway,Belfast,Electronics,7569.16,High
+TerraLogix,road,4.53,1083.44,London,Belfast,Food,809.08,High
+TerraLogix,sea,3.84,968.56,London,Berlin,Electronics,33.11,Low
+UrbanMove Transport,road,2.57,208.71,Paris,Paris,Food,91.24,Low
+UrbanMove Transport,air,12.52,971.7,Limerick,Cork,Machinery,8067.14,High
+UrbanMove Transport,air,2.4,965.66,Berlin,Berlin,Food,1676.52,High
+TerraLogix,rail,18.3,1206.63,London,London,Machinery,678.23,High
+EcoRoute Ltd,rail,9.83,2545.01,Belfast,London,Pharma,806.22,High
+GreenRail Freight,road,6.85,1965.88,Belfast,Berlin,Machinery,2010.16,High
+NorthSea Global,sea,19.49,1182.26,London,Limerick,Furniture,206.58,Medium
+GreenRail Freight,rail,11.12,746.66,Cork,Berlin,Electronics,287.61,Medium
+TerraLogix,road,16.53,569.71,Paris,Cork,Pharma,1541.32,High
+GreenRail Freight,rail,10.14,1997.49,Cork,Limerick,Food,752.17,High
+UrbanMove Transport,road,15.26,1999.6,Berlin,Belfast,Machinery,4745.41,High
+NorthSea Global,rail,6.34,2393.32,Belfast,Paris,Furniture,480.95,High
+EcoRoute Ltd,road,12.42,1555.75,Galway,Belfast,Electronics,2984.26,High
+EcoRoute Ltd,road,14.22,2471.22,London,Cork,Clothing,5683.24,High
+UrbanMove Transport,air,12.69,2149.73,Paris,Paris,Machinery,20049.86,High
+GreenRail Freight,sea,4.17,1184.56,London,Paris,Food,38.5,Low
+NorthSea Global,sea,0.73,1962.75,Galway,Berlin,Furniture,13.44,Low
+EcoRoute Ltd,sea,13.02,1276.77,Berlin,Paris,Pharma,132.26,Medium
+TerraLogix,air,8.0,715.94,Paris,Dublin,Pharma,3927.74,High
+UrbanMove Transport,rail,8.51,1661.19,London,Dublin,Electronics,438.45,High
+EcoRoute Ltd,air,19.25,286.19,Belfast,Berlin,Pharma,3381.44,High
+EcoRoute Ltd,sea,9.71,2237.97,Cork,Belfast,Pharma,174.98,Medium
+EcoRoute Ltd,air,9.35,2722.86,London,Paris,Clothing,19212.38,High
+SkyBridge Cargo,sea,1.19,2772.45,Belfast,Belfast,Electronics,26.79,Low
+TerraLogix,road,13.3,910.67,Dublin,Belfast,Machinery,1675.58,High
+SkyBridge Cargo,rail,3.08,878.87,Belfast,Dublin,Furniture,76.3,Low
+TerraLogix,sea,13.35,1140.81,Galway,Belfast,Furniture,129.02,Medium
+TerraLogix,road,7.19,298.98,Galway,Galway,Machinery,343.84,High
+GreenRail Freight,sea,13.38,2191.7,Galway,Limerick,Pharma,233.06,Medium
+UrbanMove Transport,rail,15.23,392.18,Galway,Berlin,Machinery,184.92,Medium
+TerraLogix,sea,7.91,2131.54,Berlin,Belfast,Food,139.51,Medium
+SkyBridge Cargo,air,7.95,981.28,Dublin,Cork,Pharma,5016.91,High
+GreenRail Freight,rail,7.03,837.91,Cork,Belfast,Furniture,186.68,Medium
+UrbanMove Transport,sea,14.82,1786.74,Limerick,London,Furniture,218.45,Medium
+TerraLogix,road,13.62,2503.48,Dublin,Paris,Electronics,5678.81,High
+SkyBridge Cargo,sea,14.64,793.09,Dublin,Dublin,Pharma,104.67,Medium
+UrbanMove Transport,sea,19.03,1932.34,Cork,Cork,Pharma,313.81,High
+UrbanMove Transport,sea,17.97,2102.18,Belfast,Belfast,Machinery,306.11,High
+GreenRail Freight,rail,15.5,2092.05,London,Belfast,Food,984.79,High
+EcoRoute Ltd,air,8.08,2988.08,Belfast,Belfast,Food,18349.21,High
+NorthSea Global,air,3.98,1501.57,Galway,Paris,Food,3985.45,High
+GreenRail Freight,rail,2.51,265.11,Belfast,Berlin,Electronics,21.37,Low
+UrbanMove Transport,road,18.69,2010.59,Belfast,Galway,Furniture,5700.43,High
+EcoRoute Ltd,air,9.82,1241.54,Cork,Limerick,Electronics,8429.86,High
+GreenRail Freight,road,11.56,2808.37,London,London,Furniture,4696.29,High
+UrbanMove Transport,road,7.62,2567.36,London,Cork,Machinery,3044.25,High
+NorthSea Global,sea,11.31,2904.16,Limerick,Belfast,Furniture,252.98,Medium
+UrbanMove Transport,rail,9.99,2661.38,Berlin,Limerick,Food,739.97,High
+TerraLogix,sea,10.04,235.83,Belfast,Berlin,Pharma,21.45,Low
+EcoRoute Ltd,road,7.12,1046.27,Dublin,Paris,Electronics,1103.19,High
+TerraLogix,air,18.83,2617.09,Galway,Limerick,Electronics,30336.41,High
+UrbanMove Transport,road,9.69,2758.16,Dublin,Limerick,Furniture,4028.25,High
+UrbanMove Transport,road,18.14,2471.18,Cork,Berlin,Pharma,7295.38,High
+EcoRoute Ltd,road,10.19,2407.57,Limerick,Cork,Food,3464.61,High
+UrbanMove Transport,air,6.82,2928.77,Galway,London,Food,15018.06,High
+SkyBridge Cargo,road,2.85,466.65,Paris,Galway,Furniture,210.64,Medium
+NorthSea Global,road,3.1,2383.6,Paris,Galway,Electronics,1058.97,High
+EcoRoute Ltd,sea,18.56,2134.89,Belfast,Paris,Furniture,352.77,High
+UrbanMove Transport,sea,4.52,1937.49,Berlin,Paris,Food,77.95,Low
+EcoRoute Ltd,sea,14.49,1855.55,Cork,Belfast,Clothing,209.54,Medium
+NorthSea Global,road,19.74,2931.53,London,Limerick,Machinery,9305.0,High
+SkyBridge Cargo,road,4.28,2400.01,Berlin,Berlin,Food,1522.42,High
+EcoRoute Ltd,rail,6.06,1332.28,London,Berlin,Electronics,249.45,Medium
+TerraLogix,sea,3.58,135.74,Cork,Cork,Food,4.44,Low
+SkyBridge Cargo,air,4.38,2046.72,London,Limerick,Electronics,6079.35,High
+UrbanMove Transport,air,17.46,1157.82,Limerick,Cork,Machinery,13782.88,High
+GreenRail Freight,sea,4.72,1847.83,Galway,Paris,Clothing,67.1,Low
+UrbanMove Transport,rail,19.52,646.52,Galway,Dublin,Furniture,382.38,High
+EcoRoute Ltd,air,9.44,555.04,London,Limerick,Clothing,3828.61,High
+UrbanMove Transport,sea,11.77,1680.63,Limerick,Cork,Machinery,165.07,Medium
+NorthSea Global,air,16.82,873.55,Paris,Limerick,Food,10204.3,High
+TerraLogix,sea,18.32,2699.84,Paris,Dublin,Electronics,452.02,High
+TerraLogix,road,8.8,1213.24,Cork,Berlin,Machinery,1598.8,High
+EcoRoute Ltd,air,19.02,441.5,Belfast,Limerick,Furniture,6027.69,High
+UrbanMove Transport,rail,3.66,1404.88,Dublin,Berlin,Machinery,178.71,Medium
+GreenRail Freight,sea,15.9,1142.74,Berlin,Dublin,Furniture,146.54,Medium
+SkyBridge Cargo,road,6.28,2271.02,Limerick,Cork,Pharma,2556.91,High
+EcoRoute Ltd,rail,17.82,377.35,London,Berlin,Pharma,183.97,Medium
+UrbanMove Transport,road,11.43,2332.05,Galway,London,Food,4415.79,High
+UrbanMove Transport,sea,15.19,2294.61,London,London,Clothing,298.95,Medium
+EcoRoute Ltd,road,7.77,1384.61,Cork,Berlin,Furniture,1737.88,High
+SkyBridge Cargo,air,12.61,2409.72,Cork,Limerick,Machinery,19591.27,High
+NorthSea Global,rail,19.19,276.99,Galway,Belfast,Electronics,162.32,Medium
+NorthSea Global,road,6.22,2910.25,Galway,Berlin,Clothing,3016.75,High
+EcoRoute Ltd,rail,4.19,115.01,Limerick,London,Machinery,15.49,Low
+SkyBridge Cargo,air,12.07,2105.75,Berlin,Berlin,Clothing,17845.24,High
+SkyBridge Cargo,sea,15.89,719.01,London,Belfast,Electronics,93.77,Low
+NorthSea Global,sea,14.38,891.48,Galway,Galway,Food,94.9,Low
+SkyBridge Cargo,sea,9.1,1140.53,Limerick,Dublin,Furniture,77.63,Low
+SkyBridge Cargo,air,11.03,529.66,Belfast,Cork,Electronics,3638.12,High
+NorthSea Global,air,18.59,510.36,London,Belfast,Machinery,7386.9,High
+TerraLogix,sea,16.09,2199.2,Berlin,London,Furniture,261.78,Medium
+EcoRoute Ltd,sea,13.72,394.78,Dublin,Paris,Pharma,51.32,Low
+EcoRoute Ltd,rail,1.57,1941.87,Limerick,Belfast,Food,80.23,Low
+GreenRail Freight,road,19.53,1213.55,Berlin,London,Pharma,4274.52,High
+UrbanMove Transport,rail,8.25,2162.09,Paris,London,Machinery,544.64,High
+SkyBridge Cargo,rail,19.56,2629.19,Cork,Limerick,Furniture,1749.84,High
+GreenRail Freight,air,6.13,2426.73,Paris,Paris,Food,10506.17,High
+NorthSea Global,sea,6.41,2965.73,London,Cork,Pharma,161.48,Medium
+GreenRail Freight,rail,8.58,1689.65,Galway,Limerick,Food,467.51,High
+GreenRail Freight,road,16.54,940.88,Belfast,Berlin,Pharma,2592.31,High
+EcoRoute Ltd,sea,5.62,2870.28,Berlin,Cork,Furniture,136.45,Medium
+NorthSea Global,air,18.18,1952.12,Dublin,Cork,Clothing,25607.56,High
+TerraLogix,rail,11.83,1718.45,Belfast,Berlin,Furniture,650.38,High
+UrbanMove Transport,road,16.98,530.4,Dublin,Galway,Clothing,1436.65,High
+SkyBridge Cargo,sea,1.53,1115.43,London,Dublin,Clothing,14.32,Low
+EcoRoute Ltd,sea,15.45,590.58,Cork,Galway,Pharma,66.99,Low
+UrbanMove Transport,rail,5.79,2109.0,London,Cork,Pharma,378.2,High
+EcoRoute Ltd,sea,10.6,1150.39,Berlin,Paris,Clothing,108.5,Medium
+NorthSea Global,sea,10.32,2503.14,Cork,Paris,Machinery,222.63,Medium
+NorthSea Global,road,9.85,969.14,London,Galway,Machinery,1593.69,High
+SkyBridge Cargo,sea,14.34,134.84,Cork,Limerick,Food,16.46,Low
+NorthSea Global,rail,2.94,434.14,Cork,Paris,Furniture,40.7,Low
+EcoRoute Ltd,air,15.27,175.42,Cork,Dublin,Furniture,1699.2,High
+EcoRoute Ltd,rail,1.34,939.86,Dublin,Cork,Electronics,39.33,Low
+NorthSea Global,sea,13.58,136.31,Galway,Belfast,Pharma,14.8,Low
+TerraLogix,sea,10.35,251.59,Dublin,Limerick,Furniture,19.39,Low
+TerraLogix,road,19.48,341.12,Limerick,Berlin,Clothing,1061.51,High
+UrbanMove Transport,road,4.03,1096.73,Paris,Paris,Food,634.63,High
+SkyBridge Cargo,road,9.59,1583.2,Berlin,London,Furniture,2491.05,High
+EcoRoute Ltd,rail,10.13,1185.1,Berlin,Belfast,Furniture,410.83,High
+TerraLogix,air,6.17,2573.33,Limerick,Cork,Machinery,11507.48,High
+EcoRoute Ltd,air,13.61,1219.29,Cork,Cork,Food,11921.6,High
+EcoRoute Ltd,sea,1.76,2926.86,London,Limerick,Pharma,48.44,Low
+NorthSea Global,air,14.64,871.63,Belfast,Paris,Clothing,9200.33,High
+GreenRail Freight,air,10.47,484.75,Berlin,Cork,Electronics,3034.9,High
+UrbanMove Transport,sea,1.08,2226.51,Cork,Berlin,Furniture,16.93,Low
+TerraLogix,rail,3.48,1884.8,Cork,Cork,Furniture,214.35,Medium
+GreenRail Freight,sea,6.22,1518.8,Belfast,London,Pharma,83.92,Low
+EcoRoute Ltd,air,17.66,401.45,Berlin,London,Machinery,4681.04,High
+NorthSea Global,rail,17.75,534.23,Paris,Galway,Clothing,297.58,Medium
+EcoRoute Ltd,air,13.37,2071.85,Berlin,Berlin,Pharma,20080.31,High
+GreenRail Freight,rail,10.15,2914.07,London,Belfast,Clothing,847.38,High
+NorthSea Global,rail,7.3,2239.07,Dublin,London,Machinery,461.77,High
+SkyBridge Cargo,air,7.35,2000.66,Limerick,Limerick,Furniture,8658.65,High
+UrbanMove Transport,road,17.44,387.69,Galway,Dublin,Pharma,987.25,High
+GreenRail Freight,air,5.7,2103.08,Dublin,London,Machinery,7586.43,High
+EcoRoute Ltd,air,2.45,2041.58,London,Berlin,Pharma,3477.02,High
+NorthSea Global,rail,7.59,1336.17,Berlin,Cork,Pharma,314.58,High
+SkyBridge Cargo,air,16.19,1892.49,Cork,Cork,Pharma,18530.36,High
+TerraLogix,air,8.83,1074.58,Cork,Belfast,Pharma,7531.21,High
+TerraLogix,rail,4.4,1236.79,Berlin,Galway,Electronics,179.06,Medium
+NorthSea Global,air,4.65,2888.25,Berlin,Belfast,Furniture,9409.44,High
+GreenRail Freight,road,10.68,1124.61,Galway,Limerick,Food,1939.66,High
+GreenRail Freight,air,6.71,2499.13,Cork,Limerick,Machinery,11190.06,High
+NorthSea Global,rail,13.89,746.58,Limerick,Cork,Food,294.64,Medium
+SkyBridge Cargo,air,9.96,2974.31,Paris,Dublin,Food,18589.49,High
+SkyBridge Cargo,rail,13.34,569.16,Dublin,Berlin,Electronics,262.41,Medium
+SkyBridge Cargo,rail,17.41,2706.7,Paris,London,Furniture,1445.9,High
+UrbanMove Transport,sea,5.1,1734.37,Cork,Belfast,Machinery,80.39,Low
+EcoRoute Ltd,rail,6.92,1773.76,Paris,Limerick,Machinery,342.31,High
+NorthSea Global,rail,9.07,800.2,Dublin,Berlin,Pharma,235.0,Medium
+SkyBridge Cargo,air,9.76,776.72,Belfast,Galway,Clothing,5521.26,High
+SkyBridge Cargo,road,13.09,2720.43,Dublin,Dublin,Furniture,5897.04,High
+SkyBridge Cargo,air,6.53,2877.53,London,Cork,Pharma,15146.87,High
+GreenRail Freight,road,18.24,1209.28,Belfast,Belfast,Electronics,3916.99,High
+SkyBridge Cargo,sea,17.26,522.67,Berlin,London,Furniture,69.01,Low
+EcoRoute Ltd,air,9.69,1268.24,London,Paris,Electronics,9230.65,High
+TerraLogix,road,7.36,1826.24,London,Berlin,Furniture,1974.99,High
+UrbanMove Transport,sea,12.79,2383.51,Galway,Dublin,Machinery,247.45,Medium
+TerraLogix,road,2.66,786.33,Galway,Paris,Clothing,315.78,High
+NorthSea Global,rail,3.88,1799.41,London,Belfast,Food,196.12,Medium
+GreenRail Freight,air,18.92,2658.81,Limerick,Dublin,Electronics,36651.76,High
+UrbanMove Transport,sea,18.18,2923.68,Limerick,Belfast,Furniture,445.47,High
+TerraLogix,air,12.21,490.29,London,Galway,Pharma,4070.54,High
+GreenRail Freight,air,16.63,1507.74,Limerick,Limerick,Food,18999.04,High
+SkyBridge Cargo,rail,15.06,1177.12,Paris,Limerick,Pharma,518.6,High
+UrbanMove Transport,sea,8.66,1255.15,Galway,Dublin,Clothing,96.6,Low
+GreenRail Freight,sea,7.71,2068.59,Berlin,Cork,Electronics,142.65,Medium
+UrbanMove Transport,air,13.89,2154.34,Paris,Belfast,Electronics,18858.87,High
+SkyBridge Cargo,sea,9.68,1095.19,Dublin,Dublin,Clothing,92.61,Low
+GreenRail Freight,rail,3.08,2682.07,Dublin,Galway,Clothing,257.93,Medium
+SkyBridge Cargo,air,3.07,986.09,Paris,Galway,Clothing,1901.15,High
+NorthSea Global,air,17.5,2512.67,London,Paris,Clothing,30890.3,High
+SkyBridge Cargo,rail,9.0,536.7,Berlin,Galway,Pharma,150.78,Medium
+GreenRail Freight,road,4.18,210.97,Galway,Dublin,Machinery,139.9,Medium
+GreenRail Freight,road,19.91,2785.26,Dublin,Berlin,Clothing,9511.98,High
+GreenRail Freight,air,2.69,2173.3,Galway,Cork,Clothing,3954.9,High
+NorthSea Global,sea,15.12,2476.59,Limerick,Dublin,Pharma,296.69,Medium
+EcoRoute Ltd,sea,15.48,2046.88,London,Dublin,Clothing,264.98,Medium
+GreenRail Freight,rail,12.01,2856.1,London,Galway,Electronics,1105.07,High
+UrbanMove Transport,air,9.35,2867.84,Dublin,London,Electronics,19602.02,High
+SkyBridge Cargo,sea,4.62,193.61,Belfast,London,Electronics,8.07,Low
+TerraLogix,air,2.3,802.73,Limerick,Paris,Electronics,1137.35,High
+GreenRail Freight,air,6.06,2270.05,Galway,Cork,Clothing,9327.02,High
+SkyBridge Cargo,sea,7.5,333.53,London,Limerick,Machinery,21.55,Low
+SkyBridge Cargo,air,2.26,1296.48,London,Galway,Machinery,1900.99,High
+TerraLogix,rail,19.48,2045.5,Galway,Berlin,Pharma,1288.85,High
+SkyBridge Cargo,air,9.03,2726.26,Berlin,Belfast,Food,17989.34,High
+SkyBridge Cargo,sea,10.7,921.67,Dublin,Cork,Electronics,81.43,Low
+GreenRail Freight,road,9.56,2174.91,Belfast,London,Clothing,3365.18,High
+EcoRoute Ltd,road,14.94,1415.49,Galway,Paris,Electronics,3291.23,High
+SkyBridge Cargo,rail,11.95,1392.24,Berlin,Belfast,Clothing,570.58,High
+NorthSea Global,sea,4.11,2253.74,Belfast,Cork,Machinery,78.75,Low
+EcoRoute Ltd,road,3.85,1457.5,Paris,Berlin,Clothing,907.76,High
+SkyBridge Cargo,air,16.19,308.52,Galway,Dublin,Food,3019.86,High
+NorthSea Global,road,4.58,1963.44,Limerick,Paris,Furniture,1467.97,High
+EcoRoute Ltd,rail,15.51,487.09,Paris,Dublin,Electronics,234.43,Medium
+UrbanMove Transport,air,19.3,1440.89,Berlin,Limerick,Food,19249.79,High
+GreenRail Freight,road,7.01,352.86,Paris,Paris,Machinery,426.63,High
+TerraLogix,rail,1.22,1229.06,Berlin,Limerick,Furniture,38.6,Low
+TerraLogix,rail,11.29,840.15,Paris,Berlin,Electronics,316.61,High
+SkyBridge Cargo,air,14.1,111.38,Belfast,Limerick,Machinery,1063.25,High
+NorthSea Global,rail,18.47,2567.69,Berlin,Galway,Clothing,1531.26,High
+GreenRail Freight,rail,16.02,2409.28,Galway,Limerick,Clothing,1256.62,High
+GreenRail Freight,sea,3.88,511.13,Berlin,Cork,Machinery,17.33,Low
+NorthSea Global,sea,11.36,2997.82,London,Belfast,Clothing,302.59,High
+TerraLogix,road,16.23,1046.32,Cork,Limerick,Electronics,2989.34,High
+SkyBridge Cargo,rail,15.5,2321.78,Belfast,Galway,Furniture,1190.12,High
+EcoRoute Ltd,road,18.57,1341.59,Berlin,Cork,Electronics,4052.88,High
+EcoRoute Ltd,road,10.39,542.79,Cork,Limerick,Clothing,886.8,High
+GreenRail Freight,air,14.78,342.92,London,London,Food,3425.81,High
+GreenRail Freight,road,5.28,2436.98,London,Belfast,Pharma,1831.32,High
+UrbanMove Transport,air,7.53,2011.74,Galway,Paris,Food,9515.2,High
+GreenRail Freight,air,19.06,1572.66,London,Dublin,Machinery,18113.14,High
+TerraLogix,road,2.15,978.67,Galway,Paris,Electronics,288.99,Medium
+UrbanMove Transport,sea,18.1,220.54,Belfast,Paris,Machinery,34.74,Low
+SkyBridge Cargo,rail,18.23,73.31,Belfast,Galway,Furniture,40.16,Low
+TerraLogix,air,14.1,2668.64,Paris,Limerick,Clothing,23291.0,High
+GreenRail Freight,sea,10.65,1645.33,Limerick,Cork,Pharma,148.49,Medium
+UrbanMove Transport,sea,0.96,2676.44,Belfast,Limerick,Clothing,23.72,Low
+EcoRoute Ltd,road,16.91,816.28,London,Cork,Electronics,2524.4,High
+GreenRail Freight,rail,11.66,65.38,London,Limerick,Furniture,24.79,Low
+UrbanMove Transport,sea,7.33,889.38,Galway,Paris,Pharma,56.86,Low
+TerraLogix,sea,16.55,1115.74,Cork,Galway,Furniture,150.49,Medium
+EcoRoute Ltd,road,8.79,433.69,Limerick,Berlin,Electronics,589.52,High
+TerraLogix,air,17.5,1773.7,Paris,Berlin,Furniture,23189.79,High
+GreenRail Freight,sea,3.31,425.02,Berlin,Galway,Furniture,11.25,Low
+UrbanMove Transport,sea,9.38,146.19,Galway,London,Electronics,11.79,Low
+EcoRoute Ltd,rail,11.65,168.83,Galway,Cork,Clothing,59.9,Low
+SkyBridge Cargo,air,1.05,471.46,Paris,Dublin,Clothing,354.33,High
+UrbanMove Transport,air,0.54,1665.24,Cork,Dublin,Machinery,608.34,High
+GreenRail Freight,rail,15.74,1451.92,Galway,Galway,Pharma,839.49,High
+UrbanMove Transport,air,3.41,2197.2,Cork,Paris,Machinery,4706.1,High
+TerraLogix,road,19.18,2675.63,Belfast,Cork,Food,8192.73,High
+UrbanMove Transport,rail,11.44,415.16,Cork,Limerick,Pharma,150.34,Medium
+TerraLogix,sea,15.14,1532.78,Dublin,Cork,Furniture,195.21,Medium
+EcoRoute Ltd,rail,15.84,773.6,Berlin,Cork,Pharma,376.42,High
+EcoRoute Ltd,air,17.31,118.63,Paris,Galway,Machinery,1387.92,High
+GreenRail Freight,rail,2.27,2940.37,Galway,Belfast,Food,220.6,Medium
+NorthSea Global,rail,19.07,2051.9,Dublin,London,Food,1060.09,High
+GreenRail Freight,road,6.74,1267.83,London,Belfast,Machinery,1441.81,High
+EcoRoute Ltd,sea,5.17,1811.16,Limerick,Berlin,Pharma,82.37,Low
+EcoRoute Ltd,rail,1.68,1421.23,Paris,Cork,Machinery,69.09,Low
+EcoRoute Ltd,rail,11.3,1779.21,Cork,Limerick,Pharma,640.8,High
+TerraLogix,air,9.2,2546.52,Limerick,Galway,Clothing,15675.22,High
+NorthSea Global,air,19.25,1687.7,Dublin,Dublin,Machinery,22389.98,High
+UrbanMove Transport,sea,0.51,2803.85,Berlin,Belfast,Pharma,12.69,Low
+SkyBridge Cargo,sea,11.91,1555.47,Dublin,Galway,Furniture,162.57,Medium
+EcoRoute Ltd,air,14.12,2499.97,Belfast,Paris,Food,24995.38,High
+SkyBridge Cargo,rail,12.89,2939.94,Berlin,Belfast,Food,1177.35,High
+NorthSea Global,air,19.2,1018.95,Galway,Dublin,Pharma,14069.75,High
+UrbanMove Transport,sea,8.56,2691.04,Berlin,Paris,Pharma,192.17,Medium
+UrbanMove Transport,road,11.0,2683.09,Berlin,Cork,Clothing,5052.32,High
+TerraLogix,rail,8.04,2525.48,Dublin,Cork,Machinery,668.39,High
+EcoRoute Ltd,sea,14.99,2287.34,London,Limerick,Electronics,303.15,High
+UrbanMove Transport,sea,5.07,1506.74,London,Dublin,Clothing,63.11,Low
+TerraLogix,sea,0.64,2953.58,Paris,Cork,Clothing,15.0,Low
+TerraLogix,sea,13.37,1718.84,Galway,Cork,Pharma,167.4,Medium
+SkyBridge Cargo,sea,17.68,2200.25,Belfast,Limerick,Furniture,318.96,High
+UrbanMove Transport,rail,13.77,2655.15,Dublin,Paris,Furniture,1299.0,High
+SkyBridge Cargo,air,16.96,1250.28,Cork,Berlin,Machinery,14224.95,High
+UrbanMove Transport,sea,1.42,2759.25,Berlin,London,Electronics,32.19,Low
+TerraLogix,road,19.81,715.6,Paris,Cork,Food,2094.08,High
+EcoRoute Ltd,road,1.04,1324.25,Dublin,London,Clothing,220.69,Medium
+SkyBridge Cargo,road,16.52,1583.04,Limerick,Cork,Pharma,4807.96,High
+UrbanMove Transport,air,11.79,302.33,Dublin,Dublin,Machinery,2394.53,High
+EcoRoute Ltd,sea,1.71,2417.04,Dublin,Belfast,Pharma,32.92,Low
+UrbanMove Transport,road,11.41,920.0,Paris,Paris,Electronics,1748.84,High
+TerraLogix,road,9.34,1419.42,Paris,Cork,Clothing,2243.51,High
+EcoRoute Ltd,air,10.59,1784.05,Cork,Cork,Electronics,13608.71,High
+NorthSea Global,sea,12.93,806.04,Paris,Berlin,Furniture,88.58,Low
+NorthSea Global,road,1.68,969.42,Paris,London,Clothing,256.56,Medium
+NorthSea Global,sea,9.66,1829.82,Belfast,London,Electronics,155.65,Medium
+NorthSea Global,road,5.13,2466.59,Dublin,Paris,Clothing,1949.2,High
+NorthSea Global,road,7.16,2020.19,Berlin,London,Pharma,2349.99,High
+SkyBridge Cargo,air,6.91,359.3,Dublin,Berlin,Food,1867.43,High
+UrbanMove Transport,sea,9.6,678.76,Berlin,London,Furniture,55.98,Low
+EcoRoute Ltd,rail,0.69,1105.77,Cork,Galway,Clothing,25.51,Low
+SkyBridge Cargo,road,19.52,637.41,Belfast,Galway,Food,2249.03,High
+SkyBridge Cargo,sea,3.98,113.4,Belfast,Cork,Electronics,3.94,Low
+UrbanMove Transport,road,7.1,670.2,Berlin,Limerick,Clothing,791.43,High
+TerraLogix,air,17.63,242.86,Galway,Galway,Food,2775.94,High
+SkyBridge Cargo,rail,12.19,2932.1,Limerick,Dublin,Pharma,1249.03,High
+SkyBridge Cargo,sea,6.89,207.11,Belfast,Galway,Pharma,12.88,Low
+NorthSea Global,road,15.8,2383.44,Cork,Galway,Pharma,6181.25,High
+TerraLogix,rail,10.22,1419.59,London,London,Pharma,472.62,High
+GreenRail Freight,air,5.73,1232.79,Dublin,Limerick,Food,5083.1,High
+NorthSea Global,air,4.76,1303.82,Paris,Galway,Clothing,4161.78,High
+EcoRoute Ltd,rail,9.17,1087.15,Dublin,Berlin,Pharma,320.11,High
+GreenRail Freight,air,8.47,2423.29,London,Belfast,Machinery,12991.28,High
+SkyBridge Cargo,road,7.5,293.13,Cork,Belfast,Food,288.68,Medium
+EcoRoute Ltd,sea,7.01,2041.57,Belfast,Belfast,Furniture,132.59,Medium
+SkyBridge Cargo,sea,14.26,2994.09,Belfast,Dublin,Clothing,352.71,High
+GreenRail Freight,air,16.53,2285.53,Dublin,Berlin,Furniture,29228.39,High
+NorthSea Global,air,4.94,2183.84,Limerick,Berlin,Food,7503.08,High
+GreenRail Freight,air,7.14,303.33,Limerick,Paris,Furniture,1467.02,High
+TerraLogix,road,7.81,1753.65,Galway,Belfast,Furniture,2095.89,High
+SkyBridge Cargo,rail,4.9,1305.87,Paris,Belfast,Clothing,220.87,Medium
+EcoRoute Ltd,sea,3.5,2860.28,London,Paris,Machinery,79.17,Low
+TerraLogix,air,4.17,370.48,Berlin,Belfast,Electronics,1037.15,High
+NorthSea Global,road,16.62,1829.92,Dublin,Galway,Food,4852.78,High
+SkyBridge Cargo,sea,5.04,1995.73,Cork,Berlin,Electronics,79.32,Low
+SkyBridge Cargo,air,8.13,2969.31,Galway,Paris,Machinery,16518.65,High
+NorthSea Global,sea,17.47,963.78,Berlin,Galway,Pharma,141.47,Medium
+NorthSea Global,air,5.87,71.96,Galway,Berlin,Electronics,320.3,High
+NorthSea Global,rail,18.25,2643.76,Berlin,Berlin,Pharma,1281.64,High
+UrbanMove Transport,air,7.26,2535.79,Belfast,Paris,Pharma,13741.16,High
+GreenRail Freight,sea,4.0,1872.32,Paris,Berlin,Machinery,62.37,Low
+TerraLogix,road,8.17,2839.78,Limerick,Galway,Clothing,4084.61,High
+UrbanMove Transport,road,14.11,2181.11,Limerick,Berlin,Machinery,4877.4,High
+SkyBridge Cargo,road,15.23,1537.96,London,Paris,Machinery,3301.86,High
+EcoRoute Ltd,air,1.02,1934.66,Berlin,Paris,Clothing,1473.62,High
+GreenRail Freight,road,0.71,388.31,Galway,London,Furniture,48.19,Low
+EcoRoute Ltd,road,11.19,764.77,Berlin,Galway,Machinery,1459.43,High
+NorthSea Global,road,12.34,572.85,Cork,Paris,Food,1045.29,High
+UrbanMove Transport,rail,3.49,1106.36,Limerick,Dublin,Furniture,132.41,Medium
+EcoRoute Ltd,road,8.12,959.56,Dublin,Dublin,Electronics,1228.85,High
+NorthSea Global,rail,18.22,639.96,Dublin,Paris,Electronics,348.48,High
+NorthSea Global,road,4.8,2652.74,Galway,Galway,Electronics,1940.48,High
+SkyBridge Cargo,rail,11.46,609.17,Limerick,Paris,Machinery,196.18,Medium
+SkyBridge Cargo,rail,3.89,1236.31,London,Dublin,Machinery,133.48,Medium
+UrbanMove Transport,rail,13.17,1138.49,Cork,Limerick,Machinery,479.66,High
+EcoRoute Ltd,sea,5.41,329.5,London,Paris,Furniture,16.55,Low
+NorthSea Global,rail,3.92,2297.06,London,Berlin,Electronics,272.57,Medium
+TerraLogix,air,7.96,1939.75,Limerick,Dublin,Food,9435.56,High
+EcoRoute Ltd,rail,5.11,1314.07,Limerick,Cork,Electronics,209.18,Medium
+NorthSea Global,sea,7.83,1944.01,Limerick,Berlin,Furniture,133.66,Medium
+SkyBridge Cargo,road,10.66,2933.82,Belfast,Dublin,Food,5061.86,High
+NorthSea Global,sea,11.02,2724.56,Limerick,Limerick,Pharma,288.91,Medium
+NorthSea Global,air,12.78,240.62,Berlin,Cork,Food,1959.04,High
+NorthSea Global,sea,2.29,1798.26,Limerick,Limerick,Pharma,30.75,Low
+SkyBridge Cargo,sea,14.57,772.53,Galway,Limerick,Clothing,88.01,Low
+UrbanMove Transport,sea,5.8,2354.8,Cork,London,Machinery,112.14,Medium
+GreenRail Freight,air,15.33,2467.83,Berlin,Dublin,Machinery,24717.04,High
+SkyBridge Cargo,sea,11.28,568.31,Paris,Berlin,Clothing,52.18,Low
+TerraLogix,air,1.9,453.14,Berlin,Limerick,Food,600.42,High
+TerraLogix,rail,10.08,2780.79,Paris,London,Machinery,842.86,High
+TerraLogix,road,8.47,164.54,Cork,Paris,Pharma,229.76,Medium
+SkyBridge Cargo,rail,10.44,1491.43,London,Dublin,Furniture,476.68,High
+NorthSea Global,sea,9.82,2768.33,London,Dublin,Furniture,237.34,Medium
+TerraLogix,air,18.91,484.73,Limerick,Galway,Electronics,5752.17,High
+UrbanMove Transport,air,8.25,1779.17,Cork,Limerick,Machinery,9676.67,High
+UrbanMove Transport,rail,10.26,1622.94,Paris,Belfast,Furniture,553.2,High
+UrbanMove Transport,road,2.63,1739.2,London,Galway,Clothing,796.92,High
+GreenRail Freight,rail,0.63,546.78,Berlin,Dublin,Electronics,10.72,Low
+TerraLogix,air,13.26,2212.47,Galway,Galway,Clothing,19632.39,High
+GreenRail Freight,sea,10.3,375.2,Limerick,Galway,Food,29.65,Low
+NorthSea Global,rail,19.67,2621.27,Berlin,Cork,Furniture,1566.23,High
+GreenRail Freight,road,5.9,1059.35,Limerick,Berlin,Machinery,962.43,High
+EcoRoute Ltd,rail,15.16,71.32,Dublin,Cork,Food,34.72,Low
+TerraLogix,rail,18.68,1446.03,London,Paris,Clothing,842.85,High
+SkyBridge Cargo,sea,18.85,2011.98,Paris,Dublin,Clothing,374.54,High
+EcoRoute Ltd,air,17.48,1235.33,Galway,Dublin,Pharma,13950.2,High
+UrbanMove Transport,sea,7.68,1874.14,Berlin,Paris,Furniture,113.24,Medium
+SkyBridge Cargo,road,12.86,2626.63,London,Berlin,Food,5380.97,High
+TerraLogix,road,7.29,2820.3,Berlin,Cork,Furniture,3117.15,High
+UrbanMove Transport,sea,17.46,2634.89,Dublin,Galway,Machinery,410.34,High
+UrbanMove Transport,air,3.78,1366.55,Cork,Berlin,Furniture,3341.29,High
+NorthSea Global,road,2.56,2980.42,Dublin,Galway,Clothing,1284.13,High
+NorthSea Global,rail,13.49,2856.94,Cork,Galway,Pharma,1128.17,High
+UrbanMove Transport,rail,17.5,2798.75,Cork,London,Machinery,1645.83,High
+UrbanMove Transport,air,13.25,2365.99,Paris,Limerick,Food,17721.04,High
+EcoRoute Ltd,road,7.13,1796.99,Limerick,Cork,Pharma,1902.97,High
+GreenRail Freight,road,6.56,1790.68,Limerick,Paris,Machinery,1843.26,High
+UrbanMove Transport,sea,10.64,1824.77,Limerick,Cork,Machinery,163.3,Medium
+SkyBridge Cargo,sea,16.41,925.63,Limerick,Berlin,Furniture,130.81,Medium
+NorthSea Global,road,12.18,961.23,Cork,Belfast,Furniture,1806.37,High
+NorthSea Global,air,6.18,2901.16,Dublin,London,Food,12405.15,High
+UrbanMove Transport,sea,14.16,205.07,Galway,Berlin,Furniture,25.26,Low
+UrbanMove Transport,sea,19.83,1666.43,London,Paris,Furniture,256.85,Medium
+GreenRail Freight,air,1.9,2193.93,Belfast,Limerick,Furniture,3164.61,High
+NorthSea Global,rail,15.17,1762.13,Dublin,Belfast,Machinery,903.92,High
+GreenRail Freight,air,6.18,477.23,Limerick,Limerick,Furniture,2007.04,High
+TerraLogix,road,13.73,2966.03,Galway,Paris,Machinery,6360.02,High
+EcoRoute Ltd,road,7.43,1447.93,Dublin,Cork,Pharma,1766.83,High
+NorthSea Global,air,5.28,400.47,Paris,Berlin,Clothing,1415.79,High
+UrbanMove Transport,air,15.63,2973.93,Cork,Berlin,Furniture,31265.15,High
+GreenRail Freight,rail,0.73,394.05,Cork,Berlin,Furniture,9.01,Low
+EcoRoute Ltd,air,5.84,2248.81,Galway,Paris,Machinery,9406.72,High
+SkyBridge Cargo,sea,2.44,237.32,Galway,Paris,Furniture,4.49,Low
+TerraLogix,air,1.75,2519.57,Cork,Limerick,Furniture,3334.72,High
+TerraLogix,sea,0.6,1369.34,London,Cork,Electronics,6.54,Low
+NorthSea Global,road,11.47,2561.78,Dublin,Cork,Electronics,4441.1,High
+TerraLogix,sea,8.75,2838.42,Dublin,Limerick,Clothing,209.9,Medium
+SkyBridge Cargo,air,3.23,1496.81,London,London,Pharma,3436.6,High
+EcoRoute Ltd,road,5.12,604.82,Belfast,Limerick,Food,501.69,High
+SkyBridge Cargo,rail,3.01,1885.82,Cork,Belfast,Clothing,183.94,Medium
+GreenRail Freight,air,2.12,799.83,Paris,Galway,Pharma,1087.51,High
+SkyBridge Cargo,sea,14.43,1712.74,Galway,Paris,Food,215.29,Medium
+GreenRail Freight,road,19.3,780.12,Belfast,Cork,Pharma,2293.4,High
+EcoRoute Ltd,rail,12.98,1120.32,London,Belfast,Food,488.39,High
+EcoRoute Ltd,road,7.85,2907.88,Paris,Cork,Electronics,3619.37,High
+SkyBridge Cargo,air,2.36,1079.26,Belfast,Belfast,Pharma,1644.79,High
+SkyBridge Cargo,air,4.02,2427.95,Paris,Berlin,Pharma,5800.61,High
+TerraLogix,sea,13.32,470.88,Belfast,Dublin,Furniture,56.35,Low
+NorthSea Global,air,14.28,590.16,London,Berlin,Pharma,5900.59,High
+TerraLogix,sea,6.45,2580.87,Belfast,Paris,Clothing,162.93,Medium
+EcoRoute Ltd,sea,18.92,537.08,Dublin,Cork,Furniture,83.74,Low
+EcoRoute Ltd,air,13.7,2800.7,Galway,Berlin,Machinery,29828.49,High
+TerraLogix,road,8.41,1868.05,Dublin,Paris,Furniture,2470.23,High
+UrbanMove Transport,road,12.34,2895.71,Limerick,Galway,Electronics,5129.88,High
+SkyBridge Cargo,road,8.74,1168.33,London,Cork,Clothing,1623.84,High
+TerraLogix,road,6.16,1475.22,Belfast,Limerick,Electronics,1471.11,High
+NorthSea Global,rail,18.62,2879.45,Dublin,Berlin,Pharma,1725.81,High
+EcoRoute Ltd,air,6.91,1093.98,Dublin,London,Furniture,4976.83,High
+EcoRoute Ltd,air,10.09,299.99,Galway,Paris,Electronics,2019.62,High
+UrbanMove Transport,rail,4.91,1216.31,Belfast,London,Machinery,199.6,Medium
+SkyBridge Cargo,road,19.79,1986.02,Berlin,Galway,Food,6649.91,High
+SkyBridge Cargo,sea,2.66,890.45,Galway,Paris,Machinery,23.14,Low
+NorthSea Global,sea,18.99,2881.11,Belfast,Cork,Machinery,468.45,High
+UrbanMove Transport,sea,6.84,2304.96,Paris,Paris,Food,119.93,Medium
+EcoRoute Ltd,sea,3.53,1525.0,Limerick,Dublin,Furniture,47.33,Low
+TerraLogix,road,8.97,903.93,Berlin,Cork,Machinery,1222.05,High
+TerraLogix,sea,5.36,2311.85,Belfast,Limerick,Furniture,100.44,Medium
+UrbanMove Transport,road,14.17,1531.89,Galway,Limerick,Pharma,3312.11,High
+EcoRoute Ltd,sea,8.33,857.89,Limerick,Galway,Machinery,49.26,Low
+EcoRoute Ltd,air,8.44,954.02,Limerick,Limerick,Clothing,5287.65,High
+GreenRail Freight,road,6.43,844.28,Belfast,London,Furniture,855.28,High
+EcoRoute Ltd,sea,1.3,203.79,London,Limerick,Clothing,2.26,Low
+EcoRoute Ltd,air,4.1,2847.57,London,London,Clothing,8253.27,High
+UrbanMove Transport,sea,6.96,2236.81,London,London,Food,121.93,Medium
+GreenRail Freight,road,17.8,434.93,Cork,Dublin,Pharma,1272.37,High
+NorthSea Global,sea,14.24,2780.23,Cork,London,Clothing,365.35,High
+NorthSea Global,sea,1.35,615.53,Belfast,London,Clothing,7.44,Low
+GreenRail Freight,road,9.92,1595.1,Dublin,Galway,Pharma,2732.06,High
+SkyBridge Cargo,road,19.14,229.34,Limerick,Paris,Machinery,723.59,High
+EcoRoute Ltd,sea,9.04,1552.37,Paris,Paris,Pharma,116.2,Medium
+NorthSea Global,sea,12.05,76.14,Berlin,Belfast,Clothing,7.92,Low
+SkyBridge Cargo,road,3.84,184.56,Limerick,Belfast,Electronics,118.46,Medium
+SkyBridge Cargo,sea,5.77,2382.33,Limerick,Limerick,Pharma,115.64,Medium
+UrbanMove Transport,rail,6.83,2841.96,Belfast,Galway,Machinery,652.2,High
+EcoRoute Ltd,road,16.57,696.87,Belfast,Galway,Clothing,1816.63,High
+TerraLogix,road,14.59,2079.94,Belfast,Limerick,Machinery,4809.12,High
+TerraLogix,air,3.54,733.58,Paris,London,Food,1912.39,High
+NorthSea Global,air,4.11,2593.94,Limerick,Berlin,Furniture,6560.94,High
+SkyBridge Cargo,sea,17.76,2461.62,Limerick,Cork,Food,341.95,High
+UrbanMove Transport,air,2.45,1604.0,Dublin,Cork,Machinery,2590.82,High
+EcoRoute Ltd,road,3.08,2321.85,Belfast,Galway,Furniture,1193.29,High
+EcoRoute Ltd,road,11.08,2463.85,Cork,Limerick,Food,4206.16,High
+GreenRail Freight,sea,6.49,1462.78,Limerick,Dublin,Pharma,80.61,Low
+EcoRoute Ltd,road,16.59,353.31,Belfast,Cork,Pharma,965.97,High
+EcoRoute Ltd,sea,0.97,1310.05,Galway,London,Furniture,11.41,Low
+UrbanMove Transport,air,13.89,2158.81,Cork,Berlin,Food,21829.12,High
+SkyBridge Cargo,rail,1.99,1034.49,London,Cork,Electronics,62.46,Low
+TerraLogix,rail,12.19,2054.33,Galway,Belfast,Pharma,841.53,High
+EcoRoute Ltd,rail,18.37,2002.11,Belfast,Cork,Electronics,1126.05,High
+UrbanMove Transport,sea,6.74,1202.27,Berlin,Cork,Electronics,76.01,Low
+SkyBridge Cargo,sea,2.26,2984.58,Galway,Paris,Clothing,50.05,Low
+UrbanMove Transport,air,12.23,1927.98,Galway,Limerick,Machinery,15628.01,High
+TerraLogix,air,10.88,2473.14,Paris,Cork,Pharma,18029.08,High
+UrbanMove Transport,sea,14.21,743.82,Dublin,Limerick,Electronics,81.33,Low
+NorthSea Global,road,1.66,1080.58,Galway,Belfast,Machinery,293.74,Medium
+GreenRail Freight,sea,4.61,712.53,Galway,Cork,Furniture,27.44,Low
+EcoRoute Ltd,air,7.75,2119.14,Cork,Berlin,Pharma,11412.48,High
+SkyBridge Cargo,sea,2.04,277.34,Paris,Galway,Food,4.54,Low
+TerraLogix,rail,9.67,2181.54,Berlin,Dublin,Clothing,612.56,High
+UrbanMove Transport,road,12.28,562.06,Galway,Dublin,Machinery,1166.68,High
+GreenRail Freight,rail,18.42,1530.52,Limerick,Paris,Food,767.04,High
+GreenRail Freight,sea,14.99,1231.19,Dublin,Limerick,Machinery,159.2,Medium
+TerraLogix,road,16.42,1431.89,London,Paris,Machinery,3551.18,High
+UrbanMove Transport,air,4.3,369.78,Cork,London,Pharma,1029.77,High
+NorthSea Global,rail,3.67,364.07,Limerick,Dublin,Clothing,38.04,Low
+EcoRoute Ltd,sea,5.75,2931.16,Dublin,Berlin,Electronics,136.63,Medium
+SkyBridge Cargo,road,19.62,2267.45,Paris,Limerick,Clothing,7729.06,High
+NorthSea Global,road,6.96,2694.71,Cork,Galway,Electronics,2906.49,High
+TerraLogix,road,6.16,497.04,Berlin,Cork,Furniture,456.42,High
+NorthSea Global,sea,15.49,525.09,London,Berlin,Food,64.71,Low
+GreenRail Freight,road,17.87,2333.82,Paris,Limerick,Food,7781.0,High
+NorthSea Global,air,2.4,94.08,Belfast,Cork,Machinery,144.94,Medium
+SkyBridge Cargo,sea,1.83,1750.71,London,Cork,Electronics,26.96,Low
+SkyBridge Cargo,air,19.58,2301.28,Berlin,Galway,Electronics,34362.45,High
+SkyBridge Cargo,rail,8.32,2578.15,Galway,Berlin,Clothing,694.06,High
+SkyBridge Cargo,rail,2.13,1268.92,Berlin,Belfast,Furniture,82.51,Low
+EcoRoute Ltd,sea,14.15,1704.36,Galway,Cork,Clothing,198.62,Medium
+EcoRoute Ltd,sea,8.07,1413.72,Cork,London,Machinery,95.48,Low
+GreenRail Freight,road,2.17,2208.75,Paris,Paris,Food,708.33,High
+SkyBridge Cargo,air,4.65,2236.79,Cork,Belfast,Machinery,6624.3,High
+GreenRail Freight,sea,12.98,994.55,Dublin,Paris,Electronics,113.99,Medium
+GreenRail Freight,air,4.66,673.9,Dublin,Paris,Clothing,2069.71,High
+NorthSea Global,road,5.84,291.04,Berlin,Paris,Pharma,266.45,Medium
+NorthSea Global,road,2.3,2709.84,London,Belfast,Food,987.11,High
+GreenRail Freight,air,10.94,2362.38,Paris,London,Furniture,16770.68,High
+TerraLogix,sea,2.02,2020.49,Galway,London,Furniture,39.97,Low
+UrbanMove Transport,rail,0.78,2694.68,Galway,Berlin,Clothing,66.75,Low
+GreenRail Freight,rail,10.65,60.85,Berlin,Galway,Furniture,22.27,Low
+EcoRoute Ltd,road,4.76,2938.14,Paris,Galway,Pharma,1825.46,High
+NorthSea Global,road,7.72,1123.19,Belfast,Belfast,Pharma,1508.51,High
+GreenRail Freight,air,8.57,1087.6,Paris,London,Electronics,6690.16,High
+SkyBridge Cargo,sea,11.28,529.84,Paris,Paris,Clothing,56.49,Low
+GreenRail Freight,rail,14.19,2816.81,Cork,Cork,Electronics,1060.36,High
+GreenRail Freight,road,10.18,2267.59,Cork,Berlin,Pharma,3602.61,High
+SkyBridge Cargo,air,4.63,2341.8,Paris,Cork,Food,7796.04,High
+SkyBridge Cargo,air,8.55,2470.23,Paris,Dublin,Clothing,14602.96,High
+SkyBridge Cargo,rail,6.49,2712.89,Paris,Limerick,Electronics,632.6,High
+EcoRoute Ltd,road,3.49,1154.5,London,London,Food,707.72,High
+NorthSea Global,air,4.26,1951.08,Dublin,Paris,Food,6028.71,High
+UrbanMove Transport,sea,8.36,988.47,Galway,Paris,Food,70.37,Low
+TerraLogix,road,12.81,2363.63,Belfast,Galway,Clothing,4478.09,High
+GreenRail Freight,road,12.76,1800.2,Dublin,Cork,Pharma,3676.16,High
+NorthSea Global,air,12.87,2343.89,Galway,Limerick,Furniture,21682.74,High
+TerraLogix,sea,14.66,2430.94,Paris,Belfast,Furniture,301.62,High
+NorthSea Global,road,12.95,1759.1,Cork,Cork,Machinery,3650.18,High
+NorthSea Global,rail,5.61,582.85,Cork,Berlin,Clothing,106.85,Medium
+EcoRoute Ltd,air,16.01,1270.55,Berlin,Cork,Food,14775.69,High
+SkyBridge Cargo,air,16.27,580.43,Dublin,Galway,Furniture,6926.45,High
+EcoRoute Ltd,road,19.53,2981.53,Berlin,Dublin,Food,9481.64,High
+EcoRoute Ltd,sea,12.32,1631.06,Galway,Limerick,Clothing,159.67,Medium
+SkyBridge Cargo,sea,4.79,2196.84,Galway,Belfast,Clothing,87.69,Low
+SkyBridge Cargo,rail,9.61,2436.58,Paris,Paris,Food,745.35,High
+UrbanMove Transport,rail,19.26,353.54,Belfast,Galway,Food,216.86,Medium
+GreenRail Freight,air,12.13,851.44,London,Cork,Pharma,6810.51,High
+SkyBridge Cargo,rail,18.01,2467.06,Berlin,Galway,Electronics,1404.45,High
+GreenRail Freight,rail,12.28,2637.89,London,Paris,Electronics,992.25,High
+GreenRail Freight,sea,7.48,264.29,London,London,Food,16.85,Low
+SkyBridge Cargo,road,14.48,680.63,London,Limerick,Pharma,1444.55,High
+NorthSea Global,sea,2.51,870.24,Cork,Paris,Furniture,19.04,Low
+SkyBridge Cargo,sea,4.34,2418.04,Berlin,Dublin,Clothing,90.44,Low
+NorthSea Global,rail,12.03,747.44,Dublin,Belfast,Electronics,306.54,High
+EcoRoute Ltd,air,6.05,2532.85,Paris,Dublin,Pharma,10434.02,High
+UrbanMove Transport,road,1.85,330.6,Paris,Belfast,Clothing,96.68,Low
+EcoRoute Ltd,rail,10.13,188.86,Belfast,Berlin,Machinery,69.97,Low
+EcoRoute Ltd,rail,18.79,353.09,Limerick,Dublin,Electronics,196.33,Medium
+UrbanMove Transport,air,4.91,309.65,London,Dublin,Furniture,1095.5,High
+EcoRoute Ltd,road,1.44,947.66,Belfast,London,Furniture,233.11,Medium
+SkyBridge Cargo,sea,18.53,1771.19,Cork,Galway,Clothing,294.44,Medium
+GreenRail Freight,air,13.53,1589.2,Limerick,Berlin,Furniture,15278.53,High
+UrbanMove Transport,air,4.9,828.25,Belfast,Cork,Clothing,2887.32,High
+UrbanMove Transport,sea,14.05,271.68,Berlin,Dublin,Food,29.08,Low
+GreenRail Freight,sea,10.01,1054.33,London,Belfast,Furniture,84.11,Low
+TerraLogix,road,18.33,695.42,London,Paris,Machinery,2121.55,High
+GreenRail Freight,sea,1.84,1298.13,Belfast,Cork,Food,18.07,Low
+EcoRoute Ltd,sea,0.82,1409.5,Belfast,Dublin,Machinery,9.23,Low
+SkyBridge Cargo,road,18.58,298.0,Paris,Limerick,Food,919.25,High
+SkyBridge Cargo,road,9.11,1140.85,Dublin,Paris,Furniture,1617.3,High
+NorthSea Global,air,3.94,863.98,Berlin,Paris,Electronics,2314.1,High
+EcoRoute Ltd,sea,2.75,2690.42,Belfast,Limerick,Electronics,54.6,Low
+TerraLogix,air,8.14,348.85,Belfast,Berlin,Food,1728.16,High
+UrbanMove Transport,rail,14.26,899.54,Dublin,Cork,Food,387.74,High
+GreenRail Freight,rail,17.12,2079.41,Galway,London,Furniture,1103.76,High
+GreenRail Freight,sea,19.26,2014.79,Paris,London,Electronics,318.56,High
+EcoRoute Ltd,sea,13.74,2566.61,London,Berlin,Pharma,276.06,Medium
+GreenRail Freight,road,1.38,101.3,Belfast,Limerick,Pharma,25.01,Low
+EcoRoute Ltd,road,6.44,2221.75,Berlin,Berlin,Furniture,2321.8,High
+UrbanMove Transport,air,5.44,1403.31,London,Belfast,Furniture,5015.61,High
+UrbanMove Transport,air,2.7,2073.06,Dublin,Galway,Machinery,3635.8,High
+NorthSea Global,rail,10.21,770.89,Paris,London,Food,275.55,Medium
+GreenRail Freight,road,19.33,2637.57,Berlin,Galway,Clothing,7847.76,High
+SkyBridge Cargo,air,11.99,2838.54,Belfast,Belfast,Food,19907.97,High
+SkyBridge Cargo,road,8.95,1392.33,London,Belfast,Electronics,2194.08,High
+UrbanMove Transport,sea,9.59,493.17,Belfast,Galway,Clothing,42.44,Low
+SkyBridge Cargo,road,9.35,691.11,Cork,Dublin,Machinery,1049.1,High
+UrbanMove Transport,road,1.47,456.27,Belfast,Galway,Electronics,107.66,Medium
+UrbanMove Transport,sea,8.92,2758.87,Belfast,Limerick,Electronics,208.67,Medium
+UrbanMove Transport,air,8.74,2902.38,Cork,Belfast,Clothing,17656.74,High
+GreenRail Freight,rail,16.19,460.57,Limerick,Belfast,Food,233.15,Medium
+SkyBridge Cargo,road,6.3,2785.0,Berlin,Galway,Machinery,3019.5,High
+EcoRoute Ltd,sea,10.77,2097.69,London,Berlin,Clothing,187.22,Medium
+GreenRail Freight,air,1.04,1698.78,Paris,Cork,Food,1197.24,High
+NorthSea Global,rail,2.98,1652.65,Belfast,Dublin,Machinery,143.84,Medium
+GreenRail Freight,air,16.86,299.74,Belfast,Cork,Clothing,3573.58,High
+TerraLogix,air,13.97,2599.73,Cork,Dublin,Furniture,20826.92,High
+UrbanMove Transport,air,3.16,2690.4,Galway,Belfast,Furniture,5914.34,High
+EcoRoute Ltd,air,12.66,642.06,Cork,Dublin,Food,5144.96,High
+EcoRoute Ltd,sea,4.48,1447.54,Berlin,Paris,Electronics,53.8,Low
+GreenRail Freight,sea,16.5,2533.08,Belfast,Berlin,Furniture,357.73,High
+UrbanMove Transport,road,4.1,2464.72,Limerick,Galway,Pharma,1762.62,High
+GreenRail Freight,air,6.16,2019.23,Berlin,London,Furniture,8485.4,High
+EcoRoute Ltd,air,8.63,1303.26,Dublin,Belfast,Machinery,6593.61,High
+TerraLogix,rail,1.16,1968.75,Berlin,Dublin,Clothing,73.2,Low
+UrbanMove Transport,air,5.9,2946.17,London,Limerick,Clothing,13135.11,High
+TerraLogix,road,3.9,496.64,London,Berlin,Furniture,294.58,Medium
+UrbanMove Transport,rail,18.51,251.22,Berlin,Paris,Machinery,142.16,Medium
+UrbanMove Transport,rail,3.02,1006.03,London,Paris,Electronics,95.27,Low
+NorthSea Global,sea,2.38,363.35,Berlin,London,Food,7.7,Low
+UrbanMove Transport,sea,2.56,2648.23,Paris,Paris,Electronics,52.19,Low
+EcoRoute Ltd,road,9.11,1154.25,Dublin,Galway,Clothing,1448.32,High
+NorthSea Global,sea,4.32,1498.75,Belfast,Limerick,Food,54.39,Low
+TerraLogix,sea,2.18,121.52,Cork,Limerick,Electronics,2.46,Low
+SkyBridge Cargo,air,11.58,2600.25,London,Galway,Furniture,20633.53,High
+UrbanMove Transport,air,4.21,662.05,Berlin,London,Clothing,1988.52,High
+NorthSea Global,road,9.06,1895.14,Cork,Cork,Food,2754.16,High
+EcoRoute Ltd,air,5.0,1824.39,London,Dublin,Food,6539.1,High
+SkyBridge Cargo,air,14.21,250.46,Galway,Belfast,Electronics,2400.84,High
+TerraLogix,rail,8.28,217.11,Cork,Berlin,Clothing,58.7,Low
+GreenRail Freight,rail,4.41,2669.68,Dublin,Galway,Food,385.23,High
+UrbanMove Transport,road,5.09,265.09,Dublin,London,Electronics,224.68,Medium
+TerraLogix,road,17.81,1462.38,Galway,Belfast,Furniture,3662.31,High
+TerraLogix,sea,13.18,1322.97,Belfast,Limerick,Electronics,151.67,Medium
+NorthSea Global,air,13.8,2226.87,Berlin,Dublin,Machinery,22308.29,High
+GreenRail Freight,air,11.22,390.97,Cork,London,Clothing,2847.68,High
+EcoRoute Ltd,sea,5.02,1786.42,Limerick,Paris,Furniture,78.22,Low
+TerraLogix,road,19.82,93.95,Limerick,Dublin,Electronics,263.35,Medium
+SkyBridge Cargo,road,6.63,1827.13,Limerick,Belfast,Food,1806.86,High
+EcoRoute Ltd,road,1.99,2818.19,Limerick,Berlin,Furniture,973.8,High
+NorthSea Global,air,14.41,2827.21,Belfast,Limerick,Pharma,27202.78,High
+TerraLogix,road,1.55,2706.25,Berlin,Belfast,Electronics,585.95,High
+TerraLogix,sea,6.45,1681.25,Cork,London,Furniture,88.58,Low
+NorthSea Global,air,13.17,1388.6,Cork,Dublin,Machinery,13312.47,High
+TerraLogix,air,6.36,2897.03,Dublin,Belfast,Pharma,11553.61,High
+GreenRail Freight,air,9.16,712.12,Paris,Galway,Furniture,4462.32,High
+SkyBridge Cargo,road,11.06,1076.02,Dublin,London,Clothing,1919.66,High
+EcoRoute Ltd,rail,14.65,1883.52,Paris,Dublin,Electronics,930.61,High
+UrbanMove Transport,rail,17.24,2817.03,Berlin,Paris,Pharma,1564.59,High
+SkyBridge Cargo,sea,19.23,1428.63,Limerick,Galway,Electronics,251.45,Medium
+SkyBridge Cargo,road,19.98,2325.45,Belfast,London,Pharma,6884.81,High
+SkyBridge Cargo,rail,13.35,2358.16,Dublin,Cork,Clothing,997.57,High
+SkyBridge Cargo,sea,9.15,100.94,Dublin,Berlin,Electronics,8.51,Low
+TerraLogix,sea,8.47,1759.73,Cork,Belfast,Pharma,134.83,Medium
+GreenRail Freight,sea,5.53,2370.87,Belfast,Berlin,Food,101.13,Medium
+TerraLogix,road,5.04,1981.07,Galway,Berlin,Pharma,1530.5,High
+NorthSea Global,road,19.06,2976.31,Belfast,Dublin,Furniture,9762.12,High
+TerraLogix,road,12.21,1081.7,Cork,Berlin,Electronics,2011.38,High
+SkyBridge Cargo,rail,16.67,2059.0,Cork,Paris,Clothing,1055.87,High
+SkyBridge Cargo,rail,19.51,2697.31,London,Berlin,Clothing,1801.2,High
+EcoRoute Ltd,rail,18.64,2740.02,Dublin,Cork,Pharma,1468.18,High
+UrbanMove Transport,rail,18.83,1167.58,Dublin,Galway,Machinery,685.94,High
+EcoRoute Ltd,sea,11.53,2993.55,Paris,Cork,Pharma,305.03,High
+UrbanMove Transport,air,6.68,625.32,Belfast,Limerick,Clothing,3174.41,High
+SkyBridge Cargo,sea,9.39,2257.16,Cork,Limerick,Machinery,184.91,Medium
+SkyBridge Cargo,road,7.36,1541.65,London,Berlin,Pharma,1909.84,High
+NorthSea Global,sea,18.55,772.58,Paris,Galway,Pharma,123.19,Medium
+SkyBridge Cargo,road,2.09,1292.02,Galway,Berlin,Furniture,423.54,High
+NorthSea Global,air,0.8,406.33,Belfast,Berlin,Furniture,223.32,Medium
+GreenRail Freight,road,13.96,2970.3,Galway,Paris,Machinery,6834.79,High
+TerraLogix,sea,14.38,401.14,London,Cork,Furniture,45.54,Low
+SkyBridge Cargo,air,18.26,1910.95,Paris,Belfast,Machinery,24910.73,High
+UrbanMove Transport,road,3.47,72.96,London,Berlin,Machinery,36.4,Low
+UrbanMove Transport,rail,18.92,335.85,Belfast,Berlin,Clothing,177.72,Medium
+TerraLogix,air,6.06,1183.0,Galway,Galway,Electronics,5098.36,High
+UrbanMove Transport,sea,8.9,870.86,London,Cork,Clothing,56.72,Low
+SkyBridge Cargo,air,9.06,2661.78,Belfast,Belfast,Pharma,17884.48,High
+UrbanMove Transport,rail,3.25,660.19,Galway,Dublin,Pharma,72.67,Low
+TerraLogix,sea,0.63,2505.89,Dublin,London,Food,13.61,Low
+GreenRail Freight,air,10.66,2501.56,Belfast,Cork,Furniture,18106.3,High
+GreenRail Freight,air,10.12,306.25,Galway,Belfast,Furniture,2311.11,High
+EcoRoute Ltd,sea,14.68,1014.99,London,Belfast,Machinery,132.77,Medium
+EcoRoute Ltd,rail,17.9,163.15,Cork,London,Food,89.58,Low
+UrbanMove Transport,road,19.01,1900.49,Limerick,Galway,Pharma,5957.68,High
+UrbanMove Transport,sea,5.67,496.73,Galway,Berlin,Clothing,24.1,Low
+EcoRoute Ltd,sea,0.56,248.42,Limerick,Galway,Electronics,1.06,Low
+GreenRail Freight,sea,12.94,1478.49,Galway,Belfast,Food,185.48,Medium
+GreenRail Freight,air,12.16,1653.07,Belfast,Cork,Food,13751.66,High
+SkyBridge Cargo,air,19.4,1009.92,Paris,Cork,Food,12603.15,High
+EcoRoute Ltd,rail,14.09,2129.22,Berlin,Berlin,Pharma,904.34,High
+SkyBridge Cargo,rail,10.4,2674.94,Paris,Dublin,Pharma,911.68,High
+SkyBridge Cargo,air,8.13,1353.76,Paris,Belfast,Electronics,7466.28,High
+SkyBridge Cargo,road,6.52,1258.94,Galway,Limerick,Furniture,1314.27,High
+TerraLogix,rail,3.02,1642.31,Dublin,Paris,Electronics,152.98,Medium
+SkyBridge Cargo,road,13.27,1580.01,London,Limerick,Food,3455.49,High
+UrbanMove Transport,sea,6.16,526.14,London,London,Machinery,24.93,Low
+EcoRoute Ltd,road,16.99,2277.61,Cork,Paris,Machinery,5525.13,High
+EcoRoute Ltd,sea,12.82,2079.81,Dublin,Belfast,Furniture,208.58,Medium
+UrbanMove Transport,air,3.06,2234.55,Belfast,Cork,Electronics,4319.25,High
+UrbanMove Transport,air,0.89,2240.82,Galway,Cork,Furniture,1443.52,High
+TerraLogix,rail,15.8,1304.2,Dublin,Belfast,Clothing,651.58,High
+UrbanMove Transport,air,7.84,1317.13,Limerick,Paris,Pharma,6869.94,High
+UrbanMove Transport,sea,7.96,2979.8,Paris,London,Pharma,194.2,Medium
+TerraLogix,road,8.25,734.74,London,Berlin,Pharma,867.91,High
+NorthSea Global,road,2.36,549.3,Berlin,Limerick,Electronics,207.79,Medium
+GreenRail Freight,sea,1.65,1505.58,Paris,Belfast,Furniture,19.76,Low
+SkyBridge Cargo,air,17.49,841.03,Limerick,Berlin,Pharma,11649.12,High
+NorthSea Global,rail,9.5,1474.84,Cork,Cork,Machinery,456.69,High
+EcoRoute Ltd,sea,10.64,408.36,Limerick,Berlin,Electronics,34.11,Low
+NorthSea Global,air,3.23,2628.93,Paris,Paris,Electronics,5502.11,High
+SkyBridge Cargo,rail,10.69,1864.55,London,Galway,Food,625.03,High
+TerraLogix,rail,10.63,791.16,Berlin,Limerick,Clothing,286.37,Medium
+NorthSea Global,sea,10.73,2496.75,Dublin,London,Machinery,221.51,Medium
+EcoRoute Ltd,rail,14.18,637.84,Cork,Berlin,Clothing,284.74,Medium
+TerraLogix,sea,1.8,1927.21,Limerick,London,Furniture,25.1,Low
+SkyBridge Cargo,air,11.9,951.96,Paris,Belfast,Pharma,7425.6,High
+EcoRoute Ltd,sea,2.51,688.5,Galway,Belfast,Pharma,12.85,Low
+TerraLogix,air,6.94,2327.34,Belfast,Berlin,Food,11080.18,High
+NorthSea Global,road,18.63,1864.02,Galway,Galway,Machinery,5375.92,High
+EcoRoute Ltd,sea,10.48,1347.08,Berlin,London,Clothing,101.63,Medium
+TerraLogix,air,7.86,1187.31,Berlin,London,Clothing,6675.37,High
+EcoRoute Ltd,sea,19.13,2839.2,Belfast,Galway,Machinery,514.22,High
+SkyBridge Cargo,road,11.38,1334.47,London,Galway,Electronics,2616.97,High
+UrbanMove Transport,rail,14.71,680.65,Limerick,Paris,Clothing,321.34,High
+EcoRoute Ltd,sea,9.12,1601.71,Dublin,Belfast,Clothing,114.34,Medium
+SkyBridge Cargo,road,12.33,148.91,Belfast,Berlin,Machinery,274.34,Medium
+SkyBridge Cargo,rail,12.69,2914.87,Dublin,Berlin,Pharma,1238.19,High
+GreenRail Freight,road,1.24,135.07,Galway,Galway,Food,25.31,Low
+EcoRoute Ltd,road,9.15,2146.24,London,Cork,Pharma,3146.73,High
+UrbanMove Transport,road,6.99,2032.37,London,Galway,Pharma,2312.7,High
+EcoRoute Ltd,air,8.62,2019.78,Dublin,Cork,Food,12079.32,High
+UrbanMove Transport,rail,2.14,1358.03,Belfast,Limerick,Furniture,92.78,Low
+UrbanMove Transport,road,6.57,1703.65,Cork,London,Machinery,1804.38,High
+TerraLogix,air,2.22,2758.13,Galway,Cork,Food,3974.71,High
+EcoRoute Ltd,sea,15.88,691.7,London,Berlin,Electronics,104.41,Medium
+SkyBridge Cargo,sea,15.07,2227.43,Belfast,Dublin,Machinery,268.53,Medium
+NorthSea Global,rail,8.57,2514.06,Belfast,Limerick,Food,708.86,High
+GreenRail Freight,rail,2.3,1097.7,London,London,Furniture,82.63,Low
+UrbanMove Transport,sea,1.22,2512.44,Paris,Galway,Pharma,28.73,Low
+GreenRail Freight,rail,13.1,2061.95,Belfast,Limerick,Clothing,895.83,High
+UrbanMove Transport,rail,2.27,2331.56,Belfast,Limerick,Machinery,168.07,Medium
+TerraLogix,sea,9.77,1428.38,London,London,Pharma,120.86,Medium
+EcoRoute Ltd,rail,14.18,1906.94,Dublin,Galway,Machinery,890.73,High
+EcoRoute Ltd,sea,18.31,953.51,Berlin,Galway,Electronics,151.15,Medium
+TerraLogix,air,14.75,1447.04,Limerick,Belfast,Furniture,14063.69,High
+UrbanMove Transport,air,6.35,2913.76,Limerick,Cork,Machinery,11400.16,High
+TerraLogix,air,12.06,533.88,Galway,Belfast,Pharma,4696.63,High
+NorthSea Global,sea,3.03,1032.78,Dublin,Cork,Clothing,25.99,Low
+SkyBridge Cargo,air,8.22,1408.73,Galway,Limerick,Food,7102.78,High
+NorthSea Global,sea,9.01,2186.2,Galway,London,Electronics,160.79,Medium
+GreenRail Freight,air,14.13,2742.86,Paris,Berlin,Furniture,26681.77,High
+GreenRail Freight,sea,6.71,2809.02,Paris,London,Clothing,173.93,Medium
+GreenRail Freight,air,10.92,1073.26,Dublin,Limerick,Pharma,7383.08,High
+SkyBridge Cargo,rail,10.28,54.7,Paris,Cork,Furniture,17.43,Low
+EcoRoute Ltd,sea,6.39,323.91,Paris,Galway,Machinery,16.23,Low
+UrbanMove Transport,air,1.18,2877.61,Paris,Galway,Food,2070.57,High
+EcoRoute Ltd,air,16.22,1071.55,Cork,Paris,Electronics,10300.21,High
+TerraLogix,air,13.88,84.19,Paris,Paris,Electronics,749.46,High
+UrbanMove Transport,road,12.27,2417.13,Berlin,London,Machinery,4727.88,High
+SkyBridge Cargo,road,15.82,2943.17,Paris,Cork,Food,7345.25,High
+UrbanMove Transport,rail,4.35,2447.86,Berlin,Paris,Electronics,341.85,High
+GreenRail Freight,air,7.66,2673.04,London,Belfast,Machinery,14162.64,High
+EcoRoute Ltd,rail,3.99,1102.81,Dublin,Berlin,Clothing,126.47,Medium
+EcoRoute Ltd,rail,14.77,1617.24,Paris,Limerick,Food,729.7,High
+UrbanMove Transport,sea,12.84,1321.75,Belfast,London,Machinery,143.57,Medium
+UrbanMove Transport,air,1.29,1013.44,Dublin,Galway,Pharma,954.89,High
+EcoRoute Ltd,air,10.5,2189.93,London,Belfast,Machinery,14491.52,High
+UrbanMove Transport,rail,14.57,2240.92,Cork,Paris,Electronics,1066.67,High
+SkyBridge Cargo,sea,14.04,194.05,Berlin,Limerick,Machinery,22.17,Low
+NorthSea Global,rail,10.28,184.94,Paris,Galway,Furniture,55.44,Low
+NorthSea Global,road,15.75,1988.78,Belfast,Belfast,Machinery,5301.42,High
+SkyBridge Cargo,road,4.82,103.32,London,Limerick,Electronics,81.73,Low
+TerraLogix,air,11.96,1922.58,London,Paris,Machinery,16144.06,High
+SkyBridge Cargo,rail,7.25,1360.93,Berlin,Berlin,Food,319.01,High
+GreenRail Freight,rail,8.36,1999.06,Cork,Berlin,Pharma,562.69,High
+UrbanMove Transport,rail,6.43,2265.03,Berlin,Berlin,Electronics,407.46,High
+TerraLogix,rail,11.52,1275.41,Dublin,Belfast,Pharma,448.55,High
+GreenRail Freight,sea,7.88,2849.02,Cork,Cork,Machinery,198.86,Medium
+TerraLogix,rail,3.98,519.4,Paris,Paris,Clothing,62.72,Low
+TerraLogix,rail,6.73,1121.37,Cork,London,Pharma,233.8,Medium
+GreenRail Freight,air,15.26,894.54,Berlin,Galway,Food,8177.06,High
+SkyBridge Cargo,air,13.3,2065.89,Cork,Paris,Pharma,18551.41,High
+GreenRail Freight,sea,12.91,1875.68,Galway,Cork,Pharma,208.86,Medium
+EcoRoute Ltd,rail,12.39,541.05,Berlin,Cork,Clothing,206.3,Medium
+UrbanMove Transport,air,11.27,2597.14,Galway,Berlin,Clothing,19515.12,High
+GreenRail Freight,sea,6.79,914.3,Dublin,Limerick,Pharma,44.03,Low
+TerraLogix,air,19.8,2400.42,Berlin,Cork,Pharma,34578.62,High
+NorthSea Global,sea,9.51,2889.3,Dublin,Dublin,Furniture,250.56,Medium
+GreenRail Freight,air,1.87,1280.41,Belfast,Cork,Furniture,1613.09,High
+TerraLogix,road,9.05,2491.87,Dublin,Belfast,Machinery,3845.72,High
+EcoRoute Ltd,rail,8.29,2785.8,Berlin,Paris,Electronics,710.69,High
+TerraLogix,road,14.58,1131.07,London,Galway,Food,2698.58,High
+EcoRoute Ltd,rail,13.02,268.51,Berlin,Limerick,Clothing,110.46,Medium
+SkyBridge Cargo,air,14.14,1726.28,Dublin,Galway,Food,15099.89,High
+SkyBridge Cargo,rail,14.42,954.66,Galway,Belfast,Machinery,480.45,High
+NorthSea Global,sea,3.36,912.38,Paris,Belfast,Furniture,25.48,Low
+TerraLogix,rail,3.39,85.6,London,Paris,Machinery,8.96,Low
+SkyBridge Cargo,sea,11.95,1528.23,London,Paris,Machinery,156.25,Medium
+GreenRail Freight,sea,9.94,1170.62,Cork,London,Food,90.2,Low
+SkyBridge Cargo,road,13.17,1101.68,Berlin,Dublin,Furniture,2378.94,High
+TerraLogix,sea,14.96,1122.5,Dublin,Paris,Furniture,129.26,Medium
+EcoRoute Ltd,rail,11.29,1627.52,Cork,Dublin,Machinery,616.16,High
+SkyBridge Cargo,sea,13.95,1969.88,Limerick,Limerick,Furniture,214.99,Medium
+TerraLogix,rail,11.26,319.51,Limerick,Cork,Food,99.7,Low
+NorthSea Global,sea,11.92,1764.75,Berlin,Cork,Pharma,190.07,Medium
+UrbanMove Transport,road,4.33,393.4,Cork,Berlin,Food,252.48,Medium
+TerraLogix,air,6.35,78.33,Paris,Cork,Furniture,358.76,High
+NorthSea Global,air,19.85,792.66,Paris,Belfast,Machinery,11281.62,High
+GreenRail Freight,rail,19.05,933.93,Limerick,London,Clothing,559.38,High
+UrbanMove Transport,air,2.67,2282.01,Galway,Berlin,Electronics,4618.64,High
+GreenRail Freight,air,3.68,243.4,Paris,Belfast,Electronics,665.53,High
+UrbanMove Transport,sea,4.28,370.7,Limerick,Limerick,Clothing,12.77,Low
+TerraLogix,air,2.51,935.18,Limerick,Galway,Clothing,1730.48,High
+NorthSea Global,sea,12.4,513.54,Berlin,Paris,Furniture,52.58,Low
+GreenRail Freight,rail,7.73,953.39,London,London,Machinery,235.49,Medium
+GreenRail Freight,road,15.36,1242.04,Paris,London,Furniture,3343.82,High
+SkyBridge Cargo,road,16.46,646.53,Belfast,Belfast,Clothing,1651.95,High
+GreenRail Freight,rail,11.38,2230.1,Limerick,Berlin,Clothing,792.54,High
+SkyBridge Cargo,air,18.86,1799.17,Dublin,Paris,Furniture,25314.95,High
+NorthSea Global,rail,19.75,1779.04,Dublin,Cork,Electronics,1063.2,High
+SkyBridge Cargo,air,18.51,377.54,Galway,Cork,Clothing,5337.42,High
+NorthSea Global,sea,12.0,1743.56,Cork,Berlin,Food,166.61,Medium
+UrbanMove Transport,rail,11.36,2461.06,Dublin,Galway,Electronics,1033.3,High
+UrbanMove Transport,rail,19.17,1115.63,Berlin,Limerick,Food,641.64,High
+SkyBridge Cargo,rail,4.38,2915.74,Belfast,Belfast,Pharma,388.77,High
+EcoRoute Ltd,air,8.83,2427.89,Dublin,Dublin,Pharma,14599.26,High
+EcoRoute Ltd,rail,15.91,1501.43,London,Cork,Furniture,626.97,High
+TerraLogix,road,10.87,2405.84,Cork,Berlin,Pharma,3881.59,High
+EcoRoute Ltd,air,16.45,1423.86,Galway,London,Electronics,16287.14,High
+GreenRail Freight,air,17.84,1234.32,Belfast,Dublin,Pharma,14476.23,High
+NorthSea Global,rail,8.83,813.62,Limerick,London,Pharma,217.75,Medium
+TerraLogix,rail,17.92,2158.97,Galway,Limerick,Food,1158.25,High
+EcoRoute Ltd,road,15.7,1643.22,Cork,London,Clothing,4623.38,High
+NorthSea Global,rail,3.68,2973.46,Limerick,Limerick,Clothing,345.84,High
+GreenRail Freight,road,16.77,1156.59,Berlin,Limerick,Machinery,2981.11,High
+NorthSea Global,sea,15.53,1791.14,Cork,Cork,Food,227.57,Medium
+TerraLogix,road,3.68,668.43,Berlin,London,Furniture,385.74,High
+NorthSea Global,road,16.1,1111.58,Belfast,Cork,Machinery,2788.44,High
+GreenRail Freight,air,19.25,345.19,London,Belfast,Electronics,4592.18,High
+SkyBridge Cargo,sea,19.99,299.13,Paris,Berlin,Electronics,51.68,Low
+UrbanMove Transport,rail,1.38,2549.87,Galway,Dublin,Food,113.93,Medium
+GreenRail Freight,road,1.69,2417.02,Belfast,London,Pharma,629.39,High
+NorthSea Global,sea,18.76,2897.64,Galway,London,Electronics,461.95,High
+NorthSea Global,rail,8.37,1150.89,Belfast,London,Electronics,341.77,High
+GreenRail Freight,road,14.83,475.81,Paris,Dublin,Pharma,1069.5,High
+TerraLogix,sea,3.58,94.07,Limerick,Cork,Machinery,3.03,Low
+GreenRail Freight,air,19.68,2575.61,Berlin,Galway,Pharma,34337.81,High
+GreenRail Freight,air,18.04,807.74,London,London,Pharma,9881.9,High
+GreenRail Freight,sea,2.95,1568.47,Galway,Limerick,Furniture,37.75,Low
+GreenRail Freight,rail,17.79,360.42,Limerick,Belfast,Food,209.32,Medium
+UrbanMove Transport,air,13.53,1583.75,Belfast,Galway,Clothing,15091.56,High
+TerraLogix,road,15.08,2409.33,Dublin,Limerick,Food,5687.95,High
+NorthSea Global,sea,8.24,84.55,Berlin,Berlin,Clothing,5.71,Low
+TerraLogix,air,9.32,683.77,Belfast,Berlin,Electronics,4409.39,High
+TerraLogix,rail,7.08,2682.95,Belfast,London,Machinery,589.85,High
+EcoRoute Ltd,rail,15.38,825.45,London,Paris,Furniture,336.64,High
+EcoRoute Ltd,sea,19.51,2498.73,Cork,Belfast,Food,463.28,High
+GreenRail Freight,road,19.34,2916.46,Galway,Paris,Pharma,8335.24,High
+NorthSea Global,road,4.37,2246.56,Galway,Dublin,Pharma,1455.92,High
+TerraLogix,sea,7.8,345.41,Galway,Limerick,Furniture,22.21,Low
+TerraLogix,air,17.24,871.34,Paris,Belfast,Machinery,11560.7,High
+GreenRail Freight,air,6.78,2178.57,Belfast,Dublin,Electronics,10169.69,High
+SkyBridge Cargo,sea,18.5,1858.7,Cork,Dublin,Machinery,285.08,Medium
+NorthSea Global,sea,8.13,520.36,Paris,Paris,Pharma,34.19,Low
+EcoRoute Ltd,sea,19.29,864.84,Paris,Cork,Furniture,150.94,Medium
+NorthSea Global,sea,9.15,2033.1,London,Dublin,Furniture,146.71,Medium
+EcoRoute Ltd,air,5.03,1342.9,Cork,Berlin,Food,4490.5,High
+UrbanMove Transport,rail,17.57,2850.99,Dublin,Paris,Clothing,1604.8,High
+TerraLogix,sea,17.59,2089.74,Berlin,Belfast,Food,303.52,High
+UrbanMove Transport,rail,5.21,2557.4,Berlin,Paris,Machinery,390.76,High
+SkyBridge Cargo,rail,18.14,1938.78,London,Paris,Furniture,1258.32,High
+EcoRoute Ltd,road,2.47,2427.67,Limerick,Berlin,Food,1027.38,High
+EcoRoute Ltd,air,11.43,2520.37,Paris,Paris,Electronics,20328.79,High
+UrbanMove Transport,road,11.72,396.55,Limerick,London,Pharma,738.27,High
+GreenRail Freight,air,14.51,167.6,Berlin,Berlin,Pharma,1693.8,High
+GreenRail Freight,air,13.55,125.64,Galway,Dublin,Furniture,1149.11,High
+GreenRail Freight,road,14.72,2555.82,Belfast,London,Furniture,5938.92,High
+NorthSea Global,rail,9.2,191.01,Berlin,Belfast,Food,56.12,Low
+TerraLogix,rail,14.94,2272.29,Galway,Berlin,Electronics,1120.07,High
+UrbanMove Transport,sea,6.67,952.21,Cork,Paris,Clothing,55.2,Low
+GreenRail Freight,sea,5.66,2136.82,London,London,Machinery,111.98,Medium
+NorthSea Global,rail,0.81,609.88,Belfast,Belfast,Pharma,16.75,Low
+UrbanMove Transport,road,4.37,317.1,Paris,Belfast,Food,228.58,Medium
+GreenRail Freight,sea,18.46,355.7,Belfast,Cork,Clothing,65.69,Low
+EcoRoute Ltd,sea,11.19,2019.19,Belfast,Dublin,Machinery,191.18,Medium
+NorthSea Global,sea,17.57,1349.05,Limerick,Galway,Electronics,186.24,Medium
+TerraLogix,air,16.84,1272.85,Limerick,Paris,Food,16041.57,High
+UrbanMove Transport,air,15.06,2134.9,London,Belfast,Machinery,22862.58,High
+NorthSea Global,rail,11.04,277.27,Galway,London,Furniture,99.21,Low
+NorthSea Global,road,19.63,2363.44,Berlin,London,Electronics,7959.79,High
+UrbanMove Transport,rail,14.49,1952.65,Limerick,Berlin,Clothing,852.38,High
+TerraLogix,air,10.19,1336.74,Galway,Dublin,Pharma,8838.87,High
+SkyBridge Cargo,air,17.42,486.25,London,Cork,Furniture,5388.55,High
+UrbanMove Transport,road,14.42,1497.89,Galway,Paris,Food,3275.66,High
+UrbanMove Transport,rail,6.95,1731.08,Paris,Galway,Pharma,399.16,High
+EcoRoute Ltd,road,14.39,1107.13,Cork,Cork,Pharma,2398.95,High
+NorthSea Global,sea,5.35,1824.5,Galway,Galway,Electronics,90.31,Low
+EcoRoute Ltd,rail,2.24,2841.13,Paris,Paris,Machinery,202.12,Medium
+SkyBridge Cargo,sea,2.37,1097.71,Paris,Belfast,Machinery,18.78,Low
+NorthSea Global,sea,7.35,1959.31,Cork,London,Machinery,128.38,Medium
+EcoRoute Ltd,road,19.65,224.48,London,Cork,Food,717.6,High
+EcoRoute Ltd,road,6.87,953.48,London,Cork,Food,968.07,High
+NorthSea Global,sea,19.53,336.05,Galway,London,Pharma,51.87,Low
+NorthSea Global,sea,16.38,1363.06,Dublin,Cork,Clothing,191.33,Medium
+UrbanMove Transport,sea,12.01,543.79,Cork,Berlin,Food,56.65,Low
+SkyBridge Cargo,air,18.61,1666.54,Paris,Berlin,Electronics,21344.14,High
+NorthSea Global,rail,3.26,2883.14,Berlin,Limerick,Machinery,261.58,Medium
+GreenRail Freight,road,17.03,318.31,London,Paris,Pharma,868.89,High
+NorthSea Global,air,15.39,914.23,Paris,Paris,Machinery,9020.15,High
+GreenRail Freight,road,6.77,1478.11,Paris,Belfast,Machinery,1706.91,High
+UrbanMove Transport,road,10.79,172.82,Cork,Belfast,Pharma,316.96,High
+NorthSea Global,rail,14.92,1626.16,Dublin,Belfast,Machinery,752.62,High
+EcoRoute Ltd,air,14.9,1595.75,Galway,London,Furniture,18781.48,High
+EcoRoute Ltd,air,19.02,2682.45,London,Cork,Furniture,31619.11,High
+UrbanMove Transport,road,1.38,1175.39,Cork,Belfast,Electronics,278.12,Medium
+SkyBridge Cargo,sea,19.75,2488.39,London,Paris,Electronics,414.76,High
+TerraLogix,rail,17.7,1297.38,Belfast,Limerick,Furniture,681.72,High
+UrbanMove Transport,road,8.61,1270.24,Belfast,Limerick,Machinery,1429.65,High
+UrbanMove Transport,air,1.32,2313.02,Galway,Limerick,Electronics,1887.82,High
+GreenRail Freight,road,4.08,1015.77,Belfast,Paris,Clothing,680.66,High
+TerraLogix,rail,2.62,402.23,Limerick,Cork,Pharma,32.91,Low
+TerraLogix,road,9.64,372.56,Limerick,Dublin,Machinery,623.98,High
+EcoRoute Ltd,sea,9.0,1144.16,Galway,Berlin,Pharma,89.21,Low
+TerraLogix,sea,15.49,2188.48,Dublin,Dublin,Food,294.27,Medium
+NorthSea Global,rail,9.51,2709.61,Dublin,Paris,Machinery,813.34,High
+EcoRoute Ltd,sea,4.09,623.3,Berlin,Dublin,Machinery,21.57,Low
+TerraLogix,rail,11.36,472.92,London,Dublin,Electronics,188.84,Medium
+TerraLogix,road,12.56,551.25,London,London,Electronics,1052.98,High
+NorthSea Global,road,7.93,1710.0,Paris,Cork,Food,2212.47,High
+TerraLogix,road,0.89,2480.8,Berlin,Paris,Clothing,362.87,High
+UrbanMove Transport,sea,13.82,1857.2,London,Berlin,Machinery,228.44,Medium
+TerraLogix,rail,4.86,896.25,Galway,Paris,Clothing,139.31,Medium
+EcoRoute Ltd,air,16.21,474.75,Berlin,Paris,Furniture,5552.28,High
+GreenRail Freight,sea,16.88,1091.18,Paris,Paris,Machinery,153.11,Medium
+GreenRail Freight,air,7.59,1011.73,Paris,Galway,Furniture,5080.99,High
+UrbanMove Transport,sea,11.58,2846.61,London,Berlin,Pharma,294.92,Medium
+SkyBridge Cargo,rail,4.66,466.93,Cork,Berlin,Clothing,78.47,Low
+TerraLogix,air,1.49,690.68,Galway,Paris,Pharma,760.82,High
+EcoRoute Ltd,sea,8.03,2017.63,Belfast,Galway,Furniture,138.85,Medium
+NorthSea Global,sea,8.52,1432.31,Galway,Berlin,Clothing,114.38,Medium
+TerraLogix,road,13.69,2371.54,Cork,Dublin,Electronics,5368.45,High
+SkyBridge Cargo,road,6.61,2710.32,Limerick,Galway,Food,2590.01,High
+TerraLogix,rail,11.88,2493.35,Berlin,London,Furniture,838.62,High
+TerraLogix,sea,18.07,498.45,Paris,Cork,Pharma,72.75,Low
+TerraLogix,air,14.15,879.64,Limerick,Cork,Furniture,9418.25,High
+EcoRoute Ltd,road,3.14,1173.8,Paris,Berlin,Food,605.77,High
+SkyBridge Cargo,air,11.91,586.41,Dublin,Berlin,Furniture,5358.96,High
+EcoRoute Ltd,rail,1.84,448.08,Belfast,Paris,Food,26.43,Low
+UrbanMove Transport,sea,19.25,996.06,Cork,London,Pharma,164.61,Medium
+TerraLogix,air,19.84,1127.39,Belfast,Limerick,Pharma,16163.85,High
+EcoRoute Ltd,air,6.71,542.3,Limerick,Belfast,Clothing,2593.06,High
+EcoRoute Ltd,rail,15.12,2291.31,Berlin,Cork,Clothing,1086.79,High
+TerraLogix,road,14.83,106.68,Paris,Limerick,Machinery,230.06,Medium
+UrbanMove Transport,rail,14.09,1040.12,Paris,Paris,Furniture,451.6,High
+UrbanMove Transport,rail,11.27,1492.05,Belfast,Cork,Machinery,528.03,High
+UrbanMove Transport,rail,17.3,2692.67,Dublin,Galway,Electronics,1440.13,High
+EcoRoute Ltd,sea,11.65,748.99,Cork,Cork,Electronics,84.23,Low
+SkyBridge Cargo,road,3.55,1897.07,Berlin,London,Furniture,1037.49,High
+UrbanMove Transport,sea,4.39,2250.89,Cork,Galway,Electronics,80.02,Low
+GreenRail Freight,sea,4.6,2165.09,Paris,London,Furniture,79.39,Low
+NorthSea Global,air,12.31,598.89,Belfast,Dublin,Machinery,4581.79,High
+NorthSea Global,sea,5.63,2640.62,Limerick,Cork,Furniture,114.88,Medium
+SkyBridge Cargo,sea,3.67,1924.13,Belfast,Paris,Pharma,59.65,Low
+SkyBridge Cargo,rail,14.84,1615.12,Belfast,Belfast,Food,668.83,High
+SkyBridge Cargo,road,12.59,2462.23,Cork,Berlin,Electronics,5215.99,High
+SkyBridge Cargo,rail,14.11,1836.25,Cork,Belfast,Furniture,790.73,High
+UrbanMove Transport,air,7.72,935.73,Berlin,London,Pharma,5238.15,High
+TerraLogix,sea,1.33,1091.04,Berlin,Berlin,Clothing,13.12,Low
+GreenRail Freight,air,17.44,1419.96,Galway,Galway,Furniture,16438.78,High
+EcoRoute Ltd,sea,15.87,1175.3,Galway,Paris,Clothing,128.74,Medium
+UrbanMove Transport,sea,3.45,2840.83,Limerick,Cork,Electronics,77.91,Low
+SkyBridge Cargo,sea,0.92,1207.08,Belfast,Belfast,Food,9.8,Low
+GreenRail Freight,air,8.98,2562.21,Berlin,Dublin,Clothing,17236.43,High
+SkyBridge Cargo,air,12.35,467.36,Berlin,Limerick,Machinery,4043.43,High
+UrbanMove Transport,sea,7.1,966.31,Paris,Cork,Pharma,51.61,Low
+UrbanMove Transport,rail,16.24,2599.09,London,Berlin,Electronics,1248.92,High
+NorthSea Global,sea,18.92,2080.43,London,Berlin,Clothing,320.54,High
+SkyBridge Cargo,sea,18.09,2898.15,Limerick,Limerick,Food,444.82,High
+EcoRoute Ltd,rail,10.46,331.97,Galway,London,Electronics,113.46,Medium
+UrbanMove Transport,rail,1.81,1199.25,Limerick,Belfast,Furniture,71.26,Low
+EcoRoute Ltd,air,5.31,1917.56,London,London,Pharma,6639.22,High
+SkyBridge Cargo,rail,9.95,976.8,Limerick,Limerick,Pharma,301.25,High
+EcoRoute Ltd,sea,10.71,1537.18,Limerick,Paris,Machinery,142.05,Medium
+SkyBridge Cargo,rail,4.48,923.5,Dublin,Paris,Electronics,126.55,Medium
+NorthSea Global,air,12.7,1688.03,Berlin,London,Electronics,15344.74,High
+NorthSea Global,air,6.05,1780.12,London,Dublin,Electronics,6873.63,High
+GreenRail Freight,rail,3.26,2503.82,Paris,Dublin,Furniture,261.17,Medium
+NorthSea Global,rail,12.46,2293.57,Belfast,London,Pharma,853.92,High
+TerraLogix,road,14.59,2155.31,Berlin,Cork,Electronics,4846.2,High
+NorthSea Global,sea,2.29,1112.93,London,London,Electronics,21.44,Low
+GreenRail Freight,air,11.13,1597.8,Paris,Galway,Pharma,13134.97,High
+GreenRail Freight,sea,2.75,2738.7,Belfast,Limerick,Food,58.11,Low
+EcoRoute Ltd,road,13.04,2107.0,Berlin,Dublin,Electronics,3533.21,High
+NorthSea Global,sea,10.26,1002.7,Paris,Dublin,Pharma,93.39,Low
+UrbanMove Transport,air,11.23,168.38,Dublin,Limerick,Food,1283.1,High
+UrbanMove Transport,road,11.84,1135.95,Galway,Paris,Food,1876.98,High
+UrbanMove Transport,rail,5.68,1154.19,Paris,Galway,Food,209.37,Medium
+NorthSea Global,rail,18.01,1208.27,Belfast,Berlin,Electronics,731.41,High
+UrbanMove Transport,air,4.49,382.45,Paris,Cork,Furniture,1120.4,High
+TerraLogix,rail,16.74,2038.91,Belfast,London,Machinery,992.15,High
+TerraLogix,rail,4.73,120.25,Dublin,Limerick,Food,18.96,Low
+UrbanMove Transport,air,14.54,1400.76,Paris,Galway,Machinery,13182.16,High
+UrbanMove Transport,sea,2.01,366.42,Dublin,Dublin,Pharma,5.57,Low
+SkyBridge Cargo,road,6.42,1175.19,Galway,Cork,Electronics,1107.52,High
+GreenRail Freight,rail,1.98,1281.59,Dublin,Belfast,Electronics,84.62,Low
+SkyBridge Cargo,air,18.64,2667.72,Limerick,Cork,Furniture,35800.99,High
+EcoRoute Ltd,air,3.9,382.13,Limerick,Berlin,Pharma,943.06,High
+EcoRoute Ltd,air,1.73,2090.81,Limerick,Cork,Machinery,2543.55,High
+GreenRail Freight,air,16.69,1266.65,Dublin,Dublin,Furniture,13399.85,High
+SkyBridge Cargo,rail,14.52,647.96,Belfast,Dublin,Furniture,286.65,Medium
+NorthSea Global,air,16.3,2987.72,Dublin,Paris,Pharma,35731.79,High
+NorthSea Global,road,6.09,310.83,London,Berlin,Machinery,312.49,High
+SkyBridge Cargo,sea,6.75,1935.98,Paris,Galway,Pharma,102.57,Medium
+SkyBridge Cargo,rail,3.38,2034.34,Berlin,Paris,Clothing,221.73,Medium
+SkyBridge Cargo,sea,6.99,1108.07,Berlin,Berlin,Pharma,67.41,Low
+EcoRoute Ltd,rail,10.37,2586.15,Galway,London,Pharma,912.22,High
+TerraLogix,sea,19.56,2387.22,Paris,Cork,Machinery,439.44,High
+TerraLogix,road,10.63,1747.62,Belfast,Galway,Furniture,2822.72,High
+SkyBridge Cargo,air,2.78,2208.97,London,Paris,Pharma,4075.45,High
+TerraLogix,rail,15.12,2079.01,Cork,Limerick,Furniture,978.33,High
+UrbanMove Transport,sea,14.47,2684.89,Cork,Berlin,Food,336.99,High
+SkyBridge Cargo,sea,15.24,943.43,Limerick,Cork,Food,89.96,Low
+EcoRoute Ltd,sea,4.12,2339.4,Cork,Cork,Clothing,78.84,Low
+SkyBridge Cargo,air,0.71,1812.8,London,Paris,Clothing,872.82,High
+TerraLogix,air,12.89,1800.34,Berlin,Dublin,Machinery,12870.81,High
+UrbanMove Transport,air,17.29,1182.08,Cork,Paris,Furniture,14042.01,High
+UrbanMove Transport,air,19.9,1170.9,Berlin,Cork,Machinery,15132.7,High
+NorthSea Global,road,9.37,2259.7,Limerick,Berlin,Electronics,3595.39,High
+UrbanMove Transport,air,4.72,1261.29,Dublin,Galway,Pharma,4414.39,High
+TerraLogix,air,1.85,584.64,Belfast,Paris,Pharma,693.07,High
+TerraLogix,road,14.12,1498.74,Berlin,Belfast,Food,3115.16,High
+GreenRail Freight,road,13.89,2907.27,Cork,Limerick,Machinery,6430.63,High
+UrbanMove Transport,sea,15.56,179.43,Galway,Limerick,Clothing,24.22,Low
+GreenRail Freight,sea,14.42,2434.83,Cork,Cork,Food,275.51,Medium
+TerraLogix,road,9.04,1131.69,Paris,Dublin,Furniture,1614.82,High
+UrbanMove Transport,road,8.66,148.93,Paris,Paris,Electronics,176.25,Medium
+UrbanMove Transport,rail,9.76,1545.99,Limerick,Galway,Electronics,425.6,High
+NorthSea Global,sea,9.2,2989.74,London,Belfast,Machinery,241.14,Medium
+NorthSea Global,air,2.76,167.28,Limerick,Galway,Clothing,309.67,High
+EcoRoute Ltd,rail,1.67,2374.86,Cork,Belfast,Pharma,121.41,Medium
+NorthSea Global,rail,18.45,2588.73,Limerick,Limerick,Furniture,1475.51,High
+EcoRoute Ltd,sea,8.06,1918.52,Cork,Galway,Furniture,113.33,Medium
+EcoRoute Ltd,air,10.51,2962.72,Galway,Limerick,Furniture,23750.88,High
+SkyBridge Cargo,sea,16.65,1248.85,Paris,Dublin,Clothing,172.08,Medium
+UrbanMove Transport,rail,8.12,1838.99,Limerick,Galway,Machinery,489.45,High
+GreenRail Freight,sea,5.21,1587.71,Berlin,Cork,Machinery,80.48,Low
+TerraLogix,road,14.24,2342.29,Dublin,London,Clothing,5229.34,High
+SkyBridge Cargo,rail,16.81,1835.62,Belfast,Berlin,Pharma,962.85,High
+UrbanMove Transport,sea,9.65,318.41,Berlin,London,Pharma,25.73,Low
+SkyBridge Cargo,rail,18.72,2630.52,Limerick,London,Clothing,1741.06,High
+SkyBridge Cargo,rail,4.24,1038.25,Paris,Belfast,Clothing,144.05,Medium
+NorthSea Global,sea,16.14,2080.58,Limerick,London,Furniture,259.24,Medium
+GreenRail Freight,sea,2.79,2182.09,Belfast,Limerick,Food,54.89,Low
+SkyBridge Cargo,sea,17.8,2438.25,London,Limerick,Machinery,343.39,High
+TerraLogix,air,10.98,481.7,Cork,Belfast,Electronics,4310.19,High
+GreenRail Freight,road,1.8,2445.37,Belfast,Berlin,Machinery,777.47,High
+SkyBridge Cargo,air,4.38,200.43,Paris,Berlin,Pharma,548.55,High
+SkyBridge Cargo,road,3.22,412.6,Dublin,Dublin,Electronics,216.37,Medium
+SkyBridge Cargo,sea,15.79,2780.96,Paris,Limerick,Electronics,394.19,High
+EcoRoute Ltd,road,7.08,1891.86,Belfast,Belfast,Machinery,2055.5,High
+TerraLogix,rail,18.59,1092.98,Limerick,Galway,Electronics,647.53,High
+NorthSea Global,sea,16.21,2484.1,Limerick,Dublin,Food,312.78,High
+SkyBridge Cargo,air,2.93,776.27,Paris,Limerick,Food,1441.07,High
+NorthSea Global,sea,5.95,59.35,Belfast,Paris,Pharma,3.39,Low
+GreenRail Freight,sea,5.03,2549.48,Paris,Berlin,Machinery,104.81,Medium
+TerraLogix,air,0.95,2306.91,Limerick,Berlin,Machinery,1535.32,High
+SkyBridge Cargo,road,10.23,1866.13,Berlin,Limerick,Clothing,2585.92,High
+UrbanMove Transport,air,3.78,1241.82,Limerick,London,Clothing,3140.49,High
+SkyBridge Cargo,sea,7.9,2639.31,Dublin,Limerick,Furniture,196.59,Medium
+EcoRoute Ltd,air,11.65,1110.59,Dublin,Berlin,Machinery,9077.4,High
+EcoRoute Ltd,air,5.47,724.24,London,Belfast,Machinery,2495.69,High
+TerraLogix,sea,17.0,2938.53,London,Dublin,Food,440.51,High
+EcoRoute Ltd,road,5.38,1599.5,Belfast,Berlin,Food,1360.55,High
+SkyBridge Cargo,sea,4.97,969.22,Cork,Limerick,Electronics,42.4,Low
+UrbanMove Transport,sea,6.12,1437.23,Paris,Galway,Food,68.37,Low
+TerraLogix,road,1.81,349.46,Galway,Cork,Machinery,101.08,Medium
+NorthSea Global,sea,10.91,601.08,Dublin,London,Food,56.86,Low
+EcoRoute Ltd,road,8.18,542.65,Berlin,Galway,Food,713.81,High
+SkyBridge Cargo,rail,9.52,1392.09,Cork,Limerick,Food,461.52,High
+EcoRoute Ltd,air,3.15,897.25,Berlin,Paris,Pharma,2159.68,High
+TerraLogix,air,19.26,2832.69,London,Paris,Clothing,38043.06,High
+TerraLogix,air,2.96,157.43,Cork,London,Clothing,318.29,High
+GreenRail Freight,air,6.34,120.43,Berlin,Limerick,Electronics,519.29,High
+NorthSea Global,air,17.37,2382.05,Galway,Belfast,Machinery,25312.94,High
+NorthSea Global,air,5.43,1227.76,Berlin,London,Food,4560.72,High
+EcoRoute Ltd,sea,18.98,2696.26,Cork,Belfast,Clothing,394.44,High
+GreenRail Freight,air,2.02,917.16,Berlin,Dublin,Machinery,1173.87,High
+SkyBridge Cargo,sea,0.72,348.84,Belfast,Dublin,Electronics,2.28,Low
+SkyBridge Cargo,road,9.24,1035.42,Berlin,London,Pharma,1376.43,High
+TerraLogix,road,17.73,2287.55,Paris,Dublin,Furniture,7162.98,High
+TerraLogix,road,19.97,502.32,Paris,London,Furniture,1770.04,High
+UrbanMove Transport,rail,3.31,2298.22,Limerick,Cork,Pharma,231.67,Medium
+EcoRoute Ltd,road,6.41,2863.0,Limerick,Paris,Pharma,2559.21,High
+NorthSea Global,air,11.17,802.69,Limerick,Dublin,Electronics,5355.27,High
+UrbanMove Transport,air,15.85,696.33,Galway,Berlin,Electronics,7508.39,High
+SkyBridge Cargo,rail,17.09,2869.22,Belfast,London,Furniture,1585.68,High
+UrbanMove Transport,rail,16.22,2345.97,Limerick,Limerick,Electronics,1101.66,High
+TerraLogix,rail,10.23,2186.62,Paris,Dublin,Pharma,694.18,High
+EcoRoute Ltd,sea,11.32,2541.24,Limerick,Limerick,Machinery,277.5,Medium
+UrbanMove Transport,rail,8.55,1229.56,London,Belfast,Electronics,331.69,High
+UrbanMove Transport,road,15.61,2782.07,Dublin,Paris,Machinery,6815.92,High
+GreenRail Freight,road,7.01,1142.62,Belfast,Limerick,Machinery,1309.12,High
+GreenRail Freight,sea,8.4,2555.88,Belfast,Limerick,Pharma,181.81,Medium
+TerraLogix,rail,12.07,2566.94,Cork,Cork,Electronics,922.26,High
+TerraLogix,air,10.11,322.33,Galway,Dublin,Electronics,2276.0,High
+SkyBridge Cargo,rail,13.74,2758.35,London,Cork,Electronics,1094.51,High
+EcoRoute Ltd,road,19.93,292.92,Dublin,Dublin,Food,1053.16,High
+GreenRail Freight,road,5.71,909.71,Cork,Belfast,Food,834.49,High
+SkyBridge Cargo,sea,13.05,2114.83,Cork,Berlin,Pharma,228.44,Medium
+GreenRail Freight,rail,13.47,2099.98,Berlin,London,Pharma,862.26,High
+GreenRail Freight,air,16.24,743.62,Belfast,London,Food,7793.43,High
+NorthSea Global,road,2.05,1783.67,Cork,Galway,Electronics,592.79,High
+UrbanMove Transport,road,6.01,1031.55,London,Limerick,Furniture,922.95,High
+UrbanMove Transport,rail,18.78,668.83,Berlin,Dublin,Clothing,369.66,High
+EcoRoute Ltd,road,1.11,2566.55,Belfast,Paris,Food,442.47,High
+GreenRail Freight,rail,9.27,2456.55,Paris,London,Pharma,771.33,High
+NorthSea Global,rail,8.61,1486.34,London,Galway,Electronics,405.23,High
+TerraLogix,air,19.16,2726.56,Galway,Paris,Electronics,37954.85,High
+UrbanMove Transport,rail,16.1,1150.42,Dublin,Cork,Machinery,645.42,High
+NorthSea Global,sea,3.38,2057.05,Belfast,Paris,Pharma,62.7,Low
+TerraLogix,sea,8.98,2851.96,Dublin,Berlin,Furniture,219.22,Medium
+GreenRail Freight,road,6.05,102.85,Cork,Berlin,Machinery,106.63,Medium
+TerraLogix,sea,18.5,2512.67,Limerick,Berlin,Clothing,401.67,High
+EcoRoute Ltd,sea,13.53,1759.71,Paris,Belfast,Electronics,178.28,Medium
+GreenRail Freight,sea,8.24,1318.53,Cork,Belfast,Pharma,96.55,Low
+GreenRail Freight,road,10.28,2860.16,Belfast,Dublin,Machinery,5240.0,High
+UrbanMove Transport,rail,15.7,2572.94,Paris,London,Food,1179.76,High
+UrbanMove Transport,air,2.05,1958.19,Berlin,Dublin,Electronics,2573.88,High
+SkyBridge Cargo,sea,13.32,2031.84,Paris,Galway,Machinery,215.34,Medium
+EcoRoute Ltd,rail,6.54,1649.84,Cork,Cork,Food,375.16,High
+EcoRoute Ltd,sea,1.79,2322.5,Belfast,Galway,Electronics,36.25,Low
+TerraLogix,air,10.46,1469.66,Belfast,Cork,Clothing,11014.13,High
+GreenRail Freight,sea,11.13,788.31,Dublin,Cork,Electronics,71.14,Low
+TerraLogix,sea,9.83,2777.91,London,Dublin,Clothing,261.09,Medium
+GreenRail Freight,road,16.24,2338.79,Paris,Limerick,Food,5915.35,High
+TerraLogix,road,19.53,2246.72,Berlin,Berlin,Machinery,6560.88,High
+EcoRoute Ltd,road,9.33,60.98,London,Dublin,Furniture,99.75,Low
+GreenRail Freight,road,19.41,2592.92,Cork,Galway,Electronics,8811.46,High
+EcoRoute Ltd,sea,9.73,1683.08,London,Cork,Pharma,147.45,Medium
+UrbanMove Transport,rail,5.3,1634.39,Paris,Belfast,Electronics,260.97,Medium
+SkyBridge Cargo,sea,14.07,2456.3,Galway,Belfast,Clothing,336.42,High
+TerraLogix,rail,1.96,959.74,Belfast,Paris,Electronics,53.57,Low
+NorthSea Global,road,17.46,2797.66,Cork,London,Electronics,6262.71,High
+SkyBridge Cargo,rail,17.82,588.73,Limerick,Cork,Food,315.94,High
+TerraLogix,road,16.33,1669.36,Belfast,Belfast,Electronics,4558.25,High
+EcoRoute Ltd,rail,18.42,1289.5,London,Belfast,Furniture,663.97,High
+TerraLogix,road,2.58,1457.08,Berlin,London,Machinery,590.36,High
+TerraLogix,sea,2.1,546.72,Cork,Dublin,Machinery,9.55,Low
+NorthSea Global,sea,19.8,65.6,Belfast,Limerick,Machinery,10.84,Low
+NorthSea Global,air,4.25,1606.95,London,Galway,Machinery,4843.26,High
+TerraLogix,rail,5.75,1868.34,Cork,Paris,Clothing,354.14,High
+EcoRoute Ltd,air,12.02,2253.02,Galway,Galway,Furniture,19420.71,High
+NorthSea Global,sea,14.37,731.02,Limerick,Dublin,Furniture,84.93,Low
+NorthSea Global,rail,19.21,1745.0,Limerick,Cork,Furniture,970.92,High
+NorthSea Global,air,3.32,2186.73,Cork,London,Clothing,5014.38,High
+TerraLogix,rail,9.15,644.57,Galway,Limerick,Machinery,198.73,Medium
+UrbanMove Transport,sea,10.05,2849.97,Paris,Dublin,Clothing,216.22,Medium
+EcoRoute Ltd,road,15.09,1596.63,Limerick,Paris,Electronics,4000.24,High
+SkyBridge Cargo,sea,8.81,90.61,Cork,Berlin,Clothing,6.44,Low
+NorthSea Global,rail,16.87,2892.35,Belfast,Galway,Machinery,1673.65,High
+EcoRoute Ltd,sea,13.08,1184.52,Galway,Cork,Clothing,133.37,Medium
+UrbanMove Transport,road,5.8,1991.97,Belfast,Paris,Electronics,1757.65,High
+EcoRoute Ltd,sea,18.03,793.69,Limerick,Galway,Furniture,120.48,Medium
+NorthSea Global,road,6.88,2084.43,Paris,London,Electronics,2145.53,High
+UrbanMove Transport,rail,14.56,1303.3,Belfast,Limerick,Furniture,633.92,High
+TerraLogix,rail,2.37,1441.97,Limerick,Limerick,Clothing,90.5,Low
+GreenRail Freight,sea,10.88,1504.79,Paris,Dublin,Furniture,123.08,Medium
+NorthSea Global,sea,8.51,179.44,Berlin,Paris,Pharma,12.48,Low
+UrbanMove Transport,air,14.51,701.16,Limerick,Limerick,Clothing,6681.22,High
+TerraLogix,air,2.85,877.21,Berlin,Limerick,Electronics,1759.4,High
+EcoRoute Ltd,road,16.21,2383.74,Limerick,Dublin,Machinery,6255.23,High
+UrbanMove Transport,road,18.56,1494.17,Limerick,Paris,Clothing,4081.11,High
+NorthSea Global,rail,0.5,2104.32,London,Berlin,Pharma,32.49,Low
+EcoRoute Ltd,road,13.51,618.01,Galway,Limerick,Furniture,1258.72,High
+NorthSea Global,sea,3.09,1409.52,Berlin,Limerick,Pharma,31.61,Low
+UrbanMove Transport,sea,7.65,2281.94,Belfast,Paris,Food,157.82,Medium
+NorthSea Global,air,7.87,555.56,Dublin,Galway,Furniture,3247.45,High
+EcoRoute Ltd,sea,4.63,503.53,Cork,Paris,Food,19.91,Low
+UrbanMove Transport,rail,17.78,514.32,Limerick,Berlin,Machinery,286.91,Medium
+GreenRail Freight,rail,6.66,1838.53,Dublin,Limerick,Machinery,403.72,High
+GreenRail Freight,road,17.56,390.28,Galway,Dublin,Food,982.58,High
+EcoRoute Ltd,air,8.19,1966.48,Galway,Dublin,Pharma,11260.74,High
+NorthSea Global,sea,18.21,1549.83,Cork,Limerick,Pharma,227.51,Medium
+TerraLogix,road,5.56,1029.62,Galway,Galway,Electronics,847.59,High
+NorthSea Global,sea,16.16,700.5,Cork,Galway,Pharma,95.87,Low
+UrbanMove Transport,road,14.89,999.44,Galway,Belfast,Clothing,2399.47,High
+EcoRoute Ltd,road,17.33,2183.12,Cork,London,Food,6352.53,High
+TerraLogix,road,2.11,611.74,Cork,Berlin,Pharma,207.16,Medium
+UrbanMove Transport,road,14.52,2965.79,London,Paris,Furniture,7209.74,High
+UrbanMove Transport,rail,15.17,819.37,Cork,Galway,Pharma,427.65,High
+SkyBridge Cargo,air,10.68,2315.56,Galway,Galway,Clothing,18732.63,High
+SkyBridge Cargo,air,9.64,1546.07,Berlin,Dublin,Electronics,10134.39,High
+SkyBridge Cargo,sea,7.87,1928.17,Cork,London,Furniture,128.71,Medium
+GreenRail Freight,air,11.48,745.62,Galway,Belfast,Pharma,5059.59,High
+UrbanMove Transport,road,7.64,2473.66,Paris,Dublin,Pharma,3078.06,High
+EcoRoute Ltd,air,4.55,1260.04,Berlin,London,Electronics,4035.89,High
+TerraLogix,sea,2.95,229.1,Dublin,Cork,Machinery,6.08,Low
+TerraLogix,road,5.6,2213.19,Galway,Berlin,Machinery,1990.05,High
+NorthSea Global,air,14.5,603.67,Cork,Paris,Clothing,5893.97,High
+NorthSea Global,air,12.57,920.7,Galway,Belfast,Machinery,7482.25,High
+GreenRail Freight,sea,7.68,2189.42,Paris,Limerick,Electronics,141.79,Medium
+EcoRoute Ltd,air,17.53,2475.01,Belfast,Paris,Food,32168.17,High
+SkyBridge Cargo,road,4.14,2376.54,London,London,Pharma,1510.94,High
+UrbanMove Transport,road,13.54,1436.0,Belfast,Paris,Clothing,3259.85,High
+TerraLogix,road,15.55,2205.8,London,Limerick,Pharma,5381.84,High
+SkyBridge Cargo,rail,14.65,446.05,Dublin,London,Electronics,189.67,Medium
+SkyBridge Cargo,sea,4.49,687.59,London,Limerick,Pharma,23.78,Low
+UrbanMove Transport,road,8.2,704.54,Galway,Cork,Electronics,864.01,High
+TerraLogix,air,14.56,2372.75,Dublin,Limerick,Food,23768.58,High
+NorthSea Global,air,4.73,1244.73,London,Limerick,Electronics,4274.82,High
+UrbanMove Transport,road,19.15,2758.48,Berlin,London,Machinery,7661.93,High
+GreenRail Freight,road,0.71,595.24,Dublin,Dublin,Pharma,64.38,Low
+EcoRoute Ltd,sea,16.83,1595.42,Dublin,Limerick,Furniture,204.81,Medium
+UrbanMove Transport,air,5.65,886.77,Cork,Paris,Electronics,3806.54,High
+GreenRail Freight,rail,12.39,1070.09,Dublin,Cork,Clothing,439.92,High
+TerraLogix,rail,2.62,912.12,Limerick,Paris,Pharma,72.57,Low
+TerraLogix,sea,15.25,1251.47,Galway,Galway,Food,160.65,Medium
+EcoRoute Ltd,sea,9.3,1038.81,Paris,Cork,Electronics,71.49,Low
+UrbanMove Transport,rail,3.04,1631.51,Dublin,London,Furniture,152.3,Medium
+NorthSea Global,air,18.74,1314.58,Dublin,Cork,Electronics,18365.81,High
+EcoRoute Ltd,road,18.91,2630.75,Dublin,Limerick,Clothing,7333.08,High
+EcoRoute Ltd,road,8.03,2070.48,Cork,London,Furniture,2646.35,High
+NorthSea Global,rail,18.0,1099.6,Paris,Galway,Machinery,624.68,High
+GreenRail Freight,air,15.38,1950.25,Galway,Limerick,Pharma,21648.4,High
+EcoRoute Ltd,road,5.22,2694.26,Dublin,Berlin,Food,2126.83,High
+UrbanMove Transport,sea,8.45,675.28,London,Cork,Electronics,42.83,Low
+UrbanMove Transport,road,12.31,190.1,London,Cork,Clothing,339.43,High
+EcoRoute Ltd,air,19.84,1769.55,Galway,Paris,Pharma,24118.53,High
+UrbanMove Transport,air,15.45,1739.51,Paris,Belfast,Pharma,20195.67,High
+UrbanMove Transport,air,2.25,1590.53,Galway,London,Pharma,2521.46,High
+NorthSea Global,sea,6.94,353.68,Dublin,Belfast,Pharma,23.93,Low
+NorthSea Global,sea,17.87,369.65,Limerick,Belfast,Food,57.17,Low
+TerraLogix,road,8.45,2114.05,Berlin,Galway,Machinery,2764.87,High
+GreenRail Freight,road,13.02,563.05,Limerick,Belfast,Pharma,1176.61,High
+TerraLogix,sea,6.85,2004.5,London,Limerick,Pharma,104.06,Medium
+EcoRoute Ltd,rail,16.65,2696.89,Paris,Cork,Food,1402.56,High
+GreenRail Freight,rail,1.08,2423.53,Galway,Paris,Pharma,87.13,Low
+NorthSea Global,air,13.39,325.82,Paris,Paris,Clothing,2876.16,High
+NorthSea Global,road,11.45,2435.79,Cork,Galway,Food,4170.3,High
+SkyBridge Cargo,road,5.41,616.52,Belfast,Paris,Pharma,525.71,High
+SkyBridge Cargo,rail,12.71,169.66,Dublin,Galway,Machinery,65.14,Low
+UrbanMove Transport,air,12.21,2726.65,Paris,Cork,Electronics,22724.07,High
+GreenRail Freight,sea,1.96,2021.53,London,Dublin,Electronics,37.55,Low
+EcoRoute Ltd,rail,2.06,1908.09,Cork,London,Electronics,131.94,Medium
+UrbanMove Transport,sea,17.5,2850.8,Paris,Galway,Electronics,415.07,High
+SkyBridge Cargo,rail,0.83,1511.04,Berlin,Belfast,Machinery,36.76,Low
+GreenRail Freight,sea,14.66,2300.75,Paris,Galway,Pharma,225.57,Medium
+EcoRoute Ltd,air,14.64,2486.72,Paris,Dublin,Food,25413.68,High
+EcoRoute Ltd,rail,0.94,2812.89,Belfast,Cork,Food,78.43,Low
+EcoRoute Ltd,sea,19.11,976.89,Galway,Limerick,Clothing,157.32,Medium
+GreenRail Freight,road,9.55,654.51,Galway,Cork,Electronics,940.13,High
+EcoRoute Ltd,sea,15.13,752.02,London,Galway,Machinery,96.68,Low
+SkyBridge Cargo,air,2.86,693.85,Cork,Belfast,Clothing,1230.68,High
+NorthSea Global,rail,1.43,2599.16,Belfast,Dublin,Electronics,109.67,Medium
+EcoRoute Ltd,sea,9.31,2062.04,Cork,Paris,Machinery,170.9,Medium
+GreenRail Freight,air,13.51,552.44,Galway,Cork,Electronics,5532.92,High
+GreenRail Freight,sea,2.5,620.49,Paris,Galway,Pharma,12.78,Low
+GreenRail Freight,air,5.06,1306.76,Limerick,Limerick,Electronics,4884.35,High
+UrbanMove Transport,rail,8.46,1048.49,Berlin,Dublin,Machinery,292.72,Medium
+UrbanMove Transport,air,8.35,2784.96,Cork,Berlin,Machinery,16189.14,High
+GreenRail Freight,sea,18.06,1578.92,Galway,Dublin,Clothing,253.72,Medium
+NorthSea Global,road,13.35,554.27,Limerick,London,Clothing,1155.63,High
+GreenRail Freight,rail,0.79,1038.4,Berlin,Cork,Furniture,26.33,Low
+UrbanMove Transport,road,10.7,2321.77,Galway,Cork,Pharma,3788.62,High
+GreenRail Freight,road,11.37,1626.07,Belfast,Limerick,Machinery,2894.69,High
+TerraLogix,road,19.09,424.28,Dublin,London,Electronics,1410.72,High
+NorthSea Global,air,19.51,1814.76,Belfast,Belfast,Furniture,22492.39,High
+SkyBridge Cargo,road,13.12,886.52,Berlin,Berlin,Electronics,1882.99,High
+SkyBridge Cargo,sea,5.09,1654.71,Berlin,Paris,Machinery,69.48,Low
+UrbanMove Transport,sea,1.01,1865.97,Belfast,Paris,Electronics,15.97,Low
+UrbanMove Transport,air,10.15,1619.98,Paris,Galway,Pharma,11205.38,High
+GreenRail Freight,sea,16.82,431.99,Limerick,Berlin,Furniture,52.35,Low
+SkyBridge Cargo,road,8.27,599.4,Limerick,London,Electronics,816.18,High
+UrbanMove Transport,rail,15.23,1200.96,London,Berlin,Pharma,550.08,High
+NorthSea Global,rail,18.05,568.93,London,London,Clothing,328.88,High
+GreenRail Freight,air,12.08,628.52,London,Belfast,Food,5112.38,High
+NorthSea Global,rail,15.9,2499.41,Limerick,Limerick,Pharma,1473.23,High
+EcoRoute Ltd,rail,8.4,819.15,London,Galway,Pharma,221.61,Medium
+GreenRail Freight,sea,18.32,1062.88,Galway,Galway,Machinery,176.69,Medium
+UrbanMove Transport,sea,7.19,1843.42,London,Cork,Food,125.08,Medium
+EcoRoute Ltd,air,7.7,125.69,Berlin,Belfast,Machinery,688.52,High
+EcoRoute Ltd,rail,15.24,2330.36,Belfast,Belfast,Food,1111.74,High
+TerraLogix,road,17.62,2686.91,Cork,Cork,Machinery,6873.01,High
+NorthSea Global,rail,11.85,843.94,Dublin,Cork,Clothing,309.4,High
+SkyBridge Cargo,rail,9.35,1013.97,London,Limerick,Electronics,290.62,Medium
+TerraLogix,sea,16.44,1453.77,Cork,Limerick,Machinery,189.01,Medium
+EcoRoute Ltd,rail,19.08,491.58,Cork,Belfast,Electronics,290.79,Medium
+GreenRail Freight,air,12.51,2846.53,Cork,Berlin,Pharma,23031.33,High
+NorthSea Global,air,0.63,1114.91,Limerick,London,Machinery,444.82,High
+SkyBridge Cargo,air,8.61,2868.86,Paris,Berlin,Pharma,16573.28,High
+NorthSea Global,sea,10.11,1046.78,London,Belfast,Pharma,92.37,Low
+GreenRail Freight,rail,16.03,986.12,Belfast,Galway,Pharma,513.56,High
+EcoRoute Ltd,road,16.34,1312.92,London,Dublin,Food,3532.09,High
+EcoRoute Ltd,road,3.54,955.18,Limerick,Limerick,Electronics,501.78,High
+EcoRoute Ltd,rail,17.44,254.27,Dublin,London,Clothing,148.37,Medium
+UrbanMove Transport,air,11.33,587.34,Cork,Belfast,Clothing,4050.84,High
+TerraLogix,air,8.02,1878.89,Berlin,Galway,Machinery,11718.04,High
+NorthSea Global,air,9.26,1930.1,Berlin,Belfast,Furniture,13024.26,High
+NorthSea Global,rail,17.0,2955.13,Galway,London,Clothing,1508.43,High
+TerraLogix,sea,16.21,559.98,Cork,Galway,Food,75.35,Low
+TerraLogix,sea,17.63,1953.19,Belfast,Cork,Electronics,253.99,Medium
+EcoRoute Ltd,sea,8.6,1494.14,Limerick,Berlin,Clothing,95.76,Low
+GreenRail Freight,air,10.61,306.92,Berlin,Galway,Food,2316.32,High
+SkyBridge Cargo,rail,15.06,1121.4,Belfast,Berlin,Food,562.97,High
+EcoRoute Ltd,rail,3.28,316.19,Berlin,Paris,Furniture,35.8,Low
+GreenRail Freight,road,11.21,585.87,Berlin,Cork,Furniture,1050.75,High
+UrbanMove Transport,sea,4.37,2372.27,Limerick,Galway,Electronics,79.6,Low
+TerraLogix,sea,14.95,2650.6,Cork,Paris,Clothing,340.52,High
+UrbanMove Transport,rail,5.11,1674.44,Limerick,Galway,Clothing,260.12,Medium
+NorthSea Global,sea,6.74,2822.1,Belfast,Paris,Electronics,155.96,Medium
+UrbanMove Transport,air,4.77,2434.31,Belfast,Limerick,Electronics,8170.76,High
+SkyBridge Cargo,air,12.42,2188.84,Galway,Berlin,Pharma,21627.73,High
+GreenRail Freight,road,4.14,564.28,Cork,Galway,Electronics,343.86,High
+TerraLogix,air,15.32,2736.46,Cork,Limerick,Machinery,29698.23,High
+NorthSea Global,sea,3.05,132.83,Cork,Galway,Clothing,3.45,Low
+EcoRoute Ltd,sea,3.88,2655.95,Belfast,Berlin,Pharma,93.52,Low
+GreenRail Freight,air,7.31,671.23,London,London,Food,3104.74,High
+EcoRoute Ltd,road,4.44,870.48,Belfast,Limerick,Machinery,655.35,High
+TerraLogix,rail,2.63,245.9,Galway,Limerick,Furniture,21.08,Low
+EcoRoute Ltd,road,15.69,1946.59,Galway,London,Furniture,4379.88,High
+GreenRail Freight,rail,13.25,2218.02,Limerick,Dublin,Pharma,1037.05,High
+TerraLogix,air,19.85,293.81,Berlin,Cork,Pharma,4094.42,High
+EcoRoute Ltd,sea,14.77,390.9,Galway,Cork,Furniture,53.08,Low
+GreenRail Freight,air,15.18,461.92,Cork,Cork,Electronics,4444.96,High
+NorthSea Global,sea,1.32,1871.65,Dublin,Berlin,Food,21.73,Low
+TerraLogix,air,18.68,633.96,Limerick,Dublin,Clothing,7969.77,High
+SkyBridge Cargo,sea,10.95,1997.99,Berlin,Belfast,Pharma,175.87,Medium
+SkyBridge Cargo,sea,2.46,889.13,Paris,Galway,Clothing,20.91,Low
+SkyBridge Cargo,sea,3.43,895.8,Galway,Dublin,Pharma,26.28,Low
+SkyBridge Cargo,air,16.87,244.75,Dublin,Limerick,Furniture,2878.73,High
+NorthSea Global,air,16.56,2340.27,Limerick,Berlin,Electronics,25124.46,High
+SkyBridge Cargo,rail,11.02,1192.74,Galway,Limerick,Electronics,374.88,High
+UrbanMove Transport,sea,1.0,2970.79,Dublin,Paris,Electronics,24.97,Low
+NorthSea Global,air,5.92,540.74,Dublin,Berlin,Furniture,2195.01,High
+GreenRail Freight,road,8.54,433.46,Belfast,Cork,Clothing,592.58,High
+NorthSea Global,road,4.83,2145.48,Belfast,Dublin,Food,1483.2,High
+SkyBridge Cargo,air,19.15,1715.06,Berlin,London,Machinery,21554.2,High
+EcoRoute Ltd,rail,9.13,2047.35,London,London,Clothing,530.63,High
+NorthSea Global,rail,9.85,363.95,Belfast,Berlin,Machinery,93.22,Low
+EcoRoute Ltd,road,16.05,1566.84,Dublin,Limerick,Electronics,4272.79,High
+GreenRail Freight,sea,2.46,1225.98,Cork,Berlin,Food,25.93,Low
+EcoRoute Ltd,road,16.34,2027.07,Berlin,Cork,Food,6054.2,High
+EcoRoute Ltd,rail,14.23,1417.19,Limerick,Dublin,Machinery,633.38,High
+GreenRail Freight,sea,6.98,2907.89,Belfast,London,Pharma,185.84,Medium
+NorthSea Global,air,3.91,2126.99,Dublin,Dublin,Pharma,5047.46,High
+TerraLogix,rail,9.21,2125.05,Belfast,Berlin,Electronics,578.15,High
+SkyBridge Cargo,sea,20.0,2420.78,Limerick,Paris,Food,430.07,High
+GreenRail Freight,rail,16.85,2674.43,Paris,Galway,Electronics,1282.87,High
+NorthSea Global,sea,14.14,1451.26,Dublin,Dublin,Clothing,167.29,Medium
+SkyBridge Cargo,rail,12.72,123.55,Cork,Cork,Electronics,47.96,Low
+GreenRail Freight,road,18.32,160.18,Belfast,Limerick,Pharma,439.74,High
+UrbanMove Transport,rail,11.7,979.39,Cork,London,Food,353.83,High
+TerraLogix,road,16.25,928.01,Berlin,Paris,Pharma,2263.52,High
+NorthSea Global,road,4.37,1791.44,Cork,Paris,Machinery,1299.97,High
+EcoRoute Ltd,air,18.21,2868.58,Galway,Limerick,Machinery,36408.01,High
+GreenRail Freight,rail,5.34,2501.2,London,Paris,Food,392.92,High
+TerraLogix,rail,11.87,2740.31,Berlin,Dublin,Electronics,980.13,High
+NorthSea Global,air,17.04,2869.48,Galway,Dublin,Food,32832.44,High
+TerraLogix,sea,2.56,1261.69,Galway,Dublin,Furniture,30.16,Low
+EcoRoute Ltd,road,5.09,2068.82,Berlin,Galway,Electronics,1703.74,High
+EcoRoute Ltd,rail,18.59,1549.24,Cork,Paris,Clothing,794.38,High
+EcoRoute Ltd,air,18.96,2656.15,Limerick,Berlin,Pharma,36136.19,High
+TerraLogix,sea,1.7,125.79,Dublin,Paris,Machinery,1.74,Low
+NorthSea Global,sea,7.91,301.13,Paris,Cork,Furniture,21.37,Low
+TerraLogix,air,13.65,1791.77,Galway,Paris,Pharma,19127.62,High
+UrbanMove Transport,air,11.78,2997.19,Berlin,Dublin,Clothing,20423.66,High
+UrbanMove Transport,road,5.54,2381.89,Paris,Cork,Clothing,2081.25,High
+TerraLogix,sea,3.95,888.15,Limerick,London,Furniture,28.39,Low
+GreenRail Freight,air,4.04,1938.0,Paris,Belfast,Pharma,5552.7,High
+UrbanMove Transport,rail,18.74,1316.46,Belfast,Berlin,Pharma,724.54,High
+EcoRoute Ltd,sea,11.44,351.52,Galway,Galway,Clothing,33.75,Low
+UrbanMove Transport,air,5.87,1662.8,Dublin,Limerick,Clothing,6598.64,High
+TerraLogix,sea,12.47,2646.99,Galway,Belfast,Machinery,294.72,Medium
+TerraLogix,air,12.24,251.04,Dublin,Cork,Electronics,1940.25,High
+EcoRoute Ltd,sea,7.48,2278.7,Galway,Limerick,Furniture,141.5,Medium
+GreenRail Freight,air,17.94,1058.1,Limerick,Dublin,Clothing,12410.92,High
+GreenRail Freight,rail,15.71,2115.98,Galway,London,Clothing,1104.44,High
+SkyBridge Cargo,road,12.52,1315.31,Dublin,Limerick,Furniture,2384.18,High
+TerraLogix,air,8.34,236.38,Berlin,Cork,Pharma,1311.94,High
+TerraLogix,road,11.16,2871.46,Dublin,Paris,Machinery,5082.64,High
+SkyBridge Cargo,road,9.14,1270.41,Cork,Limerick,Clothing,1792.1,High
+UrbanMove Transport,air,18.97,1660.45,Limerick,Paris,Furniture,23035.6,High
+TerraLogix,air,11.56,2081.63,Cork,London,Clothing,16792.83,High
+UrbanMove Transport,road,2.66,1860.41,Galway,Dublin,Furniture,830.8,High
+NorthSea Global,air,17.84,181.24,Cork,Cork,Machinery,2049.93,High
+EcoRoute Ltd,sea,16.73,1636.56,Paris,Limerick,Machinery,236.78,Medium
+UrbanMove Transport,sea,2.45,1758.84,London,London,Pharma,30.13,Low
+EcoRoute Ltd,road,12.09,1971.42,Belfast,Galway,Clothing,4366.29,High
+NorthSea Global,road,6.22,1160.19,Paris,Belfast,Furniture,1269.16,High
+GreenRail Freight,air,8.5,1014.28,Paris,Belfast,Food,5702.22,High
+SkyBridge Cargo,rail,8.76,1124.35,Berlin,London,Pharma,329.97,High
+SkyBridge Cargo,rail,19.31,617.25,Dublin,Paris,Food,377.57,High
+SkyBridge Cargo,air,17.58,2360.67,Galway,Paris,Clothing,28480.14,High
+GreenRail Freight,rail,12.27,1073.72,Dublin,Dublin,Furniture,450.71,High
+NorthSea Global,road,3.91,917.63,Berlin,Paris,Machinery,594.81,High
+GreenRail Freight,sea,15.39,1859.16,Paris,Dublin,Electronics,221.39,Medium
+EcoRoute Ltd,road,7.76,2918.62,Belfast,Paris,Electronics,3421.49,High
+TerraLogix,road,2.61,1786.99,Paris,Berlin,Furniture,733.78,High
+NorthSea Global,road,3.87,1806.8,London,Berlin,Electronics,1132.71,High
+NorthSea Global,air,15.95,2565.59,Paris,Cork,Food,31696.17,High
+EcoRoute Ltd,sea,10.81,724.98,Berlin,London,Food,68.43,Low
+UrbanMove Transport,air,17.39,1620.26,Berlin,London,Furniture,16566.41,High
+TerraLogix,sea,6.54,414.05,Limerick,London,Clothing,23.61,Low
+SkyBridge Cargo,road,1.11,2836.49,Belfast,Belfast,Furniture,499.1,High
+SkyBridge Cargo,sea,17.46,2544.25,Cork,Cork,Food,382.57,High
+UrbanMove Transport,air,6.07,1634.94,Berlin,Cork,Machinery,6787.97,High
+NorthSea Global,sea,13.46,1952.94,Galway,Berlin,Food,225.7,Medium
+TerraLogix,air,13.86,2467.96,Berlin,London,Furniture,22846.58,High
+EcoRoute Ltd,air,19.27,2488.77,Belfast,London,Furniture,30522.06,High
+TerraLogix,sea,6.84,1658.69,Galway,Belfast,Pharma,100.87,Medium
+NorthSea Global,rail,0.73,2580.62,Cork,Cork,Furniture,59.47,Low
+TerraLogix,rail,10.53,247.53,Paris,London,Food,72.01,Low
+UrbanMove Transport,rail,5.6,1311.12,Limerick,London,Furniture,212.21,Medium
+NorthSea Global,air,14.24,1679.79,Dublin,London,Food,16674.89,High
+TerraLogix,air,19.23,1561.85,Belfast,Paris,Pharma,21479.4,High
+TerraLogix,sea,17.75,2304.79,Dublin,Belfast,Clothing,358.77,High
+GreenRail Freight,road,5.85,1375.77,Galway,Belfast,Machinery,1303.05,High
+UrbanMove Transport,air,14.35,566.34,Galway,Limerick,Pharma,5863.3,High
+NorthSea Global,sea,5.15,2387.43,Galway,Cork,Furniture,102.6,Medium
+GreenRail Freight,sea,18.9,1721.41,Galway,Dublin,Furniture,294.79,Medium
+NorthSea Global,sea,2.86,2457.83,Dublin,Galway,Food,55.52,Low
+EcoRoute Ltd,air,9.5,1169.24,Dublin,Dublin,Pharma,8319.51,High
+TerraLogix,air,14.44,409.02,Cork,Belfast,Food,4312.58,High
+SkyBridge Cargo,road,18.39,743.93,Belfast,London,Furniture,2246.67,High
+TerraLogix,road,15.83,865.27,Galway,Limerick,Clothing,2216.97,High
+TerraLogix,rail,16.73,2380.81,Dublin,Dublin,Food,1431.14,High
+GreenRail Freight,air,18.36,60.35,Belfast,London,Furniture,760.37,High
+EcoRoute Ltd,rail,0.88,2082.64,Paris,Paris,Furniture,53.0,Low
+EcoRoute Ltd,road,18.15,1209.31,London,Belfast,Electronics,3616.03,High
+NorthSea Global,rail,0.53,1368.71,London,Cork,Machinery,23.49,Low

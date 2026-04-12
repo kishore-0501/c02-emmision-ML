@@ -1,0 +1,154 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard | SupplyTrack ML{% endblock %}
+
+{% block content %}
+<section class="hero-card">
+    <div>
+        <h2>Dashboard Overview</h2>
+        <p>
+            This dashboard presents shipment KPIs and trained model evaluation metrics
+            for carbon emission prediction and shipment risk classification.
+        </p>
+    </div>
+</section>
+
+<section class="kpi-grid">
+    <div class="kpi-card">
+        <span class="kpi-label">Total Shipments</span>
+        <h3 class="kpi-value">{{ total_shipments }}</h3>
+    </div>
+
+    <div class="kpi-card">
+        <span class="kpi-label">Average CO₂</span>
+        <h3 class="kpi-value">{{ avg_co2 }}</h3>
+    </div>
+
+    <div class="kpi-card">
+        <span class="kpi-label">High Risk Shipments</span>
+        <h3 class="kpi-value">{{ high_risk_count }}</h3>
+    </div>
+
+    <div class="kpi-card">
+        <span class="kpi-label">Average Latency</span>
+        <h3 class="kpi-value">{{ avg_latency }} ms</h3>
+    </div>
+</section>
+
+<section class="content-card">
+    <div class="section-header">
+        <h2>Best Model Metrics</h2>
+        <p>Best-performing regression and classification models selected from SageMaker comparison.</p>
+    </div>
+
+    <div class="metrics-grid">
+        <div class="metric-card">
+            <span class="metric-label">Best Regression Model</span>
+            <h3 class="metric-value">{{ best_reg_model }}</h3>
+        </div>
+
+        <div class="metric-card">
+            <span class="metric-label">Regression MAE</span>
+            <h3 class="metric-value">{{ best_reg_mae }}</h3>
+        </div>
+
+        <div class="metric-card">
+            <span class="metric-label">Regression RMSE</span>
+            <h3 class="metric-value">{{ best_reg_rmse }}</h3>
+        </div>
+
+        <div class="metric-card">
+            <span class="metric-label">Regression R²</span>
+            <h3 class="metric-value">{{ best_reg_r2 }}</h3>
+        </div>
+
+        <div class="metric-card">
+            <span class="metric-label">Best Classification Model</span>
+            <h3 class="metric-value">{{ best_cls_model }}</h3>
+        </div>
+
+        <div class="metric-card">
+            <span class="metric-label">Classification Accuracy</span>
+            <h3 class="metric-value">{{ best_cls_accuracy }}</h3>
+        </div>
+
+        <div class="metric-card">
+            <span class="metric-label">Classification Precision</span>
+            <h3 class="metric-value">{{ best_cls_precision }}</h3>
+        </div>
+
+        <div class="metric-card">
+            <span class="metric-label">Classification Recall</span>
+            <h3 class="metric-value">{{ best_cls_recall }}</h3>
+        </div>
+
+        <div class="metric-card">
+            <span class="metric-label">Classification F1</span>
+            <h3 class="metric-value">{{ best_cls_f1 }}</h3>
+        </div>
+    </div>
+</section>
+
+<section class="content-card">
+    <div class="section-header">
+        <h2>Model Comparison Table</h2>
+        <p>Comparison of all 6 models used in the project.</p>
+    </div>
+
+    <div style="overflow-x:auto;">
+        <table>
+            <thead>
+                <tr>
+                    <th>Task</th>
+                    <th>Model</th>
+                    <th>MAE</th>
+                    <th>RMSE</th>
+                    <th>R²</th>
+                    <th>Accuracy</th>
+                    <th>Precision</th>
+                    <th>Recall</th>
+                    <th>F1</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for row in comparison_rows %}
+                <tr>
+                    <td>{{ row.task }}</td>
+                    <td>{{ row.model }}</td>
+                    <td>{{ row.mae }}</td>
+                    <td>{{ row.rmse }}</td>
+                    <td>{{ row.r2 }}</td>
+                    <td>{{ row.accuracy }}</td>
+                    <td>{{ row.precision }}</td>
+                    <td>{{ row.recall }}</td>
+                    <td>{{ row.f1 }}</td>
+                </tr>
+                {% empty %}
+                <tr>
+                    <td colspan="9">No comparison data available.</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</section>
+
+<section class="content-card">
+    <div class="section-header">
+        <h2>Quick Actions</h2>
+        <p>Use these shortcuts to interact with the project modules.</p>
+    </div>
+
+    <div class="action-grid">
+        <a href="{% url 'create_shipment' %}" class="action-card">
+            <h3>Create Shipment</h3>
+            <p>Enter shipment details and generate ML-based predictions.</p>
+        </a>
+
+        <a href="{% url 'shipment_list' %}" class="action-card">
+            <h3>View Shipments</h3>
+            <p>Review all saved shipments and prediction results.</p>
+        </a>
+    </div>
+</section>
+{% endblock %}

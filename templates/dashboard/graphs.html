@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+
+{% block title %}Graphs | SupplyTrack ML{% endblock %}
+
+{% block content %}
+<section class="hero-card compact-hero">
+    <div>
+        <h2>Model Graphs</h2>
+        <p>
+            This section shows the main evaluation and analysis graphs for the project,
+            including model comparison, learning curves, regression analysis, and classification analysis.
+        </p>
+    </div>
+</section>
+
+<section class="content-card compact-card">
+    <div class="section-header compact-header">
+        <h2>Evaluation Graphs</h2>
+        <p>Graphs are arranged in a compact grid for easier viewing and presentation.</p>
+    </div>
+
+    <div class="graph-grid-compact">
+        {% for graph in graph_cards %}
+        <div class="graph-card-compact">
+            <div class="graph-card-header">
+                <h3>{{ graph.title }}</h3>
+                <span class="graph-tag">{{ forloop.counter }}</span>
+            </div>
+
+            <div class="graph-image-wrap">
+                <img src="{{ graph.url }}" alt="{{ graph.title }}" class="graph-image-compact">
+            </div>
+
+            <p class="graph-filename">{{ graph.filename }}</p>
+        </div>
+        {% empty %}
+        <div class="graph-card-compact">
+            <h3>No graphs available</h3>
+            <p>Please run the graph generation script first.</p>
+        </div>
+        {% endfor %}
+    </div>
+</section>
+{% endblock %}

@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block title %}Login | SupplyTrack ML{% endblock %}
+
+{% block content %}
+<div class="card">
+    <h1>Login</h1>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Login</button>
+    </form>
+</div>
+{% endblock %}

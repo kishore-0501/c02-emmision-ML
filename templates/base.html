@@ -1,0 +1,52 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}SupplyTrack ML{% endblock %}</title>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+    {% block extra_css %}{% endblock %}
+</head>
+<body>
+    <div class="app-shell">
+        {% if user.is_authenticated %}
+        <aside class="sidebar">
+            <div class="sidebar-brand">
+                <div class="brand-icon">S</div>
+                <div>
+                    <h2>SupplyTrack ML</h2>
+                    <p>Carbon & Risk Analytics</p>
+                </div>
+            </div>
+
+            <nav class="sidebar-nav">
+                <a href="{% url 'dashboard_home' %}" class="nav-link">Dashboard</a>
+                <a href="{% url 'dashboard_graphs' %}" class="nav-link">Graphs</a>
+                <a href="{% url 'create_shipment' %}" class="nav-link">Create Shipment</a>
+                <a href="{% url 'shipment_list' %}" class="nav-link">View Shipments</a>
+                <a href="{% url 'logout' %}" class="nav-link">Logout</a>
+            </nav>
+        </aside>
+        {% endif %}
+
+        <div class="main-panel">
+            <header class="topbar">
+                <div>
+                    <h1 class="topbar-title">Supply Chain Carbon Intelligence</h1>
+                    <p class="topbar-subtitle">Cloud-based machine learning dashboard for shipment prediction and risk analysis</p>
+                </div>
+                {% if user.is_authenticated %}
+                <div class="topbar-user">
+                    <span>{{ user.username }}</span>
+                </div>
+                {% endif %}
+            </header>
+
+            <main class="page-content">
+                {% block content %}{% endblock %}
+            </main>
+        </div>
+    </div>
+</body>
+</html>

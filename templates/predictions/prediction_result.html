@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+
+{% block title %}Prediction Result | SupplyTrack ML{% endblock %}
+
+{% block content %}
+<section class="hero-card compact-hero">
+    <div>
+        <h2>Prediction Result</h2>
+        <p>
+            This result is currently generated using:
+            <strong>{{ prediction_source }}</strong>
+        </p>
+    </div>
+    <div class="hero-actions">
+        <a href="{% url 'create_shipment' %}" class="primary-btn">Create Another</a>
+    </div>
+</section>
+
+<section class="kpi-grid compact-grid">
+    <div class="kpi-card compact-kpi">
+        <span class="kpi-label">Predicted CO₂</span>
+        <h3 class="kpi-value">{{ shipment.predicted_co2 }}</h3>
+    </div>
+
+    <div class="kpi-card compact-kpi">
+        <span class="kpi-label">Risk Level</span>
+        <h3 class="kpi-value">{{ shipment.risk_level }}</h3>
+    </div>
+
+    <div class="kpi-card compact-kpi">
+        <span class="kpi-label">Mode</span>
+        <h3 class="kpi-value">{{ shipment.get_transport_mode_display }}</h3>
+    </div>
+
+    <div class="kpi-card compact-kpi">
+        <span class="kpi-label">Distance</span>
+        <h3 class="kpi-value">{{ shipment.distance_km }} km</h3>
+    </div>
+</section>
+
+<section class="content-card compact-card">
+    <div class="section-header compact-header">
+        <h2>Shipment Details</h2>
+        <p>Input details used for this prediction.</p>
+    </div>
+
+    <div class="details-grid">
+        <div class="detail-item">
+            <span class="detail-label">Supplier</span>
+            <span class="detail-value">{{ shipment.supplier_name }}</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Weight</span>
+            <span class="detail-value">{{ shipment.weight_tons }} tons</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Distance</span>
+            <span class="detail-value">{{ shipment.distance_km }} km</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Shipment Value</span>
+            <span class="detail-value">{{ shipment.shipment_value }}</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Origin</span>
+            <span class="detail-value">{{ shipment.origin_region }}</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Destination</span>
+            <span class="detail-value">{{ shipment.destination_region }}</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Product Category</span>
+            <span class="detail-value">{{ shipment.product_category|default:"N/A" }}</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Temperature Controlled</span>
+            <span class="detail-value">{{ shipment.is_temp_controlled }}</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Export</span>
+            <span class="detail-value">{{ shipment.is_export }}</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Hazmat</span>
+            <span class="detail-value">{{ shipment.is_hazmat }}</span>
+        </div>
+        <div class="detail-item detail-item-wide">
+            <span class="detail-label">Created At</span>
+            <span class="detail-value">{{ shipment.created_at|date:"d M Y, H:i" }}</span>
+        </div>
+    </div>
+</section>
+{% endblock %}

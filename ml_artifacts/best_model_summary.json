@@ -1,0 +1,28 @@
+{
+  "best_regression_model": "Gradient Boosting Regressor",
+  "best_regression_metric": "rmse",
+  "best_regression_value": 142.07003054262174,
+  "best_classification_model": "Decision Tree Classifier",
+  "best_classification_metric": "f1",
+  "best_classification_value": 0.9996664277798791,
+  "feature_columns": [
+    "ORIG_STATE",
+    "DEST_STATE",
+    "SECTOR",
+    "SCTG",
+    "mode_simple",
+    "SHIPMT_VALUE",
+    "weight_tonnes",
+    "distance_km",
+    "tonne_km",
+    "is_temp_controlled",
+    "is_export",
+    "is_hazmat"
+  ],
+  "row_counts": {
+    "reg_train": 12000,
+    "reg_test": 3000,
+    "cls_train": 12000,
+    "cls_test": 3000
+  }
+}

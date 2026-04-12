@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block title %}Create Shipment | SupplyTrack ML{% endblock %}
+
+{% block content %}
+<div class="card">
+    <h1>Create Shipment</h1>
+    <p>Enter shipment details to generate an ML-based CO₂ and risk prediction.</p>
+
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Generate Prediction</button>
+    </form>
+</div>
+{% endblock %}

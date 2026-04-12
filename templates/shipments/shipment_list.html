@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+
+{% block title %}Shipment List | SupplyTrack ML{% endblock %}
+
+{% block content %}
+<section class="hero-card compact-hero">
+    <div>
+        <h2>Shipment List</h2>
+        <p>Review all saved shipments and their prediction outcomes.</p>
+    </div>
+    <div class="hero-actions">
+        <a href="{% url 'create_shipment' %}" class="primary-btn">Create Shipment</a>
+    </div>
+</section>
+
+<section class="content-card compact-card">
+    <div class="section-header compact-header">
+        <h2>Saved Shipments</h2>
+        <p>Total records: {{ shipments|length }}</p>
+    </div>
+
+    <div class="table-wrap">
+        <table class="data-table compact-table">
+            <thead>
+                <tr>
+                    <th>Supplier</th>
+                    <th>Mode</th>
+                    <th>Distance</th>
+                    <th>CO₂</th>
+                    <th>Risk</th>
+                    <th>Created</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for shipment in shipments %}
+                <tr>
+                    <td>{{ shipment.supplier_name }}</td>
+                    <td>{{ shipment.get_transport_mode_display }}</td>
+                    <td>{{ shipment.distance_km }} km</td>
+                    <td>{{ shipment.predicted_co2 }}</td>
+                    <td>
+                        <span class="status-pill
+                            {% if shipment.risk_level == 'High' %}status-high
+                            {% elif shipment.risk_level == 'Medium' %}status-medium
+                            {% else %}status-low{% endif %}">
+                            {{ shipment.risk_level }}
+                        </span>
+                    </td>
+                    <td>{{ shipment.created_at|date:"d M Y, H:i" }}</td>
+                    <td>
+                        <a href="{% url 'prediction_result' shipment.id %}" class="table-link">View</a>
+                    </td>
+                </tr>
+                {% empty %}
+                <tr>
+                    <td colspan="7" class="empty-row">No shipments found yet.</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</section>
+{% endblock %}

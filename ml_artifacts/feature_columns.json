@@ -1,0 +1,14 @@
+[
+  "ORIG_STATE",
+  "DEST_STATE",
+  "SECTOR",
+  "SCTG",
+  "mode_simple",
+  "SHIPMT_VALUE",
+  "weight_tonnes",
+  "distance_km",
+  "tonne_km",
+  "is_temp_controlled",
+  "is_export",
+  "is_hazmat"
+]
