@@ -1,18 +1,21 @@
 from django.contrib.auth.decorators import login_required
-from django.shortcuts import render, get_object_or_404
+from django.shortcuts import get_object_or_404, render
 
 from shipments.models import Shipment
 
 
 @login_required
 def prediction_result(request, shipment_id):
-    shipment = get_object_or_404(
-        Shipment,
-        id=shipment_id,
-        created_by=request.user,
-    )
+    if request.user.is_staff:
+        shipment = get_object_or_404(Shipment, id=shipment_id)
+    else:
+        shipment = get_object_or_404(
+            Shipment,
+            id=shipment_id,
+            created_by=request.user,
+        )
 
-    prediction_source = request.session.get("prediction_source", "Unknown")
+    prediction_source = request.session.get("prediction_source", "ML Model")
 
     return render(
         request,

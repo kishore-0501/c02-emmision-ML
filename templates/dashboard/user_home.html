@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+
+{% block title %}User Dashboard | SupplyTrack ML{% endblock %}
+
+{% block content %}
+<section class="hero-card compact-hero">
+    <div>
+        <h2>User Dashboard</h2>
+        <p>Welcome. From here you can create a shipment, view prediction output, and check your saved shipment history.</p>
+    </div>
+</section>
+
+<section class="content-card compact-card">
+    <div class="section-header compact-header">
+        <h2>Quick Actions</h2>
+        <p>Use these options to continue your workflow.</p>
+    </div>
+
+    <div class="action-grid">
+        <a href="{% url 'create_shipment' %}" class="action-card">
+            <h3>Create Shipment</h3>
+            <p>Enter shipment details and generate prediction output.</p>
+        </a>
+
+        <a href="{% url 'shipment_list' %}" class="action-card">
+            <h3>View Shipment History</h3>
+            <p>See your saved shipments and their prediction results.</p>
+        </a>
+    </div>
+</section>
+
+<section class="content-card compact-card">
+    <div class="section-header compact-header">
+        <h2>Your Recent Shipments</h2>
+        <p>Total shipments: {{ total_shipments }}</p>
+    </div>
+
+    <div class="table-wrap">
+        <table class="data-table compact-table">
+            <thead>
+                <tr>
+                    <th>Supplier</th>
+                    <th>Mode</th>
+                    <th>CO₂</th>
+                    <th>Risk</th>
+                    <th>Created</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for shipment in recent_shipments %}
+                <tr>
+                    <td>{{ shipment.supplier_name }}</td>
+                    <td>{{ shipment.get_transport_mode_display }}</td>
+                    <td>{{ shipment.predicted_co2 }}</td>
+                    <td>
+                        <span class="status-pill
+                            {% if shipment.risk_level == 'High' %}status-high
+                            {% elif shipment.risk_level == 'Medium' %}status-medium
+                            {% else %}status-low{% endif %}">
+                            {{ shipment.risk_level }}
+                        </span>
+                    </td>
+                    <td>{{ shipment.created_at|date:"d M Y, H:i" }}</td>
+                    <td>
+                        <a href="{% url 'prediction_result' shipment.id %}" class="table-link">View</a>
+                    </td>
+                </tr>
+                {% empty %}
+                <tr>
+                    <td colspan="6" class="empty-row">No shipments created yet.</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</section>
+{% endblock %}

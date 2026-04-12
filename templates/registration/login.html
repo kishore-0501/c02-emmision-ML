@@ -3,12 +3,28 @@
 {% block title %}Login | SupplyTrack ML{% endblock %}
 
 {% block content %}
-<div class="card">
-    <h1>Login</h1>
+<section class="hero-card compact-hero">
+    <div>
+        <h2>Login</h2>
+        <p>Login to access the dashboard, create shipments, and view your saved prediction history.</p>
+    </div>
+</section>
+
+<section class="content-card compact-card">
+    <div class="section-header compact-header">
+        <h2>User Login</h2>
+        <p>Enter your account details below.</p>
+    </div>
+
     <form method="post">
         {% csrf_token %}
         {{ form.as_p }}
         <button type="submit">Login</button>
     </form>
-</div>
+
+    <p style="margin-top: 14px;">
+        New user?
+        <a href="{% url 'register' %}" class="table-link">Create an account</a>
+    </p>
+</section>
 {% endblock %}

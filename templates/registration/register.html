@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+
+{% block title %}Register | SupplyTrack ML{% endblock %}
+
+{% block content %}
+<section class="hero-card compact-hero">
+    <div>
+        <h2>Create Account</h2>
+        <p>Register as a new user to access the dashboard and create shipment predictions.</p>
+    </div>
+</section>
+
+<section class="content-card compact-card">
+    <div class="section-header compact-header">
+        <h2>Register</h2>
+        <p>Fill in the details below to create your account.</p>
+    </div>
+
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Register</button>
+    </form>
+
+    <p style="margin-top: 14px;">
+        Already have an account?
+        <a href="{% url 'login' %}" class="table-link">Login here</a>
+    </p>
+</section>
+{% endblock %}

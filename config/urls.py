@@ -4,8 +4,12 @@ from django.contrib import admin
 from django.urls import path, include
 from django.shortcuts import redirect
 
+
 def root_redirect(request):
-    return redirect("dashboard_home")
+    if request.user.is_authenticated:
+        return redirect("dashboard_home")
+    return redirect("login")
+
 
 urlpatterns = [
     path("admin/", admin.site.urls),

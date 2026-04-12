@@ -3,7 +3,7 @@ from pathlib import Path
 
 from django.conf import settings
 from django.contrib.auth.decorators import login_required
-from django.shortcuts import render
+from django.shortcuts import redirect, render
 
 from shipments.models import Shipment
 from predictions.ml_service import load_model_comparison, load_best_model_summary
@@ -54,7 +54,28 @@ def sync_graphs_to_media():
 
 @login_required
 def dashboard_home(request):
-    shipments = Shipment.objects.filter(created_by=request.user)
+    if request.user.is_staff:
+        return redirect("admin_dashboard")
+    return redirect("user_dashboard")
+
+
+@login_required
+def user_dashboard(request):
+    shipments = Shipment.objects.filter(created_by=request.user).order_by("-created_at")
+
+    context = {
+        "total_shipments": shipments.count(),
+        "recent_shipments": shipments[:5],
+    }
+    return render(request, "dashboard/user_home.html", context)
+
+
+@login_required
+def admin_dashboard(request):
+    if not request.user.is_staff:
+        return redirect("user_dashboard")
+
+    shipments = Shipment.objects.all().order_by("-created_at")
 
     total_shipments = shipments.count()
     high_risk_count = shipments.filter(risk_level="High").count()
@@ -117,6 +138,9 @@ def dashboard_home(request):
 
 @login_required
 def dashboard_graphs(request):
+    if not request.user.is_staff:
+        return redirect("user_dashboard")
+
     copied_files = sync_graphs_to_media()
 
     graph_titles = {

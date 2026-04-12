@@ -22,7 +22,11 @@
 
             <nav class="sidebar-nav">
                 <a href="{% url 'dashboard_home' %}" class="nav-link">Dashboard</a>
+
+                {% if user.is_staff %}
                 <a href="{% url 'dashboard_graphs' %}" class="nav-link">Graphs</a>
+                {% endif %}
+
                 <a href="{% url 'create_shipment' %}" class="nav-link">Create Shipment</a>
                 <a href="{% url 'shipment_list' %}" class="nav-link">View Shipments</a>
                 <a href="{% url 'logout' %}" class="nav-link">Logout</a>
@@ -36,14 +40,28 @@
                     <h1 class="topbar-title">Supply Chain Carbon Intelligence</h1>
                     <p class="topbar-subtitle">Cloud-based machine learning dashboard for shipment prediction and risk analysis</p>
                 </div>
+
                 {% if user.is_authenticated %}
                 <div class="topbar-user">
                     <span>{{ user.username }}</span>
+                </div>
+                {% else %}
+                <div class="topbar-user">
+                    <a href="{% url 'login' %}" class="table-link" style="margin-right: 10px;">Login</a>
+                    <a href="{% url 'register' %}" class="table-link">Register</a>
                 </div>
                 {% endif %}
             </header>
 
             <main class="page-content">
+                {% if messages %}
+                    {% for message in messages %}
+                    <div class="content-card compact-card" style="padding: 12px 16px; margin-bottom: 12px;">
+                        <p style="margin: 0;">{{ message }}</p>
+                    </div>
+                    {% endfor %}
+                {% endif %}
+
                 {% block content %}{% endblock %}
             </main>
         </div>

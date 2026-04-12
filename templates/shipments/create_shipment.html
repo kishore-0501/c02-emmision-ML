@@ -3,14 +3,65 @@
 {% block title %}Create Shipment | SupplyTrack ML{% endblock %}
 
 {% block content %}
-<div class="card">
-    <h1>Create Shipment</h1>
-    <p>Enter shipment details to generate an ML-based CO₂ and risk prediction.</p>
+<section class="hero-card compact-hero">
+    <div>
+        <h2>Create Shipment</h2>
+        <p>Enter shipment details to generate an ML-based CO₂ and risk prediction.</p>
+    </div>
+</section>
+
+<section class="content-card compact-card">
+    <div class="section-header compact-header">
+        <h2>Shipment Input Form</h2>
+        <p>Fill the required shipment details and submit to view the prediction instantly.</p>
+    </div>
 
     <form method="post">
         {% csrf_token %}
         {{ form.as_p }}
         <button type="submit">Generate Prediction</button>
     </form>
-</div>
+</section>
+
+{% if prediction_data %}
+<section class="content-card compact-card">
+    <div class="section-header compact-header">
+        <h2>Prediction Output</h2>
+        <p>This result is generated using: <strong>{{ prediction_data.prediction_source }}</strong></p>
+    </div>
+
+    <div class="kpi-grid compact-grid">
+        <div class="kpi-card compact-kpi">
+            <span class="kpi-label">Predicted CO₂</span>
+            <h3 class="kpi-value">{{ prediction_data.predicted_co2 }}</h3>
+        </div>
+
+        <div class="kpi-card compact-kpi">
+            <span class="kpi-label">Risk Level</span>
+            <h3 class="kpi-value">{{ prediction_data.risk_level }}</h3>
+        </div>
+
+        <div class="kpi-card compact-kpi">
+            <span class="kpi-label">Mode</span>
+            <h3 class="kpi-value">{{ prediction_data.transport_mode }}</h3>
+        </div>
+
+        <div class="kpi-card compact-kpi">
+            <span class="kpi-label">Distance</span>
+            <h3 class="kpi-value">{{ prediction_data.distance_km }} km</h3>
+        </div>
+    </div>
+
+    <div class="details-grid" style="margin-top: 16px;">
+        <div class="detail-item">
+            <span class="detail-label">Supplier</span>
+            <span class="detail-value">{{ prediction_data.supplier_name }}</span>
+        </div>
+        <div class="detail-item">
+            <span class="detail-label">Weight</span>
+            <span class="detail-value">{{ prediction_data.weight_tons }} tons</span>
+        </div>
+    </div>
+</section>
+{% endif %}
 {% endblock %}
