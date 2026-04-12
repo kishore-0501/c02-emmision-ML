@@ -2,8 +2,14 @@
     box-sizing: border-box;
 }
 
+html,
 body {
     margin: 0;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+body {
     font-family: Inter, Arial, sans-serif;
     background: #f4f7fb;
     color: #1f2937;
@@ -13,6 +19,11 @@ body {
 
 a {
     text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
 }
 
 .app-shell {
@@ -75,6 +86,7 @@ a {
     font-size: 12.5px;
     font-weight: 500;
     transition: 0.2s ease;
+    word-break: break-word;
 }
 
 .nav-link:hover {
@@ -86,6 +98,7 @@ a {
     flex: 1;
     display: flex;
     flex-direction: column;
+    min-width: 0;
 }
 
 .topbar {
@@ -95,6 +108,7 @@ a {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    gap: 12px;
 }
 
 .topbar-title {
@@ -121,6 +135,7 @@ a {
 
 .page-content {
     padding: 22px 26px;
+    min-width: 0;
 }
 
 .hero-card,
@@ -197,6 +212,7 @@ a {
     border-radius: 14px;
     padding: 18px;
     transition: 0.2s ease;
+    min-width: 0;
 }
 
 .compact-kpi {
@@ -225,6 +241,7 @@ a {
     font-size: 17px;
     font-weight: 800;
     color: #111827;
+    word-break: break-word;
 }
 
 .kpi h3 {
@@ -319,7 +336,9 @@ button:hover {
 }
 
 .table-wrap {
+    width: 100%;
     overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
 }
 
 .data-table,
@@ -407,6 +426,7 @@ td {
     display: flex;
     flex-direction: column;
     gap: 6px;
+    min-width: 0;
 }
 
 .detail-item-wide {
@@ -423,6 +443,7 @@ td {
     font-size: 13px;
     font-weight: 600;
     color: #111827;
+    word-break: break-word;
 }
 
 /* Graphs */
@@ -440,6 +461,7 @@ td {
     display: flex;
     flex-direction: column;
     gap: 10px;
+    min-width: 0;
 }
 
 .graph-card-header {
@@ -497,6 +519,7 @@ td {
     word-break: break-word;
 }
 
+/* Tablet */
 @media (max-width: 1100px) {
     .kpi-grid,
     .metrics-grid,
@@ -515,47 +538,192 @@ td {
     }
 
     .graph-image-wrap {
-        height: 240px;
+        height: 220px;
     }
 }
 
-@media (max-width: 800px) {
+/* Mobile */
+@media (max-width: 768px) {
     .app-shell {
         flex-direction: column;
     }
 
     .sidebar {
         width: 100%;
+        padding: 14px 12px;
+    }
+
+    .sidebar-brand {
+        margin-bottom: 14px;
+    }
+
+    .sidebar-brand h2 {
+        font-size: 15px;
+    }
+
+    .sidebar-brand p {
+        font-size: 10px;
+    }
+
+    .sidebar-nav {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 8px;
+    }
+
+    .nav-link {
+        text-align: center;
+        padding: 9px 8px;
+        font-size: 11px;
     }
 
     .topbar {
-        padding: 16px 18px;
+        padding: 14px;
         flex-direction: column;
         align-items: flex-start;
-        gap: 10px;
-    }
-
-    .page-content {
-        padding: 18px;
-    }
-}
-
-@media (max-width: 600px) {
-    .kpi-grid,
-    .metrics-grid,
-    .grid {
-        grid-template-columns: 1fr;
+        gap: 8px;
     }
 
     .topbar-title {
-        font-size: 20px;
+        font-size: 18px;
+        line-height: 1.3;
+    }
+
+    .topbar-subtitle {
+        font-size: 11px;
+        line-height: 1.4;
+    }
+
+    .topbar-user {
+        font-size: 11px;
+        padding: 7px 10px;
+    }
+
+    .page-content {
+        padding: 14px;
+    }
+
+    .hero-card,
+    .content-card,
+    .card,
+    .compact-card,
+    .compact-hero {
+        padding: 14px;
+        border-radius: 14px;
+    }
+
+    .hero-card h2,
+    .content-card h2,
+    .card h2 {
+        font-size: 16px;
+    }
+
+    .hero-card p,
+    .content-card p,
+    .card p {
+        font-size: 11px;
+    }
+
+    .kpi-grid,
+    .metrics-grid,
+    .grid,
+    .action-grid,
+    .details-grid,
+    .graph-grid-compact {
+        grid-template-columns: 1fr;
+        gap: 12px;
+    }
+
+    .kpi-card,
+    .metric-card,
+    .action-card,
+    .kpi,
+    .detail-item,
+    .graph-card-compact {
+        padding: 14px;
+    }
+
+    .kpi-value,
+    .metric-value,
+    .kpi p {
+        font-size: 16px;
+    }
+
+    .kpi-label,
+    .metric-label,
+    .detail-label {
+        font-size: 10px;
+    }
+
+    .detail-value {
+        font-size: 12px;
     }
 
     .graph-image-wrap {
-        height: 200px;
+        height: 180px;
+    }
+
+    .graph-card-header {
+        align-items: flex-start;
+        flex-direction: column;
     }
 
     .graph-card-header h3 {
         font-size: 12px;
+    }
+
+    .graph-tag {
+        font-size: 10px;
+        height: 22px;
+    }
+
+    th,
+    td {
+        font-size: 11px;
+        padding: 10px 8px;
+        white-space: nowrap;
+    }
+
+    form {
+        max-width: 100%;
+    }
+
+    input,
+    select,
+    textarea,
+    button,
+    .primary-btn {
+        font-size: 11px;
+    }
+}
+
+/* Small phones */
+@media (max-width: 480px) {
+    .sidebar-nav {
+        grid-template-columns: 1fr;
+    }
+
+    .topbar-title {
+        font-size: 16px;
+    }
+
+    .topbar-subtitle {
+        font-size: 10px;
+    }
+
+    .brand-icon {
+        width: 34px;
+        height: 34px;
+        font-size: 14px;
+    }
+
+    .graph-image-wrap {
+        height: 160px;
+    }
+
+    .kpi-value,
+    .metric-value,
+    .kpi p {
+        font-size: 15px;
     }
 }
