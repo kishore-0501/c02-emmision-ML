@@ -1,0 +1,14 @@
+services:
+  web:
+    build: .
+    container_name: supplytrack_web
+    env_file:
+      - .env.prod
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./staticfiles:/app/staticfiles
+      - ./media:/app/media
+      - ./ml_artifacts:/app/ml_artifacts
+      - ./db.sqlite3:/app/db.sqlite3
