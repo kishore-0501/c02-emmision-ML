@@ -5,6 +5,7 @@
 html,
 body {
     margin: 0;
+    padding: 0;
     max-width: 100%;
     overflow-x: hidden;
 }
@@ -24,6 +25,7 @@ a {
 img {
     max-width: 100%;
     height: auto;
+    display: block;
 }
 
 .app-shell {
@@ -31,6 +33,9 @@ img {
     min-height: 100vh;
 }
 
+/* =========================
+   SIDEBAR - DESKTOP
+========================= */
 .sidebar {
     width: 240px;
     background: #081633;
@@ -38,13 +43,14 @@ img {
     padding: 20px 16px;
     display: flex;
     flex-direction: column;
+    flex-shrink: 0;
 }
 
 .sidebar-brand {
     display: flex;
     align-items: center;
     gap: 12px;
-    margin-bottom: 26px;
+    margin-bottom: 24px;
 }
 
 .brand-icon {
@@ -58,12 +64,14 @@ img {
     justify-content: center;
     font-weight: 700;
     font-size: 17px;
+    flex-shrink: 0;
 }
 
 .sidebar-brand h2 {
     margin: 0;
     font-size: 16px;
     font-weight: 700;
+    color: white;
 }
 
 .sidebar-brand p {
@@ -83,10 +91,10 @@ img {
     padding: 10px 12px;
     border-radius: 10px;
     color: #e2e8f0;
-    font-size: 12.5px;
+    font-size: 12px;
     font-weight: 500;
     transition: 0.2s ease;
-    word-break: break-word;
+    text-align: left;
 }
 
 .nav-link:hover {
@@ -94,17 +102,20 @@ img {
     color: white;
 }
 
+/* =========================
+   MAIN PANEL
+========================= */
 .main-panel {
     flex: 1;
+    min-width: 0;
     display: flex;
     flex-direction: column;
-    min-width: 0;
 }
 
 .topbar {
     background: white;
     border-bottom: 1px solid #e5e7eb;
-    padding: 18px 26px;
+    padding: 18px 24px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -116,12 +127,14 @@ img {
     font-size: 24px;
     font-weight: 800;
     color: #0f172a;
+    line-height: 1.2;
 }
 
 .topbar-subtitle {
     margin: 4px 0 0;
     color: #6b7280;
     font-size: 12px;
+    line-height: 1.4;
 }
 
 .topbar-user {
@@ -131,13 +144,17 @@ img {
     padding: 8px 13px;
     font-weight: 600;
     font-size: 12px;
+    white-space: nowrap;
 }
 
 .page-content {
-    padding: 22px 26px;
+    padding: 22px 24px;
     min-width: 0;
 }
 
+/* =========================
+   CARDS / CONTENT
+========================= */
 .hero-card,
 .content-card,
 .card {
@@ -150,7 +167,7 @@ img {
 
 .compact-hero,
 .compact-card {
-    padding: 20px;
+    padding: 18px;
 }
 
 .hero-card h2,
@@ -178,10 +195,15 @@ img {
     font-size: 17px;
 }
 
+/* =========================
+   GRIDS
+========================= */
 .kpi-grid,
 .metrics-grid,
 .action-grid,
-.grid {
+.grid,
+.details-grid,
+.graph-grid-compact {
     display: grid;
     gap: 16px;
 }
@@ -199,24 +221,36 @@ img {
     grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
+.details-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.graph-grid-compact {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
 .compact-grid {
     margin-bottom: 20px;
 }
 
+/* =========================
+   BOXES
+========================= */
 .kpi-card,
 .metric-card,
 .action-card,
-.kpi {
+.kpi,
+.detail-item,
+.graph-card-compact {
     background: #f8fafc;
     border: 1px solid #e5e7eb;
     border-radius: 14px;
-    padding: 18px;
-    transition: 0.2s ease;
+    padding: 16px;
     min-width: 0;
 }
 
 .compact-kpi {
-    padding: 16px;
+    padding: 14px;
 }
 
 .action-card:hover {
@@ -226,12 +260,13 @@ img {
 }
 
 .kpi-label,
-.metric-label {
+.metric-label,
+.detail-label {
     display: block;
     font-size: 11px;
     font-weight: 600;
     color: #64748b;
-    margin-bottom: 10px;
+    margin-bottom: 8px;
 }
 
 .kpi-value,
@@ -245,7 +280,7 @@ img {
 }
 
 .kpi h3 {
-    margin: 0 0 10px;
+    margin: 0 0 8px;
     font-size: 11px;
     color: #64748b;
     font-weight: 600;
@@ -264,11 +299,32 @@ img {
     line-height: 1.5;
 }
 
+.detail-item {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+.detail-item-wide {
+    grid-column: span 2;
+}
+
+.detail-value {
+    font-size: 13px;
+    font-weight: 600;
+    color: #111827;
+    word-break: break-word;
+}
+
 .hero-actions {
     margin-top: 14px;
 }
 
-.primary-btn {
+/* =========================
+   BUTTONS / FORMS
+========================= */
+.primary-btn,
+button {
     display: inline-block;
     background: #0f172a;
     color: white;
@@ -278,9 +334,11 @@ img {
     font-size: 12px;
     font-weight: 600;
     transition: 0.2s ease;
+    cursor: pointer;
 }
 
-.primary-btn:hover {
+.primary-btn:hover,
+button:hover {
     background: #1e293b;
 }
 
@@ -319,22 +377,9 @@ textarea:focus {
     box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
 }
 
-button {
-    background: #0f172a;
-    color: white;
-    border: none;
-    padding: 10px 14px;
-    border-radius: 10px;
-    font-size: 12px;
-    font-weight: 600;
-    cursor: pointer;
-    transition: 0.2s ease;
-}
-
-button:hover {
-    background: #1e293b;
-}
-
+/* =========================
+   TABLES
+========================= */
 .table-wrap {
     width: 100%;
     overflow-x: auto;
@@ -346,6 +391,7 @@ table {
     width: 100%;
     border-collapse: collapse;
     background: white;
+    min-width: 700px;
 }
 
 th,
@@ -369,7 +415,7 @@ td {
 
 .compact-table th,
 .compact-table td {
-    padding: 11px 10px;
+    padding: 10px 9px;
 }
 
 .table-link {
@@ -388,6 +434,9 @@ td {
     padding: 20px;
 }
 
+/* =========================
+   STATUS
+========================= */
 .status-pill {
     display: inline-flex;
     align-items: center;
@@ -395,6 +444,7 @@ td {
     border-radius: 999px;
     font-size: 11px;
     font-weight: 700;
+    white-space: nowrap;
 }
 
 .status-low {
@@ -412,58 +462,9 @@ td {
     color: #b91c1c;
 }
 
-.details-grid {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 14px;
-}
-
-.detail-item {
-    background: #f8fafc;
-    border: 1px solid #e5e7eb;
-    border-radius: 14px;
-    padding: 14px;
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
-    min-width: 0;
-}
-
-.detail-item-wide {
-    grid-column: span 2;
-}
-
-.detail-label {
-    font-size: 11px;
-    font-weight: 700;
-    color: #64748b;
-}
-
-.detail-value {
-    font-size: 13px;
-    font-weight: 600;
-    color: #111827;
-    word-break: break-word;
-}
-
-/* Graphs */
-.graph-grid-compact {
-    display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 18px;
-}
-
-.graph-card-compact {
-    background: #f8fafc;
-    border: 1px solid #e5e7eb;
-    border-radius: 14px;
-    padding: 14px;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    min-width: 0;
-}
-
+/* =========================
+   GRAPHS
+========================= */
 .graph-card-header {
     display: flex;
     align-items: center;
@@ -491,11 +492,12 @@ td {
     font-size: 11px;
     font-weight: 700;
     padding: 0 8px;
+    flex-shrink: 0;
 }
 
 .graph-image-wrap {
     width: 100%;
-    height: 260px;
+    height: 240px;
     overflow: hidden;
     border-radius: 10px;
     border: 1px solid #dbe3ee;
@@ -509,7 +511,6 @@ td {
     width: 100%;
     height: 100%;
     object-fit: contain;
-    display: block;
 }
 
 .graph-filename {
@@ -519,7 +520,9 @@ td {
     word-break: break-word;
 }
 
-/* Tablet */
+/* =========================
+   TABLET
+========================= */
 @media (max-width: 1100px) {
     .kpi-grid,
     .metrics-grid,
@@ -542,7 +545,9 @@ td {
     }
 }
 
-/* Mobile */
+/* =========================
+   MOBILE
+========================= */
 @media (max-width: 768px) {
     .app-shell {
         flex-direction: column;
@@ -550,15 +555,17 @@ td {
 
     .sidebar {
         width: 100%;
-        padding: 14px 12px;
+        padding: 12px;
+        border-bottom-left-radius: 14px;
+        border-bottom-right-radius: 14px;
     }
 
     .sidebar-brand {
-        margin-bottom: 14px;
+        margin-bottom: 12px;
     }
 
     .sidebar-brand h2 {
-        font-size: 15px;
+        font-size: 14px;
     }
 
     .sidebar-brand p {
@@ -586,12 +593,10 @@ td {
 
     .topbar-title {
         font-size: 18px;
-        line-height: 1.3;
     }
 
     .topbar-subtitle {
         font-size: 11px;
-        line-height: 1.4;
     }
 
     .topbar-user {
@@ -664,8 +669,8 @@ td {
     }
 
     .graph-card-header {
-        align-items: flex-start;
         flex-direction: column;
+        align-items: flex-start;
     }
 
     .graph-card-header h3 {
@@ -697,7 +702,9 @@ td {
     }
 }
 
-/* Small phones */
+/* =========================
+   SMALL PHONES
+========================= */
 @media (max-width: 480px) {
     .sidebar-nav {
         grid-template-columns: 1fr;
@@ -725,5 +732,10 @@ td {
     .metric-value,
     .kpi p {
         font-size: 15px;
+    }
+
+    .topbar-user {
+        width: 100%;
+        text-align: center;
     }
 }
